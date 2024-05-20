@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Atul Anurag</title>
+    <link>http://localhost:3488/event/</link>
+      <atom:link href="http://localhost:3488/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:3488/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:3488/event/</link>
+    </image>
+    
+    <item>
+      <title>The Phase Space of the Three-Vortex Problem</title>
+      <link>http://localhost:3488/talk/the-phase-space-of-the-three-vortex-problem/</link>
+      <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
+      <guid>http://localhost:3488/talk/the-phase-space-of-the-three-vortex-problem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

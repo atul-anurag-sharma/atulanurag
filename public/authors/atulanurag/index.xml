@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atulanurag | Atul Anurag</title>
+    <link>http://localhost:4236/authors/atulanurag/</link>
+      <atom:link href="http://localhost:4236/authors/atulanurag/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atulanurag</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4236/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Atulanurag</title>
+      <link>http://localhost:4236/authors/atulanurag/</link>
+    </image>
+    
+    <item>
+      <title>Atul Anurag</title>
+      <link>http://localhost:4236/authors/admin/</link>
+      <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
+      <guid>http://localhost:4236/authors/admin/</guid>
+      <description>&lt;p&gt;I obtained a Bachelor’s degree in mathematics from &lt;a href=&#34;https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics
+&#34;&gt; Ramjas College, University of Delhi&lt;/a&gt;, and a Master’s degree in applied mathematics from &lt;a href=&#34;https://www.nitw.ac.in/math&#34;&gt; NIT-WARANGAL, Telangana&lt;/a&gt;. I am currently a fifth-year Ph.D. Mathematics Candidate in the mathematics department at the &lt;a href=&#34;https://math.njit.edu&#34;&gt; Department of Mathematical Sciences, New Jersey Institute of Technology.&lt;/a&gt;  My advisor here is &lt;a href=&#34;https://roygoodman.net&#34;&gt; Dr. Roy Goodman&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

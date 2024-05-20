@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roy-Goodman | Atul</title>
+    <link>http://localhost:3488/author/roy-goodman/</link>
+      <atom:link href="http://localhost:3488/author/roy-goodman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roy-Goodman</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 21:56:21 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:3488/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Roy-Goodman</title>
+      <link>http://localhost:3488/author/roy-goodman/</link>
+    </image>
+    
+    <item>
+      <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
+      <link>http://localhost:3488/publication/vortex-dipole/</link>
+      <pubDate>Sun, 17 Mar 2024 21:56:21 -0400</pubDate>
+      <guid>http://localhost:3488/publication/vortex-dipole/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
