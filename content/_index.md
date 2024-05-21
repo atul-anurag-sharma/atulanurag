@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 6rem
+  spacing: 4rem
 sections:
 - block: resume-biography-3
   content:
@@ -20,7 +20,7 @@ sections:
         parallax: false
         position: center
         size: cover
-    css_class: dark
+    css_class: light
 - block: markdown
   content:
     subtitle: ""
@@ -36,7 +36,7 @@ sections:
       - publication
     title: Featured Publications
   design:
-    columns: 2
+    columns: 4
     view: article-grid
   id: papers
 - block: collection
