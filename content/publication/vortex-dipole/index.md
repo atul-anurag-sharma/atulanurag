@@ -24,17 +24,10 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We use Jacobi coordinates and Nambu brackets to derive a new representation of the motion of three vortices which, unlinke all previous reductions, introduces no singularities into the system. We use this to study the scattering of dipoles by stationary vortices."
 
-tags: ["Vortices"]
 categories: ["published"]
 featured: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+
 links:
   - name: arXiv
     url: "https://arxiv.org/abs/2403.10383"
