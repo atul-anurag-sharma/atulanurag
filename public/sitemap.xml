@@ -2,115 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4236/tag/-talks/</loc>
+    <loc>http://localhost:3488/tag/-talks/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/admin/</loc>
+    <loc>http://localhost:3488/authors/admin/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/atulanurag/</loc>
+    <loc>http://localhost:3488/authors/atulanurag/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/</loc>
+    <loc>http://localhost:3488/authors/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/events/</loc>
+    <loc>http://localhost:3488/events/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/tags/</loc>
+    <loc>http://localhost:3488/tags/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/tag/talks/</loc>
+    <loc>http://localhost:3488/tag/talks/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/events/siam-conference-on-nonlinear-waves-and-coherent/</loc>
+    <loc>http://localhost:3488/events/siam-conference-on-nonlinear-waves-and-coherent/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/publication-type/3/</loc>
+    <loc>http://localhost:3488/publication-type/3/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/publication/vortex-dipole/</loc>
+    <loc>http://localhost:3488/publication/vortex-dipole/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/categories/</loc>
+    <loc>http://localhost:3488/categories/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/ellison-ogrady/</loc>
+    <loc>http://localhost:3488/authors/ellison-ogrady/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/name-ellison-ogrady/</loc>
+    <loc>http://localhost:3488/authors/name-ellison-ogrady/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/publication_types/</loc>
+    <loc>http://localhost:3488/publication_types/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/publication/</loc>
+    <loc>http://localhost:3488/publication/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/category/published/</loc>
+    <loc>http://localhost:3488/category/published/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/roy-goodman/</loc>
+    <loc>http://localhost:3488/authors/roy-goodman/</loc>
     <lastmod>2024-03-17T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/tag/vortices/</loc>
-    <lastmod>2024-03-17T21:56:21-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4236/post/know-thyself/</loc>
+    <loc>http://localhost:3488/post/know-thyself/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/tag/blog/</loc>
+    <loc>http://localhost:3488/tag/blog/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/</loc>
+    <loc>http://localhost:3488/post/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/how-can-i-tell-what-you-are-to-me/</loc>
+    <loc>http://localhost:3488/post/how-can-i-tell-what-you-are-to-me/</loc>
     <lastmod>2023-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/birth-day/</loc>
+    <loc>http://localhost:3488/post/birth-day/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/</loc>
+    <loc>http://localhost:3488/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/resurrection-of-love/</loc>
+    <loc>http://localhost:3488/post/resurrection-of-love/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/karma/</loc>
+    <loc>http://localhost:3488/post/karma/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/post/dont-fade-away/</loc>
+    <loc>http://localhost:3488/post/dont-fade-away/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4236/authors/name-roy-goodman/</loc>
+    <loc>http://localhost:3488/authors/name-roy-goodman/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
