@@ -42,7 +42,7 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: false
+      exclude_featured: true
       folders:
       - publication
     text: ""
