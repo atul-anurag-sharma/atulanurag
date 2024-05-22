@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: ""
 design:
   spacing: 6rem
 sections:
@@ -36,7 +36,7 @@ sections:
       - publication
     title: Featured Publications
   design:
-    columns: 2
+    columns: "1"
     view: auto
   id: papers
 - block: collection
