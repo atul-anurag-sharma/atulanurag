@@ -48,7 +48,7 @@ sections:
     text: ""
     title: Recent Publications
   design:
-    view: citation
+    view: auto
 - block: collection
   content:
     filters:
