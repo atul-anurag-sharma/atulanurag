@@ -36,7 +36,7 @@ sections:
       - publication
     title: Featured Publications
   design:
-    columns: "1"
+    columns: 2
     view: auto
   id: papers
 - block: collection
@@ -57,7 +57,7 @@ sections:
     title: Recent & Upcoming Talks
   design:
     columns: 2
-    view: article-grid
+    view: auto
   id: events
 - block: collection
   content:
