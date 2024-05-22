@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 4rem
+  spacing: 6rem
 sections:
 - block: resume-biography-3
   content:
@@ -12,7 +12,7 @@ sections:
     username: admin
   design:
     background:
-      color: black
+      color: white
       image:
         filename: stacked-peaks.svg
         filters:
