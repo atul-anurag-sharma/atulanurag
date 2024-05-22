@@ -36,7 +36,7 @@ sections:
       - publication
     title: Featured Publications
   design:
-    columns: 4
+    columns: 2
     view: article-grid
   id: papers
 - block: collection
