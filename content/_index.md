@@ -53,7 +53,7 @@ sections:
   content:
     filters:
       folders:
-      - event
+      - publication
     title: Recent & Upcoming Talks
   design:
     columns: 2
