@@ -56,9 +56,9 @@ sections:
       - event
     title: Recent & Upcoming Talks
   design:
-    columns: 1
+    columns: 2
     view: article-grid
-  id: talks
+  id: events
 - block: collection
   content:
     count: 5
