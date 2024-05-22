@@ -42,13 +42,13 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: true
+      exclude_featured: false
       folders:
       - publication
     text: ""
     title: Recent Publications
   design:
-    view: auto
+    view: citation
 - block: collection
   content:
     filters:
