@@ -85,7 +85,7 @@ sections:
       - 0
     view: date-title-summary
   id: news
-- block: cta-card
+- block: card
   content:
     button:
       text: Get Started
