@@ -14,7 +14,7 @@ sections:
     background:
       color: auto
       image:
-        filename: stacked-peaks.svg
+        filename: 
         filters:
           brightness: 0.7
         parallax: true
