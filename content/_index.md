@@ -20,7 +20,7 @@ sections:
         parallax: false
         position: center
         size: cover
-    css_class: light
+    css_class: auto
 - block: markdown
   content:
     subtitle: ""
