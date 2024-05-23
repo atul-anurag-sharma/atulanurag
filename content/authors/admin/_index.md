@@ -6,7 +6,7 @@ authors:
 - atulanurag
 
 # Role/position
-role: "Research Assistant"
+role: Research Assistant, [Department of Mathematical Sciences](https://math.njit.edu/)
 
 superuser: true
 
