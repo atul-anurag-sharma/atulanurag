@@ -1,5 +1,6 @@
 ---
 title: Blog
 view: Compact
-draft: true
+headless: false
+draft: false
 ---
