@@ -68,7 +68,7 @@ sections:
     title: Blog
   design:
     columns: 2
-    view: auto
+    view: article-grid
   id: post
 - block: card
   content:
