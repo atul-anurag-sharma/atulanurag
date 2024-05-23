@@ -14,6 +14,7 @@ superuser: true
 organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
+  
 education:
 - area: PhD Applied Mathematics
   button:
