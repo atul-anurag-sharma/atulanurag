@@ -2,11 +2,11 @@
 # Course title, summary, and position.
 title: Math 111 Calculus I
 linktitle: Math 111 
-summary: TA
+summary: Recitation leader for Calculus I (MATH 111, undergraduate) and Calculus II (MATH 112, undergraduate).
 weight: 111
 
 # Page metadata.
-date: "2021-01-06T00:00:00Z"
+date: ""
 lastmod: ""
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
