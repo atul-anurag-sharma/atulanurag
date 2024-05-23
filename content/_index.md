@@ -67,14 +67,9 @@ sections:
     text: ""
     title: Blog
   design:
-    spacing:
-      padding:
-      - 0
-      - 0
-      - 0
-      - 0
-    view: date-title-summary
-  id: news
+    columns: 2
+    view: auto
+  id: post
 - block: card
   content:
     button:
