@@ -1,5 +1,5 @@
 ---
 title: Blog
-view: article-grid
+view: card
 draft: true
 ---
