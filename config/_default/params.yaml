@@ -5,9 +5,9 @@
 
 # Appearance
 appearance:
-theme: forest
+theme: "forest"
 day_night: true
-font: minimal
+font: "minimal"
 font_size: "L"
 
 
