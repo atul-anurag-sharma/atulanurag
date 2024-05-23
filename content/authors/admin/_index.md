@@ -12,7 +12,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
+- name: "New Jersey Institute of Technology"
   url: "https://www.njit.edu"
   
 education:
