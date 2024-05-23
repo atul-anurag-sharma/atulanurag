@@ -6,7 +6,7 @@ title: Teaching
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 2
+view: 3
 
 headless: false
 draft: false
