@@ -15,5 +15,5 @@ main:
     weight: 12
   - name: Blog
     url: post/
-    weight: 13
+    weight: 20
  
