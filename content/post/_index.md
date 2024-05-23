@@ -1,6 +1,6 @@
 ---
 title: Blog
-view: Compact
+view: card
 headless: false
 draft: false
 ---
