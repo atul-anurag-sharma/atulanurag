@@ -42,16 +42,6 @@ sections:
 - block: collection
   content:
     filters:
-      featured_only: true
-      folders:
-      - teaching
-    title: Teaching
-  design:
-    columns: 2
-    view: auto
-- block: collection
-  content:
-    filters:
       folders:
       - events
     title: Recent & Upcoming Talks
