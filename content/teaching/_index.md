@@ -1,6 +1,6 @@
 ---
 title: Teaching
-view: auto
+view: article-grid
 headless: false
 draft: false
 ---
