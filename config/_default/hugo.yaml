@@ -44,7 +44,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-  teaching: 'courses/:slug'
+  teaching: 'teaching/:slug'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest ]
