@@ -42,12 +42,6 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: false
-      folders:
-      - publication
-- block: collection
-  content:
-    filters:
       folders:
       - events
     title: Recent & Upcoming Talks
