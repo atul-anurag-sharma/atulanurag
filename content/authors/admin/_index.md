@@ -43,9 +43,7 @@ interests:
 - Vortex Dynamics
 - Dynamical Systems
 
-organizations:
-- name: Department of Mathematical Sciences, NJIT
-  url: https://math.njit.edu
+
 profiles:
 - icon: "at-symbol"
   label: "E-mail Me"
