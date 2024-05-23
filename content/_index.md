@@ -34,7 +34,7 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Featured Publications
+    title: Publications
   design:
     columns: 2
     view: auto
