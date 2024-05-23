@@ -16,6 +16,6 @@ main:
   - name: Blog
     url: post/
     weight: 20
-- name: Teaching
+  - name: Teaching
     url: teaching/
     weight: 20
