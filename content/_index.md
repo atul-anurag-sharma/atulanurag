@@ -12,7 +12,7 @@ sections:
     username: admin
   design:
     background:
-      color: white
+      color: auto
       image:
         filename: stacked-peaks.svg
         filters:
