@@ -49,15 +49,20 @@ profiles:
   icon_pack: fas
   label: "E-mail Me"
   url: "mailto:aa2894@njit.edu"
+  
 - icon: brands/x
   url: https://twitter.com/atul_anurag
+  
 - icon: brands/instagram
   url: https://www.instagram.com/atul.anurag.sharma/
+  
 - icon: brands/github
   url: https://github.com/atul-anurag-sharma
+  
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/atul-anurag-290367166/
-- icon: "academicons/google-scholar"
+  
+- icon: google-scholar
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
 - icon: academicons/orcid
