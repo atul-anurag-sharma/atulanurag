@@ -45,7 +45,8 @@ interests:
 
 
 profiles:
-- icon: "at-symbol"
+- icon: envelope
+  icon_pack: fas
   label: "E-mail Me"
   url: "mailto:aa2894@njit.edu"
 - icon: brands/x
