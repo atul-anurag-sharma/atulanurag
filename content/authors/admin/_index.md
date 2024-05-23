@@ -62,7 +62,7 @@ profiles:
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/atul-anurag-290367166/
   
-- icon: google-scholar
+- icon: "academicons/google-scholar"
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
 - icon: academicons/orcid
