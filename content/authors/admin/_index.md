@@ -1,7 +1,7 @@
 ---
 title: Atul Anurag
 
-# Username (this should match the folder name)
+# Username
 authors:
 - atulanurag
 
@@ -65,6 +65,8 @@ profiles:
 - icon: "academicons/google-scholar"
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
+  
+  
 - icon: academicons/orcid
   url: https://orcid.org/my-orcid?orcid=0009-0003-6871-0703
 
