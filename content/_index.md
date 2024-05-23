@@ -16,8 +16,8 @@ sections:
       image:
         filename: stacked-peaks.svg
         filters:
-          brightness: 1
-        parallax: false
+          brightness: 0.7
+        parallax: true
         position: center
         size: cover
     css_class: auto
