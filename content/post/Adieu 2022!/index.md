@@ -17,8 +17,9 @@ I was tense about how fruitful this year will turn out for me. But, at the same 
 I was constantly in touch with him, and he told me he was doing fine. But, my anxiousness was growing exponentially. I used to walk near the park near my house to find solace. I am a self-claimed photographer and take pictures whenever I see a good view. I took a picture of the first snowfall of the year. Here it is:
 
 <p align="center">
-  <img src="https://atulanurag.netlify.app/post/adieu-2022/jan.jpg" alt="January">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/jan.jpg" alt="January" width="200">
 </p>
+
 
 
 <p align="center"><b>February</b></p> 
