@@ -25,6 +25,10 @@ I was constantly in touch with him, and he told me he was doing fine. But, my an
 <p align="center"><b>February</b></p> 
 The month of February started with Denis’s email saying: My medical problem is more complicated than I thought, and I’m undergoing a series of tests today. After a few days, I received another email from him saying: My medical problem is much more severe than I thought. He added, you have been outstanding students even for the short time we’ve been together, and I wish you all the best. Now, I was concerned. Four days later, I received another email from him saying: I am so happy to have you as my student, but I can not advise you because I need to get an operation, which will follow by two months of bed rest. He added you have never disappointed me as a student, and you will not if you choose a new advisor. After this email, I tried to reach out to him, but all efforts were in vain. I was in shock. Though I am not religious, I visited the temple for the well-being of my advisor. The picture of the temple I visited in New Jersey:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/feb.jpg" alt="February" width="200">
+</p>
+
 <p align="center"><b>March</b></p> 
 In March, the weather is pleasant to do all the outdoor activities. I play cricket when I am stressed, and yes, this time, I was worried because of things that happened in the last couple of months. While playing cricket, I broke my right leg right before spring break. But, my pain never took over my spirit. I was going to school for my teaching duties. While I was home, I cooked for myself. I cleaned the whole apartment alone- nobody helped me. My body’s inner strength healed me, both mentally and physically. Also, we all got a response to the card we sent to Denis for his speedy recovery. He said; the card brought tears to his eyes, and he misses all of us. In the midst, I found a moment to astray my thoughts. My school’s Indian association for students gave me a chance to celebrate an Indian festival called Holi. Holi is the Festival of colors. Here is a picture from the celebration:
 
