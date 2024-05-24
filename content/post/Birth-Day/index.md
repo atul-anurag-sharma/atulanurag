@@ -27,14 +27,12 @@ I was born a tabula rasa, but my life experiences have helped me become the pers
 
 The life-changing quote in my life this year was by the great Chinese philosopher: Lao Tzu. The quote is:
 
-<p style="text-align:center; font-weight:bold;">
+**<div style="text-align:center;">**
+**If you are depressed, you are living in the past.**  
+**If you are anxious, you are living in the future.**  
+**If you are at peace, you are living in the present.**  
+**</div>**
 
-“If you are depressed, you are living in the past. 
-
-If you are anxious, you are living in the future. 
-
-If you are at peace, you are living in the present.”
-</p>
 
 
 Indeed, today I am at peace. I am only reminiscing the evanescence of life. I have petered out my pompousness. With my exquisite tenderness of mental awareness, I vow to open a door of ecstasy to everyone. I bow down in reverence to everyone and wish them the best year ahead. Thank you all for being part of my life.
