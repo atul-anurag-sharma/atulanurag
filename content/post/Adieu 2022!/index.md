@@ -41,8 +41,18 @@ By the month’s end, I realized I was on my own now, and nothing could shake me
 <p align="center"><b>April</b></p>
 I decided to switch to a new advisor after three years in my Ph.D. program. I was starting my Ph.D. from scratch. I was worried, but not as much as I was concerned about Denis. Now, I started working on a completely different project. But, my new advisor, Professor Roy Goodman, made everything easy. He is the mentor I was looking for in this challenging time. Everything was going smoothly; I was improving in every way. I was becoming more informed about things. Then on April 28th, I heard the news that Denis had passed away. I was devastated. I didn’t know how I should react. But, again, Roy rescued me from this time. Most of the month went into wrapping up the semester. One time I got a chance to visit a café (called Intrinsic Café) near my school for the very first time in three years. Here is the picture:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/april.jpg" alt="April" width="500">
+</p>
+
+
 <p align="center"><b>May</b></p>
 Spring had turned into Summer. But it was a Fall season for me, Dark and Gloomy. Now, I was recovering from two things: Denis’s death and my broken leg. Meanwhile, in India, things were not good with my family. Everything seemed to be falling apart. I wanted to leave everything behind and wanted to go back to India. But my parents and the family I have made here in the US eased everything for me. My friends, Nick and David, used to come every day to check on me to see if I was doing fine, and I will always be indebted to their friendship. In the department of mathematics at my school, we organize an Annual Conference on Frontiers in Applied and Computational Mathematics (FACM’22). I was one of the volunteers for the conference. I made a lot of good friends from different universities. On the last day of the meeting, we all celebrated our success. Here is the picture:
+
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/facm.jpg" alt="May" width="500">
+</p>
+ I had a balanced month in May 2022.
 
 
 <p align="center"><b>June</b></p>
