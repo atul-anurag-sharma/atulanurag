@@ -9,7 +9,10 @@ weight: 200
 ---
 ## Course Description
 
- 
+ My solutions to the previous exams on Calculus I can be found here:[Calculus I](/teching/MATH 111/past exams/past exams.pdf)
+
+
+
 
 ## Learning Objectives
 
