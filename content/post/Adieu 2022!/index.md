@@ -58,9 +58,16 @@ Spring had turned into Summer. But it was a Fall season for me, Dark and Gloomy.
 <p align="center"><b>June</b></p>
 I had recovered physically, but mentally. I was feeling better. The process of healing teaches you everything. The best way to deal with any situation is to face it. I was facing everything that was in my way and was gaining more and more strength. The world can not exist without dualities. We can only define what is wrong with right already existing and vice-versa. And so, the power I was gaining was for some reason. Something was coming where I needed to use that strength. On June 25th, I lost my dog. I won’t express how I felt; the readers know the feeling. The last picture of my dog that I took back in India:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/dog.jpg" alt="June" width="500">
+</p>
 
 <p align="center"><b>July</b></p>
 On the 4th of July, I went out with my friends to celebrate the USA independence day and see the fireworks. Here is the picture I took:
+
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/july.png" alt="July" width="500">
+</p>
 
 On July 15th, I joined a summer teaching program at my school to keep myself diverted from the things that had already happened in my life. I feel relaxed when I teach. I was feeling happy because of the interaction with different kinds of students. But, the thing is, I can’t keep myself out of trouble. I broke the same leg again- this time, with four hair-line fractures. The doctor put me in a gigantic boot. I was in an ever-ending loop of troubles again.
 
@@ -78,11 +85,18 @@ As I was in bed again, I got into the hobby of reading. I read a total of five b
 
 As soon as I got the strength to stand on my feet again, I went out with my friends. The place is called Greenroom, located in Harrison, New Jersey. This place can make a corpse alive, all credit to the amiable bartenders. Here is a picture of my friends (David and Nick) and me with a few staff members (Jules and Sam ) of the Greenroom.
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/aug.jpg" alt="August" width="500">
+</p>
+
 
 <p align="center"><b>September</b></p>
 On September 5th, I started my final semester of the year. I knew that I was lagging behind in my Ph.D. My friends, who started with me in 2019, had already defended their Ph.D. thesis proposal. And here I was, starting everything fresh. My advisor is a gem. He helped me with everything. I started learning about new things I hadn’t seen before; that’s how research works. The best thing about my advisor is that he genuinely wants the person to understand. I had started getting my pace back.
 Meanwhile, I actively started participating in UCAN (United Council of Academics @NJIT), which works for the rights of research students and adjuncts at my school. At a UCAN event, I clicked a picture with Brian (President, UCAN). Here is the picture: Brian (left) and me (right).
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/sep.jpg" alt="September" width="500">
+</p>
 
 In general, the month of September was full of positivity.
 
@@ -90,25 +104,44 @@ In general, the month of September was full of positivity.
 <p align="center"><b>October</b></p>
 The month is full of festivals. Diwali is the biggest festival in India, followed by Halloween. Diwali is the festival of lights. In 2022, India celebrated Diwali on October 24th. I went with my friends to an Indian street in Jersey City to celebrate Diwali. Here is the picture from the Diwali celebration:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/oct.jpg" alt="October" width="500">
+</p>
 
 
 On October 31st, I celebrated Halloween with my friends. Here is the picture of me (pumpkin) with my friend (Nick):
 
-
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/hallow.jpg" alt="Halloween" width="500">
+</p>
 
 <p align="center"><b>November</b></p>
 November is a month full of birthdays. On November 3rd, one of my cousins celebrated his birthday in India. On November 5th, my other cousin celebrated her birthday in India. On November 7th, my aunt celebrated her birthday. On November 10th, my sister celebrated her birthday. On November 14th, my uncles (14 years of age difference) celebrated their birthdays. On November 22nd, I celebrated my 28th birthday. On my birthday, I started my day by announcing that I would offer everyone free mathematics (undergraduate/graduate) tutoring for my birthday. Later, I went with my friends to an Indian restaurant to celebrate the occasion. The day was absolute pandemonium. Here is the picture from my birthday celebration:
 
-
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/nov.jpg" alt="Birthday" width="500">
+</p>
 
 <p align="center"><b>December</b></p>
 The month of December started poorly. On December 2nd, I received a phone from my father telling me about the passing away of my maternal grandfather. It was a significant loss in my life. A void was created in my life again. I was on phone calls for hours with my parents to know how are they doing. I wanted to visit India and see my parents. But, I had a few deadlines for my Ph.D. that hindered me from going. I am glad they have healed from their loss, and I have successfully submitted my Ph.D. thesis proposal, which I will defend on January 11th, 2023. I am excited about it.
 
 On December 14th, Jules, at the Greenroom, sketched my fat version, which I love. I am overeating to look like this. Look at the picture below:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/fat.jpg" alt="Fat" width="500">
+</p>
+
 On December 25th, I celebrated Christmas in China Town in New York; while walking on the streets, I clicked on a beautiful picture. Here is the picture:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/chinatown.jpg" alt="china" width="500">
+</p>
+
 I took another picture while walking on the streets of New York City.
+
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/december.jpg" alt="December" width="500">
+</p>
 
 I learned much from the year 2022. Though it was a year of losses; but, I have no complaints. I plan to cultivate the art of [freudenfreude](https://www.nytimes.com/2022/11/25/well/mind/schadenfreude-freudenfreude.html) in 2023. I hope you all enjoyed reading my article. Thank you for patiently reading my article. I wish you all a Happy New Year 2023. Let’s keep the past in the past and start living in the present.
 
