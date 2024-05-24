@@ -14,5 +14,3 @@ weight: 200
 
 
 
-## Learning Objectives
-
