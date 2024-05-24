@@ -16,6 +16,11 @@ I was tense about how fruitful this year will turn out for me. But, at the same 
 
 I was constantly in touch with him, and he told me he was doing fine. But, my anxiousness was growing exponentially. I used to walk near the park near my house to find solace. I am a self-claimed photographer and take pictures whenever I see a good view. I took a picture of the first snowfall of the year. Here it is:
 
+<p align="center">
+  <img src="https://example.com/jan.jpg" alt="January">
+</p>
+
+
 <p align="center"><b>February</b></p> 
 The month of February started with Denis’s email saying: My medical problem is more complicated than I thought, and I’m undergoing a series of tests today. After a few days, I received another email from him saying: My medical problem is much more severe than I thought. He added, you have been outstanding students even for the short time we’ve been together, and I wish you all the best. Now, I was concerned. Four days later, I received another email from him saying: I am so happy to have you as my student, but I can not advise you because I need to get an operation, which will follow by two months of bed rest. He added you have never disappointed me as a student, and you will not if you choose a new advisor. After this email, I tried to reach out to him, but all efforts were in vain. I was in shock. Though I am not religious, I visited the temple for the well-being of my advisor. The picture of the temple I visited in New Jersey:
 
