@@ -11,9 +11,11 @@ title: "Birthday"
 ---
 On November 22, 2022: I am turning twenty-eight.My birthday has no importance without quoting a Sanskrit Shloka,
 
-सर्वतीर्थमयी माता सर्वदेवमयः पिता |
+**<div style="text-align:center;">**
+**सर्वतीर्थमयी माता सर्वदेवमयः पिता |**  
+**मातरं पितरं तस्मात् सर्वयत्**  
+**</div>**
 
-मातरं पितरं तस्मात् सर्वयत्नेन पूजयेत् ||
 
 The gist of the Shloka is:
 
