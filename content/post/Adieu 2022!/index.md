@@ -35,6 +35,8 @@ In March, the weather is pleasant to do all the outdoor activities. I play crick
 <p align="center">
   <img src="https://atulanurag.netlify.app/post/adieu-2022/march.jpg" alt="March" width="500">
 </p>
+By the month’s end, I realized I was on my own now, and nothing could shake me.
+
 
 <p align="center"><b>April</b></p>
 I decided to switch to a new advisor after three years in my Ph.D. program. I was starting my Ph.D. from scratch. I was worried, but not as much as I was concerned about Denis. Now, I started working on a completely different project. But, my new advisor, Professor Roy Goodman, made everything easy. He is the mentor I was looking for in this challenging time. Everything was going smoothly; I was improving in every way. I was becoming more informed about things. Then on April 28th, I heard the news that Denis had passed away. I was devastated. I didn’t know how I should react. But, again, Roy rescued me from this time. Most of the month went into wrapping up the semester. One time I got a chance to visit a café (called Intrinsic Café) near my school for the very first time in three years. Here is the picture:
