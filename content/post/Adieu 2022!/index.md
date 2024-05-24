@@ -32,6 +32,10 @@ The month of February started with Denis’s email saying: My medical problem is
 <p align="center"><b>March</b></p> 
 In March, the weather is pleasant to do all the outdoor activities. I play cricket when I am stressed, and yes, this time, I was worried because of things that happened in the last couple of months. While playing cricket, I broke my right leg right before spring break. But, my pain never took over my spirit. I was going to school for my teaching duties. While I was home, I cooked for myself. I cleaned the whole apartment alone- nobody helped me. My body’s inner strength healed me, both mentally and physically. Also, we all got a response to the card we sent to Denis for his speedy recovery. He said; the card brought tears to his eyes, and he misses all of us. In the midst, I found a moment to astray my thoughts. My school’s Indian association for students gave me a chance to celebrate an Indian festival called Holi. Holi is the Festival of colors. Here is a picture from the celebration:
 
+<p align="center">
+  <img src="https://atulanurag.netlify.app/post/adieu-2022/march.jpg" alt="March" width="500">
+</p>
+
 <p align="center"><b>April</b></p>
 I decided to switch to a new advisor after three years in my Ph.D. program. I was starting my Ph.D. from scratch. I was worried, but not as much as I was concerned about Denis. Now, I started working on a completely different project. But, my new advisor, Professor Roy Goodman, made everything easy. He is the mentor I was looking for in this challenging time. Everything was going smoothly; I was improving in every way. I was becoming more informed about things. Then on April 28th, I heard the news that Denis had passed away. I was devastated. I didn’t know how I should react. But, again, Roy rescued me from this time. Most of the month went into wrapping up the semester. One time I got a chance to visit a café (called Intrinsic Café) near my school for the very first time in three years. Here is the picture:
 
