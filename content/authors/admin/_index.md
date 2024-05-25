@@ -19,7 +19,7 @@ education:
 - area: PhD Applied Mathematics
   button:
     text: Read Thesis
-    url: https://example.com
+    url: ""
   date_end: ""
   date_start: "2019-08-01"
   institution: New Jersey Institute of Technology
