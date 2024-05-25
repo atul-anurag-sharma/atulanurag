@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:3488/teaching/math-111/past-exams/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:3488/</loc>
     <lastmod>2024-06-24T09:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,6 +93,10 @@
     <lastmod>2023-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:3488/post/adieu-2022/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:3488/post/birth-day/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,7 +113,16 @@
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:3488/teaching/math-111/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:3488/teaching/math-112/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:3488/authors/name-roy-goodman/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:3488/tag/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:3488/teaching/</loc>
