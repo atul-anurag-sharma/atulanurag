@@ -26,8 +26,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
-
 - block: markdown
   content:
     subtitle: ""
