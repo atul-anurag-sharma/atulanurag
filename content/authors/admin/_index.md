@@ -1,6 +1,10 @@
 ---
 title: Atul Anurag
 
+# Username (this should match the folder name)
+authors:
+- admin
+
 # Role/position
 role: Research Assistant, [Department of Mathematical Sciences](https://math.njit.edu/)
 
