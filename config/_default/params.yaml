@@ -30,16 +30,15 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: false
-    show_language: false
-    show_day_night: false
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
+    logo:
+      text: "Atul Anurag"
 
 # Site footer
 footer:
