@@ -16,7 +16,7 @@ sections:
       background:
         color: auto
         image:
-          filename: 
+          filename: icon.png
           filters:
             brightness: auto
           size: cover
