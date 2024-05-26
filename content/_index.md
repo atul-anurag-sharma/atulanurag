@@ -2,25 +2,36 @@
 date: ""
 design:
   spacing: 6rem
+
+
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-- block: resume-biography-3
-  content:
-    button:
-      text: Download CV
-      link: themes/theme-academic-cv/static/uploads/resume.pdf
-    text: ""
-    username: admin
-  design:
-    background:
-      color: auto
-      image:
-        filename: 
-        filters:
-          brightness: 0.7
-        parallax: true
-        position: center
-        size: cover
-    css_class: auto
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+
+
 - block: markdown
   content:
     subtitle: ""
