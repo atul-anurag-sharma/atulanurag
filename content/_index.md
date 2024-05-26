@@ -14,7 +14,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: auto
         image:
           filename: 
           filters:
