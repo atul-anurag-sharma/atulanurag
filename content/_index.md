@@ -18,7 +18,7 @@ sections:
         image:
           filename: 
           filters:
-            brightness: 1.0
+            brightness: auto
           size: cover
           position: center
           parallax: false
