@@ -1,7 +1,8 @@
 ---
-date: ""
-design:
-  spacing: 6rem
+
+title:
+date: 
+type: landing
 
 
 design:
