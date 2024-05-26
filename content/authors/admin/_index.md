@@ -1,10 +1,6 @@
 ---
 title: Atul Anurag
 
-# Username
-authors:
-- atulanurag
-
 # Role/position
 role: Research Assistant, [Department of Mathematical Sciences](https://math.njit.edu/)
 
