@@ -12,7 +12,7 @@ sections:
         text: Download CV
         url: files/resume.pdf
     design:
-      css_class: dark
+      css_class: auto
       background:
         color: auto
         image:
