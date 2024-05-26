@@ -4,11 +4,6 @@ title:
 date: 
 type: landing
 
-
-design:
-  # Default section spacing
-  spacing: "6rem"
-
 sections:
   - block: resume-biography-3
     content:
@@ -18,7 +13,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: files/resume.pdf
     design:
       css_class: dark
       background:
