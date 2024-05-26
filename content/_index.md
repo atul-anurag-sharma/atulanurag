@@ -53,7 +53,7 @@ sections:
   content:
     count: 5
     filters:
-      author: ""
+      author: "admin"
       category: ""
       exclude_featured: false
       exclude_future: false
