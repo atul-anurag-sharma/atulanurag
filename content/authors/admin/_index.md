@@ -10,6 +10,9 @@ role: Research Assistant, [Department of Mathematical Sciences](https://math.nji
 
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizations/Affiliations
 organizations:
 - name: New Jersey Institute of Technology
