@@ -17,6 +17,3 @@ header:
   image: ""
   
 ---
-{{% callout note %}}
-
-{{% /callout %}}
