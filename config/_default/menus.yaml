@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: /
-    weight: 40
+    weight: 10
   - name: Publications
     url: publication/
     weight: 20
