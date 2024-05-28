@@ -18,5 +18,5 @@ header:
   
 ---
 {{% callout note %}}
-Quickly discover relevant papers by filtering or searching.
+
 {{% /callout %}}
