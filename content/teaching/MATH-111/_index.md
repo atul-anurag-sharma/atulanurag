@@ -4,9 +4,7 @@ title: Math 111 Calculus I
 linktitle: Math 111 
 summary: Recitation leader for Calculus I (MATH 111, undergraduate) from Fall 2019-Spring 2022.
 
-links:
-  - name: arXiv
-    url: "https://arxiv.org/abs/2403.10383"
+
 
 url_pdf:
 # Page metadata.
@@ -18,5 +16,4 @@ toc: true  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 
 - teaching
-
 ---
