@@ -25,10 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
 title: Point Vortex Dipole Scattering
-url_code: https://github.com
 url_pdf: ""
-url_slides: https://slideshare.net
-url_video: https://youtube.com
 ---
 
 
