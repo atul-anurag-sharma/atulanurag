@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
 title: Generalization of Leapfrogging Orbits of Point Vortices
-url_pdf: 
+url_slides: 
 ---
 
 
