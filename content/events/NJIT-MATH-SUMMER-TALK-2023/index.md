@@ -5,7 +5,7 @@ address:
   country: United States
   postcode: "07102"
   region: NJ
-  street: 150 Bleeker St #1982
+  street: 323 Dr Martin Luther King Jr Blvd
 all_day: false
 authors:
 - admin
@@ -15,7 +15,7 @@ event: NJIT-MATH-SUMMER-TALK-2023
 event_url: https://math.njit.edu/2023-faculty-and-student-summer-talks
 featured: true
 image:
-  caption: 'Image credit: [**SIAM**](https://math.njit.edu/2023-faculty-and-student-summer-talks)'
+  caption: 'Image credit: [**NJIT**](https://math.njit.edu/2023-faculty-and-student-summer-talks)'
   focal_point: Right
 location: NJIT Cullimore Hall
 
