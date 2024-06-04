@@ -275,5 +275,13 @@ The month of December started poorly. On December 2nd, I received a phone from m
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:3488/events/siam-nnp-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3488/events/siam-nnp-2023/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
