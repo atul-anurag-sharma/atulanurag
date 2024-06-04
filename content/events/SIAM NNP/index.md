@@ -14,7 +14,7 @@ authors:
 - admin
 date: "2023-10-20T9:30:00Z"
 date_end: "2023-10-22T9:55:00Z"
-event: SIAM NNP 2023
+event: SIAM NNP
 event_url: https://sites.google.com/view/siam-nynjpa/annual-meeting
 featured: true
 image:
