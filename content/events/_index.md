@@ -5,7 +5,7 @@ image:
   caption: ""
   filename: ""
 title: Recent & Upcoming Talks
-view: card
+view: Card
 tags:
  -Talks
 ---
