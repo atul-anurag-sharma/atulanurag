@@ -15,7 +15,7 @@ event: NJIT-MATH-SUMMER-TALK-2023
 event_url: https://math.njit.edu/2023-faculty-and-student-summer-talks
 featured: true
 image:
-  caption: 'Image credit: [**NJIT**](https://math.njit.edu/2023-faculty-and-student-summer-talks)'
+  caption: 'Image credit: [**ROY**](https://roygoodman.net)'
   focal_point: Right
 location: NJIT Cullimore Hall
 
