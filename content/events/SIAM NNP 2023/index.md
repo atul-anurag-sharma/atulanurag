@@ -1,30 +1,33 @@
 ---
-abstract:  The motion of three point-vortices in a 2D inviscid, incompressible fluid has been widely studied. Gröbli (1877) derived a closed system for the evolution of the side lengths of the triangle formed by the vortices. This system has been the basis of most studies of this problem.<br />These coordinates have a few disadvantages. First, the coordinates must satisfy the triangle inequality, so not all points in $\mathbb{R}^{3}$ are physical. Second, the system introduced non-physical singularities because collinear arrangements lie on the boundary of the triangle inequality. Third, these coordinates break the useful Hamiltonian structure and make phase-plane reasoning difficult.<br /> We introduce a coordinate system for this problem that overcomes these disadvantages using a sequence of systematic and standard reductions. We first use Jacobi coordinates, a common technique in n-body systems, and further apply a Nambu Bracket reduction. The method avoids creating non-physical singularities and makes the system's phase-space geometry and topology plain.<br /> A previous Nambu-bracket formulation based on Gröbli's reduction inherited its triangle-inequality-related disadvantages. Depending on the circulations, the phase space may be a sphere or one sheet of a two-sheeted hyperboloid. Prior attempts to classify the dynamics focused solely on the stability of the relative fixed points; this approach allows us to explain the results more clearly using the entire phase space.
+abstract:  We investigate three problems in point-vortices dynamics within a two-dimensional, inviscid, incompressible fluid. We derive a new reduction
+of a system of three vortices. The integrable reduced system has an easily visualized phase plane that illuminates the dynamics.
+We apply it to explain the scattering of the point-vortex dipole with a third vortex in two cases. We then add a fourth vortex and use the reduced dynamics of the three-vortex system as the basis for the
+perturbative study of dipole-dipole scattering.
 address:
-  city: Baltimore
+  city: Newark
   country: United States
-  postcode: "21201"
-  region: MD
-  street: 20 W Baltimore St
+  postcode: "07102"
+  region: NJ
+  street: Dr Martin Luther King Jr Blvd
 all_day: false
 authors:
 - admin
-date: "2024-06-24T9:30:00Z"
-date_end: "2024-06-24T9:55:00Z"
-event: SIAM Conference on Nonlinear Waves and Coherent Structures
-event_url: https://www.siam.org/conferences/cm/conference/nwcs24
+date: "2023-10-20T9:30:00Z"
+date_end: "2023-10-22T9:55:00Z"
+event: SIAM-NNP
+event_url: https://sites.google.com/view/siam-nynjpa/annual-meeting
 featured: true
 image:
   caption: 'Image credit: [**SIAM**](https://www.siam.org/conferences/cm/conference/nwcs24)'
   focal_point: Right
-location: Lord Baltimore Hotel
+location: NJIT Campus Center
 
 projects:
 - events
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
-title: The Phase Space of the Three-Vortex Problem
+title: Point Vortex Dipole Scattering
 url_code: https://github.com
 url_pdf: ""
 url_slides: https://slideshare.net
