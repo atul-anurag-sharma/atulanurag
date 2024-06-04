@@ -24,7 +24,7 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
-title: The Phase Space of the Three-Vortex Problem
+title: Point Vortex Dipole Scattering
 url_code: https://github.com
 url_pdf: ""
 url_slides: https://slideshare.net
