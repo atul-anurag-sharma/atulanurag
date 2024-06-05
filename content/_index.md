@@ -51,7 +51,7 @@ sections:
       title: Recent & Upcoming Talks
     design:
       columns: 2
-      view: article-grid
+      view: card
     id: events
 
   - block: collection
