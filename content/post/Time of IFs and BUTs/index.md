@@ -4,7 +4,7 @@ authors:
 date: "2024-06-05"
 image:
   caption: 'Image credit: [resanskrit](https://resanskrit.com)'
-summary: Love is Eternal!
+summary: Time I am, the great destroyer of the worlds!
 tags:
 - Blog
 title: "Time of IFs and BUTs"
