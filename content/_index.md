@@ -51,7 +51,7 @@ sections:
       title: Recent & Upcoming Talks
     design:
       columns: 2
-      view: auto
+      view: article-grid
     id: events
 
   - block: collection
@@ -87,7 +87,4 @@ sections:
       card:
         css_class: bg-primary-700
         css_style: ""
-
-title: ""
-type: landing
 ---
