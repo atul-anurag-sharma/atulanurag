@@ -9,7 +9,7 @@ tags:
 - Blog
 title: "Time of IFs and BUTs"
 ---
-## TIME
+<p align="center"><b>TIME</b></p>
 
 
 ---
