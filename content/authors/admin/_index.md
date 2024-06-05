@@ -77,5 +77,5 @@ profiles:
 ---
 
 I obtained a Bachelor’s degree in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics
-"> Ramjas College, University of Delhi</a>, and a Master’s degree in applied mathematics from <a href="https://www.nitw.ac.in/math"> NIT-WARANGAL, Telangana</a>. I am currently a fifth-year Ph.D. Mathematics Candidate in the mathematics department at the <a href="https://math.njit.edu"> Department of Mathematical Sciences, New Jersey Institute of Technology.</a>  My advisor here [Dr. Roy Goodman](https://roygoodman.net)
+"> Ramjas College, University of Delhi</a>, and a Master’s degree in applied mathematics from <a href="https://www.nitw.ac.in/math"> NIT-WARANGAL, Telangana</a>. I am currently a fifth-year Ph.D. Mathematics Candidate in the mathematics department at the <a href="https://math.njit.edu"> Department of Mathematical Sciences, New Jersey Institute of Technology.</a>  My advisor here [Dr. Roy Goodman.](https://roygoodman.net)
 
