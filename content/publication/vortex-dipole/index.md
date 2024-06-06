@@ -4,7 +4,7 @@
 title: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
 authors: [admin,roy-goodman,ellison-ogrady]
 date: 2024-03-17T21:56:21-04:00
-doi: ""
+doi: "https://doi.org/10.1063/5.0208538"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-03-17T21:56:21-04:00
