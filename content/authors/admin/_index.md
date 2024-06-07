@@ -73,8 +73,7 @@ profiles:
 - icon: academicons/orcid
   url: https://orcid.org/my-orcid?orcid=0009-0003-6871-0703
 
-- icon: researchgate
-  icon_pack: ai
+- icon: brands/researchgate
   link: https://www.researchgate.net/profile/Atul_Anurag
 ---
 
