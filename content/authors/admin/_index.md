@@ -73,7 +73,9 @@ profiles:
 - icon: academicons/orcid
   url: https://orcid.org/my-orcid?orcid=0009-0003-6871-0703
 
-
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Atul_Anurag
 ---
 
 I obtained a Bachelor’s degree in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics
