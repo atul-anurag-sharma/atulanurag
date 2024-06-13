@@ -63,8 +63,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '40.7161'
-        longitude: '-74.0344'
+        latitude: ''
+        longitude: ''
 #      directions: Enter the Cullimore Hall and walk to Office 105 on Floor 1
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
