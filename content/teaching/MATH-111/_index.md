@@ -7,7 +7,7 @@ summary: Recitation leader for Calculus I (MATH 111, undergraduate) from Fall 20
 ##course description
 
 
-url_pdf:
+url_pdf:""
 # Page metadata.
 date_end: ""
 date_start: "2019-08-01"
