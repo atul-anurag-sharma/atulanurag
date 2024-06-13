@@ -42,6 +42,33 @@ sections:
       columns: 2
       view: auto
     id: papers
+    
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+#      text: |-
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # Contact (add or remove contact options as necessary)
+#      email: 'aatulanurag@gmail.com'
+#      phone: '862-237-1632'
+#      appointment_url: ''
+      address:
+        street: ' 323 Dr Martin Luther King Jr Blvd,
+        Cullimore Hall, Suite 105'
+        city: 'Newark'
+        region: NJ
+        postcode: '07102'
+        country: United States
+        country_code: US
+      coordinates:
+        latitude: '40.7161'
+        longitude: '-74.0344'
+#      directions: Enter the Cullimore Hall and walk to Office 105 on Floor 1
+#      office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
 
   - block: collection
     content:
