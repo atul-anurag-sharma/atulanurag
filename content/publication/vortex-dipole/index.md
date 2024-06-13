@@ -3,17 +3,17 @@
 
 title: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
 authors: [admin,roy-goodman,ellison-ogrady]
-date: 2024-03-17T21:56:21-04:00
+date: 2024-06-06T21:56:21-04:00
 doi: "https://doi.org/10.1063/5.0208538"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-17T21:56:21-04:00
+publishDate: 2024-06-06T21:56:21-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"

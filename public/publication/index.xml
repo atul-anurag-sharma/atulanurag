@@ -5,7 +5,7 @@
     <link>http://localhost:3488/publication/</link>
       <atom:link href="http://localhost:3488/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 21:56:21 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 21:56:21 -0400</lastBuildDate>
     <image>
       <url>http://localhost:3488/media/icon_hubf1bafbf3f9ec4fa4a86baffde4f9bf8_307632_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
       <link>http://localhost:3488/publication/vortex-dipole/</link>
-      <pubDate>Sun, 17 Mar 2024 21:56:21 -0400</pubDate>
+      <pubDate>Thu, 06 Jun 2024 21:56:21 -0400</pubDate>
       <guid>http://localhost:3488/publication/vortex-dipole/</guid>
       <description></description>
     </item>
