@@ -19,3 +19,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 20
+  - name: Contact
+    url: '#contact'
+    weight: 60
