@@ -4,7 +4,7 @@
 title: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
 authors: [admin,roy-goodman,ellison-ogrady]
 date: 2024-06-06T21:56:21-04:00
-doi: "https://doi.org/10.1063/5.0208538"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-06-06T21:56:21-04:00
@@ -33,6 +33,8 @@ links:
     url: "https://arxiv.org/abs/2403.10383"
   - name: Supplement
     url: "supplement.pdf"
+  -name: DOI  
+    url: "https://doi.org/10.1063/5.0208538"
 
 url_pdf:
 url_code:
