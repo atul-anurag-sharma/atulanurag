@@ -16,4 +16,8 @@ tags:
 
 ## Course Description
 
-My solutions to the previous exams on Calculus II can be found here: [Calculus II](CalculusII.pdf)
+My solutions to the previous exams on Calculus II can be found here: [Calculus II](CalculusII.pdf).
+
+As a recitation leader, I used to assign practice problems every week, which can be found below.<br />
+
+[Practice Set I](Problem Set I.pdf).
