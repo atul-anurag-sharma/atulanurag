@@ -18,8 +18,6 @@ organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
   
-# Short bio (displayed in user profile at end of posts)
-bio: Atul Anurag is a Research Assistant in the Department of Mathematical Sciences at the New Jersey Institute of Technology.  
   
 education:
 - area: PhD Applied Mathematics
@@ -78,6 +76,7 @@ profiles:
 
 
 ---
+
 ## About Me
 I obtained a Bachelor’s degree in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics
 "> Ramjas College, University of Delhi</a>, and a Master’s degree in applied mathematics from <a href="https://www.nitw.ac.in/math"> National Institute of Technology, Warangal, Telangana</a>. I am currently a fifth-year Ph.D. Mathematics Candidate in the mathematics department at the <a href="https://math.njit.edu"> Department of Mathematical Sciences, New Jersey Institute of Technology.</a>  My advisor here [Dr. Roy Goodman.](https://roygoodman.net)
