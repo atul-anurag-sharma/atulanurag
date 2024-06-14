@@ -33,7 +33,7 @@ links:
     url: "https://arxiv.org/abs/2403.10383"
   - name: Supplement
     url: "supplement.pdf"
-  -name: DOI  
+  - name: DOI  
     url: "https://doi.org/10.1063/5.0208538"
 
 url_pdf:
