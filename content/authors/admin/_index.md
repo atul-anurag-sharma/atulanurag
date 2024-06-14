@@ -29,7 +29,7 @@ education:
   summary: |
     Thesis TBA. Supervised by <a href="https://roygoodman.net"> Roy Goodman</a>
 
-- area: MSc (Applied Mathematics)
+- area: MSc Applied Mathematics
   date_end: "2017-07-01"
   date_start: "2015-07-01"
   institution: National Institute of Technology, Warangal, India
