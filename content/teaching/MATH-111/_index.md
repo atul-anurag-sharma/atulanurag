@@ -18,4 +18,4 @@ tags:
 
 ## Course Description
 
-My solutions to the previous exams on Calculus I can be found here:[Solutions to Previous Exams](MATH-111.pdf)
+My solutions to the previous exams on Calculus I can be found here:[Calculus I](MATH-111.pdf)
