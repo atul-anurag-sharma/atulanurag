@@ -37,14 +37,15 @@ O friend! Let’s paint our future desires bold,<br/>
 Listen to the rhythm of life, the music that never grows old.<br/>
 
 <p align="center"><b>You Are.</b></p>
-YOU ARE LOVE. THE QUALITY OF AIR I BREATHE.<br/>
-YOU ARE LOVE. THE WINGS WITH WHICH LIFE FLIES WITHOUT INTERFERENCE.<br/>
-YOU ARE LOVE. THE TIME THAT I LIVE WITHOUT PASSING.<br/>
-YOU ARE LOVE. THE SEA THAT FLOWS WITHOUT KNOWING THE PATH OF AN OCEAN.<br/>
-YOU ARE LOVE. THE REASON FOR MY AWARENESS IN MY FEARS. YOU ARE LOVE. THE PATH I WALK ON WHEN ASTRAY.<br/>
-YOU ARE LOVE. THE STRENGTH TO THE HEART THAT BEATS.<br/>
-YOU ARE LOVE. THE COMFORT IN MOMENTS OF DESPAIR.<br/>
-YOU ARE LOVE. THE OPTION I CHOOSE IN CONFUSION.<br/>
-YOU ARE LOVE. THE HABIT I FOLLOW, NOT THE HOBBY I CHANGE.
+
+You are love. The quality of air I breathe.<br/>
+You are love. The wings with which life flies without interference.<br/>
+You are love. The time that I live without passing.<br/>
+You are love. The sea that flows without knowing the path of an ocean.<br/>
+You are love. The path I walk on when astray.<br/>
+You are love. The strength to the heart that beats.<br/>
+You are love. The comfort in moments of despair.<br/>
+You are love. The option I choose in confusion.<br/>
+You are love. The habit I follow, not the hobby I change.<br/>
 
 ---
