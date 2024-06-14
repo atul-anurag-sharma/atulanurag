@@ -10,8 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Associate professor,<br />
-Department of Mathematical Sciences,<br />
+role: Associate professor,Department of Mathematical Sciences,
 New Jersey Institute of Technology.
 
 # Organizations/Affiliations
