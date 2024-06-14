@@ -1,19 +1,20 @@
+---
 # Display name
 title: "Roy Goodman"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- name: "roy-goodman"
+- Name "roy-goodman"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Professor, NJIT"
+role: Professor, NJIT
 
 # Organizations/Affiliations
 organizations:
-- name: "NJIT"
+- name: NJIT
   url: "https://roygoodman.net"
   
 # Social/Academic Networking
