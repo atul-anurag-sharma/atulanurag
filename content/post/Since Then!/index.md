@@ -39,13 +39,21 @@ Listen to the rhythm of life, the music that never grows old.<br/>
 <p align="center"><b>You Are.</b></p>
 
 You are love. The quality of air I breathe.<br/>
+
 You are love. The wings with which life flies without interference.<br/>
+
 You are love. The time that I live without passing.<br/>
+
 You are love. The sea that flows without knowing the path of an ocean.<br/>
+
 You are love. The path I walk on when astray.<br/>
+
 You are love. The strength to the heart that beats.<br/>
+
 You are love. The comfort in moments of despair.<br/>
+
 You are love. The option I choose in confusion.<br/>
+
 You are love. The habit I follow, not the hobby I change.<br/>
 
 ---
