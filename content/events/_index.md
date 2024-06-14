@@ -5,7 +5,7 @@ image:
   caption: ""
   filename: ""
 title: Recent & Upcoming Talks
-view: Compact
+view: article-grid
 tags:
  -Talks
 ---
