@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact | Atul Anurag</title>
+    <link>http://localhost:3488/contact/</link>
+      <atom:link href="http://localhost:3488/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:3488/media/icon_hubf1bafbf3f9ec4fa4a86baffde4f9bf8_307632_512x512_fill_lanczos_center_3.png</url>
+      <title>Contact</title>
+      <link>http://localhost:3488/contact/</link>
+    </image>
+    
+  </channel>
+</rss>
