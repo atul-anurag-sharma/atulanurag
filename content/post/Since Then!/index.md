@@ -7,7 +7,7 @@ image:
 summary: 
 tags:
 - Blog
-title: "Since Then!"
+title: "Since Then, You Have Been a Friend and Life!"
 ---
 Since then, the breath flowing with the winds continued but the heartbeat was lost somewhere.<br/>
 
