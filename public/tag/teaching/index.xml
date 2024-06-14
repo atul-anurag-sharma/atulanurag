@@ -6,5 +6,48 @@
       <atom:link href="http://localhost:3488/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:3488/media/icon_hubf1bafbf3f9ec4fa4a86baffde4f9bf8_307632_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:3488/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Math 112 Calculus II</title>
+      <link>http://localhost:3488/teaching/math-112/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3488/teaching/math-112/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;My solutions to the previous exams on Calculus II can be found here: &lt;a href=&#34;CalculusII.pdf&#34;&gt;Calculus II&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As a recitation leader, I used to assign practice problems every week, which can be found below.&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week I&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-I.pdf&#34;&gt;Practice Set I&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week II&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-II.pdf&#34;&gt;Practice Set II&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week III&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-III.pdf&#34;&gt;Practice Set III&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week IV&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-IV.pdf&#34;&gt;Practice Set IV&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week V&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-V.pdf&#34;&gt;Practice Set V&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week VI&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-VI.pdf&#34;&gt;Practice Set VI&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week VII&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-VII.pdf&#34;&gt;Practice Set VII&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;b&gt;Week VIII&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Problem-Set-VIII.pdf&#34;&gt;Practice Set VII&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math 111 Calculus I</title>
+      <link>http://localhost:3488/teaching/math-111/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3488/teaching/math-111/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;My solutions to the previous exams on Calculus I can be found here:&lt;a href=&#34;MATH-111.pdf&#34;&gt;Calculus I&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
