@@ -62,10 +62,6 @@
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:3488/publication-type/3/</loc>
-    <lastmod>2024-06-06T21:56:21-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:3488/publication/vortex-dipole/</loc>
     <lastmod>2024-06-06T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -75,6 +71,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:3488/authors/ellison-ogrady/</loc>
+    <lastmod>2024-06-06T21:56:21-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:3488/publication-type/journal-article/</loc>
     <lastmod>2024-06-06T21:56:21-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
