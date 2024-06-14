@@ -23,3 +23,34 @@ As a recitation leader, I used to assign practice problems every week, which can
 <p align="center"><b>Week I</b></p>
 
 [Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week II</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week III</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+
+<p align="center"><b>Week IV</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week V</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week VI</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week VII</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+<p align="center"><b>Week VIII</b></p>
+
+[Practice Set I](Problem-Set-I.pdf).
+
+
