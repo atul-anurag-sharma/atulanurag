@@ -30,7 +30,7 @@ sections:
       title: ""
     design:
       columns: "1"
-  - block: contact
+  - block: Contact
     id: contact
     content:
       title: Contact
