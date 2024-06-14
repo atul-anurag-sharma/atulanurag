@@ -18,6 +18,9 @@ organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
   
+# Short bio (displayed in user profile at end of posts)
+bio: Atul Anurag is a Research Assistant in the Department of Mathematical Sciences at the New Jersey Institute of Technology.  
+  
 education:
 - area: PhD Applied Mathematics
   button:
