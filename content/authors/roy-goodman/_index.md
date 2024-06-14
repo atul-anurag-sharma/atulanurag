@@ -9,8 +9,11 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor, NJIT
+role: Professor of Mathematics, NJIT
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +27,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:goodman@njit.edu'  
+  url: 'mailto:goodman@njit.edu'  
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
