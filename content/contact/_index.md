@@ -11,4 +11,7 @@ You can reach out via email. Here are my emails:<br />
 
 [Personal Email](mailto:aatulanurag@gmail.com)
 
+<p align="center"><b>Office Location</b></p> 
+
+
 
