@@ -21,4 +21,5 @@ My solutions to the previous exams on Calculus II can be found here: [Calculus I
 As a recitation leader, I used to assign practice problems every week, which can be found below.<br />
 
 <p align="center"><b>Week I</b></p>
+
 [Practice Set I](Problem-Set-I.pdf).
