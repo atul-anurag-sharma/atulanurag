@@ -53,7 +53,7 @@ sections:
       title: Recent & Upcoming Talks
     design:
       columns: 2
-      view: card
+      view: article-grid
     id: events
 
   - block: collection
