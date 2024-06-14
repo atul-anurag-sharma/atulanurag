@@ -11,7 +11,7 @@ role: Research Assistant, [Department of Mathematical Sciences](https://math.nji
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizations/Affiliations
 organizations:
