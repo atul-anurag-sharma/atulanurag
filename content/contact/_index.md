@@ -5,5 +5,10 @@ headless: false
 draft: false
 ---
 
-You can reach out via email. Here are my emails:
-[Work Email](mailto:aa2894@njit.edu)
+You can reach out via email. Here are my emails:<br />
+
+[Work Email](mailto:aa2894@njit.edu)<br />
+
+[Personal Email](mailto:aatulanurag@gmail.com)
+
+
