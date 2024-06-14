@@ -17,3 +17,6 @@ tags:
 ---
 
 ## Course Description
+
+My solutions to the previous exams on Calculus I can be found here:
+url_pdf: "MATH-111"
