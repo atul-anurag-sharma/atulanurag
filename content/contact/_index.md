@@ -5,4 +5,5 @@ headless: false
 draft: false
 ---
 
-Hello everyone
+You can reach out via email. Here are my emails:
+[Work Email](mailto:aa2894@njit.edu)
