@@ -30,17 +30,6 @@ sections:
       title: ""
     design:
       columns: "1"
-  - block: Contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-#      text: |-
-#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-#      email: 'dbader13@gmail.com'
-#      phone: '973-596-6340'
-#      appointment_url: 'https://calendly.com'
 
   - block: collection
     content:
