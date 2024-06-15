@@ -6,7 +6,7 @@ authors:
 - admin
 
 # Role/position
-role: Research Assistant, <a href="https://math.njit.edu/" style="text-decoration: none; color: blue;">Department of Mathematical Sciences</a>
+role: Research Assistant, [Department of Mathematical Sciences](https://math.njit.edu/)
 
 superuser: true
 
