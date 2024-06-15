@@ -7,9 +7,9 @@ draft: false
 
 You can reach out via email. Here are my emails:<br />
 
-[Work Email](mailto:aa2894@njit.edu)<br />
+<a href="mailto:aa2894@njit.edu" style="text-decoration: none; color: blue;">Work Email</a><br />
+<a href="mailto:aatulanurag@gmail.com" style="text-decoration: none; color: blue;">Personal Email</a>
 
-[Personal Email](mailto:aatulanurag@gmail.com)
 
 <p align="center"><b>Office Location</b></p> 
 
