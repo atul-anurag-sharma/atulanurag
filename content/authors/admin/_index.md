@@ -8,7 +8,6 @@ authors:
 # Role/position
 role: Research Assistant, <a href="https://math.njit.edu/" style="text-decoration: none; color: blue;">Department of Mathematical Sciences</a>
 
-
 superuser: true
 
 # Highlight the author in author lists? (true/false)
