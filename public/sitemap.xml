@@ -140,8 +140,5 @@
   </url><url>
     <loc>http://localhost:3488/contact/</loc>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:3488/authors/name-roy-goodman/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
