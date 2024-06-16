@@ -70,7 +70,7 @@ profiles:
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
   
-- icon: "custom/researchgate"  
+- icon: "academicons/researchgate"  
   icon_pack: ai
   url: https://www.researchgate.net/profile/Atul_Anurag
   
