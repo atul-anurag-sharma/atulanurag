@@ -72,7 +72,7 @@ profiles:
   
 - icon: "custom/researchgate"  
   icon_pack: ai
-  url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
+  url: https://www.researchgate.net/profile/Atul_Anurag
   
 - icon: academicons/orcid
   url: https://orcid.org/my-orcid?orcid=0009-0003-6871-0703
