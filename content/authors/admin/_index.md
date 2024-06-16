@@ -70,7 +70,7 @@ profiles:
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
   
-- icon:"custom/researchgate"  
+- icon: "custom/researchgate"  
   icon_pack: ai
   url: https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ
   
