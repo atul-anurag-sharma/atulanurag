@@ -56,4 +56,34 @@ You are love. The option I choose in confusion.<br/>
 
 You are love. The habit I follow, not the hobby I change.<br/>
 
+<h2>Who am I?</h2>
+<div class="blue">
+    <p>Neither am I anyone special, nor am I close to anyone,<br>
+    I am the belief that you cannot imagine,<br>
+    I am the feeling that you cannot attain,<br>
+    I am a flight without wings,<br>
+    I am an action without work,<br>
+    I am absorbed in front of the eyes,<br>
+    I am the next moment of tomorrow's life.<br><br>
+    Now, there's a fear of taking new turns even on easy paths of life,<br>
+    There's a fear of being unknown even after meeting familiar people,<br>
+    There's a fear of raining sorrows after clouds of happiness,<br>
+    There's a fear of losing even this confident mind filled with success,<br>
+    Hopes have drowned in the ocean of doubts, now even being or not being feels pointless.</p>
+</div>
+
+<div class="verse">
+    <p>When the night takes the circles of darkness,<br>
+    Your moon-like face wraps a sheet of light of madness.<br>
+    You come to wake me up from my sleep, bringing the rays of the sun,<br>
+    From the ground to the sky, you are the one.</p>
+</div>
+
+<div class="verse">
+    <p>For when friendship is with the light,<br>
+    There is no fear of taking a dark flight.<br>
+    So let's get lost somewhere on this black night,<br>
+    And cherish each other's company until the first light.</p>
+</div>
+
 ---
