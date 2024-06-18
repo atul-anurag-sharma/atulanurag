@@ -2,7 +2,8 @@
 title: ""
 date: 
 type: landing
-
+design:
+  spacing: 1rem
 sections:
   - block: resume-biography-3
     content:
