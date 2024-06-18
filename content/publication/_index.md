@@ -6,7 +6,7 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
+view: 3
 
 headless: false
 draft: false
