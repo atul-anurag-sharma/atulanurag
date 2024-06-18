@@ -13,9 +13,9 @@ sections:
         text: Download CV
         url: files/resume.pdf
     design:
-      css_class: auto
+      css_class: ""
       background:
-        color: blue
+        color: auto
         image:
           filename: 
           filters:
