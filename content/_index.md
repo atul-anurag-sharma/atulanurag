@@ -15,7 +15,7 @@ sections:
     design:
       css_class: auto
       background:
-        color: auto
+        color: blue
         image:
           filename: 
           filters:
