@@ -29,33 +29,53 @@ As a recitation leader, I used to assign practice problems every week, which can
 
 <p align="center"><b>Week II</b></p>
 
-[Practice Set II](Problem-Set-II.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-II.pdf">Practice Set II</a>
+</div>
+
 
 <p align="center"><b>Week III</b></p>
 
-[Practice Set III](Problem-Set-III.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-III.pdf">Practice Set III</a>
+</div>
+
 
 
 <p align="center"><b>Week IV</b></p>
 
-[Practice Set IV](Problem-Set-IV.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-IV.pdf">Practice Set IV</a>
+</div>
 
 <p align="center"><b>Week V</b></p>
 
-[Practice Set V](Problem-Set-V.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-V.pdf">Practice Set V</a>
+</div>
 
 <p align="center"><b>Week VI</b></p>
 
-[Practice Set VI](Problem-Set-VI.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-VI.pdf">Practice Set VI</a>
+</div>
 
 <p align="center"><b>Week VII</b></p>
 
-[Practice Set VII](Problem-Set-VII.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-VII.pdf">Practice Set VII</a>
+</div>
 
 <p align="center"><b>Week VIII</b></p>
 
-[Practice Set VII](Problem-Set-VIII.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-VIII.pdf">Practice Set VIII</a>
+</div>
+
 
 <p align="center"><b>Week IX</b></p>
 
-[Practice Set IX](Problem-Set-IX.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-IX.pdf">Practice Set IX</a>
+</div>
+
