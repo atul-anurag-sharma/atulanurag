@@ -22,7 +22,10 @@ As a recitation leader, I used to assign practice problems every week, which can
 
 <p align="center"><b>Week I</b></p>
 
-[Practice Set I](Problem-Set-I.pdf).
+<div style="text-align: center;">
+    <a href="Problem-Set-I.pdf">Practice Set I</a>
+</div>
+
 
 <p align="center"><b>Week II</b></p>
 
