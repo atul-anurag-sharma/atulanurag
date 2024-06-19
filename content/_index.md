@@ -88,6 +88,6 @@ sections:
     demo: true
     design:
       card:
-        css_class: bg-primary-700
+        css_class: bg-red-600
         css_style: ""
 ---
