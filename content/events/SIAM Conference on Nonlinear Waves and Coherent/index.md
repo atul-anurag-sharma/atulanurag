@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
 title: The Phase Space of the Three-Vortex Problem
-url_pdf: ""
+url_pdf: 
 ---
 
 
