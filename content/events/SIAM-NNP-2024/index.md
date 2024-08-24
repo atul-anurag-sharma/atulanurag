@@ -24,7 +24,7 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 tags: [Talks]
-title: Global Phase Analysis of the three-vortex Problem
+title: Global Phase Plane Analysis of the three-vortex problem
 url_pdf: 
 ---
 
