@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2021-07-01"
+date: "2024-08-26"
 image:
   caption: 'Image credit: [resanskrit](https://resanskrit.com)'
 summary: Act in a way that benefits society but not just you.
