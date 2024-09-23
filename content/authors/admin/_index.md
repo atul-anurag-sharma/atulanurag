@@ -1,5 +1,6 @@
 ---
-title: Atul Anurag (अतुल अनुराग)
+title: Atul Anurag\\
+(अतुल अनुराग)
 
 # Username (this should match the folder name)
 authors:
