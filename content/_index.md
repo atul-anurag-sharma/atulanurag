@@ -46,7 +46,7 @@ sections:
 
   - block: markdown
     content:
-      text: "<hr style='border: none; border-top: 2px solid #ccc; margin: 2rem 0;' />"
+      text: "<div style='height: 4rem; background-color: #f0f0f0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 2rem 0;'></div>"
     design:
       columns: "1"
 
