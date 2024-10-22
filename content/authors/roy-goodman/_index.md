@@ -44,4 +44,4 @@ email: ""
 user_groups:
 - "Faculty"
 ---
-Roy Goodman is an associate professor in the Department of Mathematical Sciences at NJIT.
+Roy Goodman is a professor in the Department of Mathematical Sciences at NJIT.
