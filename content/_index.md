@@ -17,7 +17,7 @@ sections:
       background:
         color: auto
         image:
-          filename: ""
+          filename: 
           filters:
             brightness: auto
           size: cover
@@ -43,12 +43,8 @@ sections:
       columns: 2
       view: auto
     id: papers
+    
 
-  - block: markdown
-    content:
-      text: "<div style='height: 4rem; background-color: #f0f0f0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 2rem 0;'></div>"
-    design:
-      columns: "1"
 
   - block: collection
     content:
@@ -66,11 +62,17 @@ sections:
       count: 5
       filters:
         author: "admin"
+        category: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
+        publication_type: ""
+        tag: ""
+      offset: 0
       order: desc
       page_type: post
+      subtitle: ""
+      text: ""
       title: Blog
     design:
       columns: 2
