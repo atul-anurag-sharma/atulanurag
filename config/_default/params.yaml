@@ -7,7 +7,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: 'Open Sans'  # Changed font for better readability
-  font_size: M       # Adjusted font size to medium for improved readability
+  font_size: L       # Adjusted font size to medium for improved readability
 
 # SEO
 marketing:
