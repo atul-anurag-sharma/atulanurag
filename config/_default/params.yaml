@@ -6,9 +6,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: roboto
-  font_size: L
-
+  font: 'Open Sans'  # Changed font for better readability
+  font_size: M       # Adjusted font size to medium for improved readability
 
 # SEO
 marketing:
@@ -16,7 +15,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
+    description: 'Personal blog of Atul Anurag, sharing insights on technology and life.'
     twitter: 'atul_anurag'
   analytics:
     google_analytics: ''
@@ -55,7 +54,6 @@ locale:
   time_format: '3:04 PM'
 
 # Site features
-
 features:
   syntax_highlighter:
     theme_light: github-light
@@ -96,7 +94,6 @@ features:
     zoom: 15
 
 # Extensions
-
 extensions:
   cms:
     branch: main
@@ -104,9 +101,7 @@ extensions:
   academicons:
     enable: true
 
-
 # Security
-
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
