@@ -7,7 +7,7 @@ image:
 summary: If One Day!
 tags:
 - Blog
-title: "If One Day!"
+title: "IF ONE DAY"
 ---
 If one morning while walking the path, I don't see you, then I'll change the destination,
 
