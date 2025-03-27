@@ -57,7 +57,6 @@ sections:
       view: article-grid
     id: events
 
- #  - block: collection
 #    content:
 #      count: 5
 #      filters:
