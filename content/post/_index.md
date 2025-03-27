@@ -1,6 +1,6 @@
 ---
 title: Blog
-view: article-grid
+view: ""
 headless: false
 draft: false
 ---
