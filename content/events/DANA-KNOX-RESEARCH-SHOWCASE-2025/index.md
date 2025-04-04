@@ -1,5 +1,5 @@
 ---
-abstract: We investigate global phase planes in point-vortex dynamics in a two-dimensional, inviscid, incompressible fluid. We derive a symplectic reduction of a system involving three vortices, initially employing Jacobi coordinates followed by Lie-Poisson reduction. We conduct a global phase analysis of a three-vortex problem with arbitrary circulations with novel bifurcation analysis.~This reduction method eliminates coordinate singularities that made understanding the dynamics challenging.
+abstract: We investigate global phase planes in point-vortex dynamics in a two-dimensional, inviscid, incompressible fluid. We derive a symplectic reduction of a system involving three vortices, initially employing Jacobi coordinates followed by Lie-Poisson reduction. We conduct a global phase analysis of a three-vortex problem with arbitrary circulations with novel bifurcation analysis. This reduction method eliminates coordinate singularities that made understanding the dynamics challenging.
 
 address:
   city: Newark
