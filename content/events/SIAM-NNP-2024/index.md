@@ -15,7 +15,7 @@ event: SIAM-NNP-2024
 event_url: https://siamnnp2024.sciencesconf.org
 featured: true
 image:
-  caption: 'Image credit: [**SIAM**](https://siamnnp2024.sciencesconf.org)'
+  caption: ''
 focal_point: Right
 location: Gosnell Hall
 
