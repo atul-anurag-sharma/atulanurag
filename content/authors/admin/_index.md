@@ -82,7 +82,7 @@ profiles:
 ---
 
 ## About Me
-I obtained a Bachelor’s degree in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics" style="text-decoration: none; color: navy blue;">Ramjas College, University of Delhi</a>, and a Master’s degree in applied mathematics from <a href="https://www.nitw.ac.in/math" style="text-decoration: none; color: navy blue;">National Institute of Technology, Warangal, Telangana</a>. I am currently a sixth-year Ph.D. Mathematics Candidate in the mathematics department at the <a href="https://math.njit.edu" style="text-decoration: none; color: navy blue;">Department of Mathematical Sciences, New Jersey Institute of Technology</a>. My advisor here is <a href="https://roygoodman.net" style="text-decoration: none; color: navy blue;">Dr. Roy Goodman</a>.
+I obtained a Bachelor’s degree in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics" style="text-decoration: none; color: navy blue;">Ramjas College, University of Delhi</a>, and a Master’s degree in applied mathematics from <a href="https://www.nitw.ac.in/math" style="text-decoration: none; color: navy blue;">National Institute of Technology, Warangal, Telangana</a>. I obtained my Ph.D.in Applied in the mathematics department at the <a href="https://math.njit.edu" style="text-decoration: none; color: navy blue;">Department of Mathematical Sciences, New Jersey Institute of Technology</a>, under the supervision of <a href="https://roygoodman.net" style="text-decoration: none; color: navy blue;">Dr. Roy Goodman</a>.
 
 
 
