@@ -44,7 +44,7 @@ I solved Navier-Stokes Equations for the flow of viscous incompressible fluids. 
 
 
 interests:
-- Vortex Dynamics
+- Nonlinear Dynamics
 - Dynamical Systems
 - Bifurcation Theory
 
