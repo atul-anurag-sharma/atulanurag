@@ -20,7 +20,7 @@ organizations:
   
   
 education:
-- area: PhD Applied Mathematics
+- area: PhD Applied Mathematics, 2025
   button:
     text: Read Thesis
     url: ""
@@ -30,13 +30,13 @@ education:
   summary: |
     Thesis TBA. Supervised by <a href="https://roygoodman.net"> Roy Goodman</a>
 
-- area: MSc Applied Mathematics
+- area: MSc Applied Mathematics, 2017
   date_end: "2017-07-01"
   date_start: "2015-07-01"
   institution: National Institute of Technology, Warangal, India
   summary: "_Masters Thesis_: Pulsatile flow in a Circular rigid Tube.<br />
 I solved Navier-Stokes Equations for the flow of viscous incompressible fluids. I also wrote a C++ program for the graphical analysis of the topic."
-- area: BSc Honours Mathematics
+- area: BSc Honours Mathematics, 2015
   date_end: "2015-06-01"
   date_start: "2012-07-01"
   institution: Ramjas College, University of Delhi, India
