@@ -1,48 +1,59 @@
 name = "Academic"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
-description = "Use the website builder to personalize your academic resumé with widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
+description = "Build a professional academic or portfolio website with ease. Customize widgets, themes, and languages. One-click deployment."
 homepage = "https://wowchemy.com/templates/"
 min_version = "0.78"
-tags = ["widgets",
-        "resume",
-        "portfolio",
-        "responsive",
-        "clean",
-        "personal",
-        "company",
-        "blog",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "documentation",
-        "landing page",
-        "projects",
-        "single page",
-        "contact form",
-        "mobile",
-        "gallery",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
-        "customizable",
-        "technical",
-        "product",
-        "slide"
-        ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+
+tags = [
+  "resume",
+  "portfolio",
+  "academic",
+  "widgets",
+  "responsive",
+  "clean",
+  "personal",
+  "minimal",
+  "multilingual",
+  "documentation",
+  "landing page",
+  "projects",
+  "single page",
+  "contact form",
+  "mobile",
+  "gallery",
+  "search",
+  "presentation",
+  "modern",
+  "customizable",
+  "starter",
+  "technical",
+  "slide",
+  "courses",
+  "publications",
+  "talks",
+  "events"
+]
+
+features = [
+  "Drag-and-drop page builder",
+  "Custom widgets",
+  "Multiple themes and dark mode",
+  "Full-text search",
+  "Research publication management",
+  "Filterable portfolio",
+  "Online courses",
+  "Events and talks",
+  "Slide presentations",
+  "Image and video gallery",
+  "Integrated contact form",
+  "Multilingual support"
+]
 
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
 
-# If porting an existing theme
 [original]
   name = ""
   homepage = ""
