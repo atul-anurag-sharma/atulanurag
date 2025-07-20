@@ -10,7 +10,7 @@ sections:
       username: admin
       text: ""
       button:
-        text: Download CV
+        text: CV
         url: files/resume.pdf
     design:
       css_class: ""
