@@ -27,33 +27,16 @@ Each week, I also curated and assigned targeted **practice problem sets**, desig
 
 ## Weekly Practice Sets
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; font-size: 1.05rem;">
 
-### Week I  
-[📄 Practice Set I](Problem-Set-I.pdf)
-
-### Week II  
-[📄 Practice Set II](Problem-Set-II.pdf)
-
-### Week III  
-[📄 Practice Set III](Problem-Set-III.pdf)
-
-### Week IV  
-[📄 Practice Set IV](Problem-Set-IV.pdf)
-
-### Week V  
-[📄 Practice Set V](Problem-Set-V.pdf)
-
-### Week VI  
-[📄 Practice Set VI](Problem-Set-VI.pdf)
-
-### Week VII  
-[📄 Practice Set VII](Problem-Set-VII.pdf)
-
-### Week VIII  
-[📄 Practice Set VIII](Problem-Set-VIII.pdf)
-
-### Week IX  
-[📄 Practice Set IX](Problem-Set-IX.pdf)
+**Week I:** [📄 Practice Set I](Problem-Set-I.pdf)  
+**Week II:** [📄 Practice Set II](Problem-Set-II.pdf)  
+**Week III:** [📄 Practice Set III](Problem-Set-III.pdf)  
+**Week IV:** [📄 Practice Set IV](Problem-Set-IV.pdf)  
+**Week V:** [📄 Practice Set V](Problem-Set-V.pdf)  
+**Week VI:** [📄 Practice Set VI](Problem-Set-VI.pdf)  
+**Week VII:** [📄 Practice Set VII](Problem-Set-VII.pdf)  
+**Week VIII:** [📄 Practice Set VIII](Problem-Set-VIII.pdf)  
+**Week IX:** [📄 Practice Set IX](Problem-Set-IX.pdf)
 
 </div>
