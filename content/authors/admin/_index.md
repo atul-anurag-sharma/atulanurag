@@ -82,7 +82,7 @@ profiles:
 ---
 
 ## About Me
-I obtained a Bachelor's degree (2015) in mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics" style="text-decoration: none; color: #1E88E5;">Ramjas College, University of Delhi</a>, and a Master's degree (2017) in applied mathematics from <a href="https://www.nitw.ac.in/math" style="text-decoration: none; color: #1E88E5;">National Institute of Technology, Warangal, Telangana</a>. I obtained my Ph.D. (2025) in applied mathematics from the <a href="https://math.njit.edu" style="text-decoration: none; color: #1E88E5;">Department of Mathematical Sciences, New Jersey Institute of Technology</a>, under the supervision of <a href="https://roygoodman.net" style="text-decoration: none; color: #1E88E5;">Dr. Roy Goodman</a>.
+I obtained a Bachelor's degree (2015) in mathematics from <a href="http://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics">Ramjas College, University of Delhi</a>, and a Master's degree (2017) in applied mathematics from <a href="http://www.nitw.ac.in/math">National Institute of Technology, Warangal, Telangana</a>. I obtained my Ph.D. (2025) in applied mathematics from the <a href="http://math.njit.edu">Department of Mathematical Sciences, New Jersey Institute of Technology</a>, under the supervision of <a href="http://roygoodman.net">Dr. Roy Goodman</a>.
 
 
 
