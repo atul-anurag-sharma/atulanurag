@@ -27,7 +27,7 @@ Each week, I also curated and assigned targeted **practice problem sets**, desig
 
 ## Weekly Practice Sets
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; font-size: 1.05rem;">
+<div style="display: flex; flex-direction: column; align-items: left; gap: 1rem; font-size: 1.05rem;">
 
 **Week I:** [📄 Practice Set I](Problem-Set-I.pdf)  
 **Week II:** [📄 Practice Set II](Problem-Set-II.pdf)  
