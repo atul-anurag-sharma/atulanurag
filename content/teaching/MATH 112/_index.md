@@ -2,80 +2,58 @@
 # Course title, summary, and position.
 title: Math 112 Calculus II
 linktitle: Math 112
-summary: Recitation leader for Calculus II (MATH 112, undergraduate) from Fall 2019-Spring 2022.
+summary: Recitation Leader for Calculus II (MATH 112, undergraduate) from Fall 2019 to Spring 2022.
 
 # Page metadata.
 date: ""
 lastmod: "2024-06-14"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: book  # Do not modify.
+draft: false
+toc: true
+type: book
 tags: 
-- teaching
+  - teaching
 ---
 
 ## Course Description
 
-My solutions to the previous exams on Calculus II can be found here: [Calculus II](CalculusII.pdf).
+From Fall 2019 to Spring 2022, I served as a Recitation Leader for **Calculus II (Math 112)**, an undergraduate-level course covering advanced topics in integral calculus, sequences and series, and polar coordinates.
 
-As a recitation leader, I used to assign practice problems every week, which can be found below.<br />
+My worked solutions to previous exams can be found here:  
+👉 [**Calculus II Exam Solutions**](CalculusII.pdf)
 
-<p align="center"><b>Week I</b></p>
+Each week, I also curated and assigned targeted **practice problem sets**, designed to reinforce key concepts and support exam preparation.
 
-<div style="text-align: center;">
-    <a href="Problem-Set-I.pdf">Practice Set I</a>
+---
+
+## Weekly Practice Sets
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+
+### Week I  
+[📄 Practice Set I](Problem-Set-I.pdf)
+
+### Week II  
+[📄 Practice Set II](Problem-Set-II.pdf)
+
+### Week III  
+[📄 Practice Set III](Problem-Set-III.pdf)
+
+### Week IV  
+[📄 Practice Set IV](Problem-Set-IV.pdf)
+
+### Week V  
+[📄 Practice Set V](Problem-Set-V.pdf)
+
+### Week VI  
+[📄 Practice Set VI](Problem-Set-VI.pdf)
+
+### Week VII  
+[📄 Practice Set VII](Problem-Set-VII.pdf)
+
+### Week VIII  
+[📄 Practice Set VIII](Problem-Set-VIII.pdf)
+
+### Week IX  
+[📄 Practice Set IX](Problem-Set-IX.pdf)
+
 </div>
-
-
-<p align="center"><b>Week II</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-II.pdf">Practice Set II</a>
-</div>
-
-
-<p align="center"><b>Week III</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-III.pdf">Practice Set III</a>
-</div>
-
-
-
-<p align="center"><b>Week IV</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-IV.pdf">Practice Set IV</a>
-</div>
-
-<p align="center"><b>Week V</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-V.pdf">Practice Set V</a>
-</div>
-
-<p align="center"><b>Week VI</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-VI.pdf">Practice Set VI</a>
-</div>
-
-<p align="center"><b>Week VII</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-VII.pdf">Practice Set VII</a>
-</div>
-
-<p align="center"><b>Week VIII</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-VIII.pdf">Practice Set VIII</a>
-</div>
-
-
-<p align="center"><b>Week IX</b></p>
-
-<div style="text-align: center;">
-    <a href="Problem-Set-IX.pdf">Practice Set IX</a>
-</div>
-
