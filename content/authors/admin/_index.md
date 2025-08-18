@@ -6,7 +6,8 @@ authors:
 - admin
 
 # Role/position
-role: Visiting Assistant Professor of Mathematics, [Department of Mathematical Sciences](https://www.ramapo.edu/majors-minors/majors/mathematics/)
+role: Visiting Assistant Professor of Mathematics
+[Department of Mathematical Sciences](https://www.ramapo.edu/majors-minors/majors/mathematics/)
 
 superuser: true
 
