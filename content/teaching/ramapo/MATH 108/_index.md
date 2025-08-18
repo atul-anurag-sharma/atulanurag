@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 title: Math 108 Elementary Probability and Statistics
 linktitle: Math
-summary: An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines.
+summary: An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines. Click below to access weekly lecture notes and homeworks.
 
 # Page metadata.
 date_start: "2019-08-01"
@@ -96,6 +96,26 @@ No prior coursework in probability or statistics is required. Basic algebra skil
 
 ---
 
+<details>
+<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
+
+<br>
+
+## Weekly Materials
+
+Here you can find links to each week's lecture notes and homework.
+
+| Week | Lecture Notes | Homework |
+|------|----------------|----------|
+| 1 | [Week 1 Notes](week01/lecture-notes1.pdf) | [Homework 1 (PDF)](week01/homework.pdf) |
+| 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
+| 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
+
+
+</details>
+
+---
+
 ## Policies
 
 - **Attendance**: Regular attendance is expected.
@@ -111,4 +131,3 @@ No prior coursework in probability or statistics is required. Basic algebra skil
 - Supplemental readings and problem sets
 
 ---
-
