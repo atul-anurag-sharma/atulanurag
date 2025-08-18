@@ -1,12 +1,12 @@
 ---
-title: Atul Anurag (अतुल अनुराग)
+title: Dr. Atul Anurag (अतुल अनुराग)
 
 # Username (this should match the folder name)
 authors:
 - admin
 
 # Role/position
-role: Research Assistant, [Department of Mathematical Sciences](https://math.njit.edu/)
+role: Visiting Assistant Professor of Mathematics, [Department of Mathematical Sciences](https://www.ramapo.edu/majors-minors/majors/mathematics/)
 
 superuser: true
 
@@ -15,8 +15,8 @@ highlight_name: false
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
-  url: "https://www.njit.edu"
+- name: Ramapo College of New Jersey
+  url: "https://www.ramapo.edu"
   
   
 education:
