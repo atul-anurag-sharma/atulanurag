@@ -15,6 +15,25 @@ tags:
 - teaching
 ---
 
+<details>
+<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
+
+<br>
+
+## Weekly Materials
+
+Here you can find links to each week's lecture notes and homework.
+
+| Week | Lecture Notes | Homework |
+|------|----------------|----------|
+| 1 | [Week 1 Notes](week01/lecture-notes1.pdf) | [Homework 1 (PDF)](week01/homework.pdf) |
+| 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
+| 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
+
+</details>
+
+---
+
 ## Course Description
 
 Math 108 is an introductory course in probability and statistics, designed for students across diverse fields who seek a foundational understanding of data and uncertainty. The course provides tools to interpret, describe, and make inferences from data in real-world contexts.
@@ -70,10 +89,10 @@ No prior coursework in probability or statistics is required. Basic algebra skil
 
 ## Instructor Information
 
-- **Instructor**: [Instructor Name]  
-- **Email**: [email address]  
-- **Office Hours**: [days and times]  
-- **Location**: [office or classroom location]
+- **Instructor**: Dr. Atul Anurag 
+- **Email**: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
+- **Office Hours**: TBD  
+- **Location**: TBD
 
 ---
 
@@ -93,26 +112,6 @@ No prior coursework in probability or statistics is required. Basic algebra skil
 | 10 | Comparing Two Groups |
 | 11 | Correlation and Regression |
 | 12 | Review and Final Exam |
-
----
-
-<details>
-<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
-
-<br>
-
-## Weekly Materials
-
-Here you can find links to each week's lecture notes and homework.
-
-| Week | Lecture Notes | Homework |
-|------|----------------|----------|
-| 1 | [Week 1 Notes](week01/lecture-notes1.pdf) | [Homework 1 (PDF)](week01/homework.pdf) |
-| 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
-| 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
-
-
-</details>
 
 ---
 
