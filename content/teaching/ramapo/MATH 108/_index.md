@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-title: Math 108 ELEMENTARY PROBABILITY AND STATISTICS
+title: Math 108 Elementary Probability and Statistics
 
 linktitle: Math
 summary: 
