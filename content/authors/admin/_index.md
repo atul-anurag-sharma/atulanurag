@@ -82,5 +82,5 @@ profiles:
 ---
 
 ## About Me
-Beginning in Fall 2025, I will be joining Ramapo College as a Visiting Assistant Professor of Mathematics. I received my Bachelor's degree in Mathematics in 2015 from [Ramjas College, University of Delhi](https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics), and a Master's degree in Applied Mathematics in 2017 from the [National Institute of Technology, Warangal, Telangana](https://www.nitw.ac.in/math).  
+Beginning in Fall 2025, I will be joining [Ramapo College of New Jersey](https://www.ramapo.edu) as a Visiting Assistant Professor of Mathematics. I received my Bachelor's degree in Mathematics in 2015 from [Ramjas College, University of Delhi](https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics), and a Master's degree in Applied Mathematics in 2017 from the [National Institute of Technology, Warangal, Telangana](https://www.nitw.ac.in/math).  
 I earned my Ph.D. in Applied Mathematics in 2025 from the [Department of Mathematical Sciences, New Jersey Institute of Technology](https://math.njit.edu), where I was advised by [Dr. Roy Goodman](https://roygoodman.net).
