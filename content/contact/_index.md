@@ -7,7 +7,7 @@ draft: false
 
 You can reach out via email. Here are my emails:
 
-Work Email: [aa2894@njit.edu](mailto:aa2894@njit.edu)  
+Work Email: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
 Personal Email: [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
 
 **Office Location**

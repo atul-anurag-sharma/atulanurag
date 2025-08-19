@@ -53,7 +53,7 @@ profiles:
 - icon: envelope
   icon_pack: fas
   label: "E-mail Me"
-  url: "mailto:aa2894@njit.edu"
+  url: "mailto:aanurag@ramapo.edu"
   
 - icon: brands/x
   url: https://twitter.com/atul_anurag
