@@ -11,7 +11,7 @@ appearance:
     heading: "Montserrat"     # elegant heading font
     mono: "Source Code Pro"   # clean monospace for code
 
-  font_size: M               # medium font size for readability
+  font_size: "M"               # medium font size for readability
 
   colors:
     primary: "#1E90FF"       # bright blue, customize as you like
@@ -20,6 +20,7 @@ appearance:
   layout:
     sidebar: false           # hide sidebar for a cleaner, minimal look
     container_width: 1200    # wider container for more spacious feel
+
 
 
 # SEO
