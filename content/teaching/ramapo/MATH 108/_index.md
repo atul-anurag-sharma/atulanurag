@@ -1,38 +1,38 @@
-  ---
-  # Course title, summary, and position.
-  title: Math 108 Elementary Probability and Statistics
-  linktitle: Math
-  summary: An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines. Click below to access weekly lecture notes and homeworks.
+---
+# Course title, summary, and position.
+title: Math 108 Elementary Probability and Statistics
+linktitle: Math
+summary: An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines. Click below to access weekly lecture notes and homeworks.
 
-  # Page metadata.
-  date_start: "2019-08-01"
-  date_end: ""
-  lastmod: "2024-06-14"
-  draft: false  # Is this a draft? true/false
-  toc: true  # Show table of contents? true/false
-  type: book  # Do not modify.
-  tags: 
-  - teaching
-  ---
+# Page metadata.
+date_start: "2019-08-01"
+date_end: ""
+lastmod: "2024-06-14"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: book  # Do not modify.
+tags: 
+- teaching
+---
 
-  <details>
-  <summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
+<details>
+<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
 
-  <br>
+<br>
 
-  ## Weekly Materials
+## Weekly Materials
 
-  Here you can find links to each week's lecture notes and homework.
+Here you can find links to each week's lecture notes and homework.
 
-  | Week | Lecture Notes | Homework |
-  |------|----------------|----------|
-  | 1 | [Week 1 Notes](week01/lecture-notes1.pdf) | [Homework 1 (PDF)](week01/homework1.pdf) |
-  | 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
-  | 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
+| Week | Lecture Notes | Homework |
+|------|----------------|----------|
+| 1 | [Week 1 Page](/math108/week1/) | [Homework 1 (PDF)](week01/homework1.pdf) |
+| 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
+| 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
 
-  </details>
+</details>
 
-  ---
+<hr>
 
   ## Course Description
 
