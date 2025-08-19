@@ -168,5 +168,3 @@ See the syllabus or course page for the **detailed lecture-by-lecture breakdown*
 - **Location**: TBD
 
 ---
-*This course welcomes students from all backgrounds and disciplines, offering a strong
----
