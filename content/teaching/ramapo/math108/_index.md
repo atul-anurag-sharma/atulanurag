@@ -8,30 +8,41 @@ summary: An introduction to probability theory, descriptive statistics, and stat
 date_start: "2019-08-01"
 date_end: ""
 lastmod: "2024-06-14"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: book  # Do not modify.
+draft: false
+toc: true
+type: book
 tags: 
 - teaching
 ---
 
-<details>
-<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
+## 📂 Homeworks and Lecture Notes
 
-<br>
-
-## Weekly Materials
+### Weekly Materials
 
 Here you can find links to each week's lecture notes and homework.
 
-| Week | Link | Homework |
-|------|------|----------|
-| 1    | [Week 1 webpage](week1/)     | [Homework 1 (PDF)](week1/homework1.pdf) |
+| Week | Lecture Notes | Homework |
+|------|---------------|----------|
+| 1    | [Week 1 webpage](week1/) | [Homework 1 (PDF)](week1/homework1.pdf) |
 
+---
 
-</details>
+## Course Description
 
-<hr>
+This course introduces students to both **descriptive** and **inferential statistics**, with a foundation in **elementary probability**. Key topics include:
+
+- Organizing and describing data
+- Measures of center and variation
+- Probability rules and distributions
+- Binomial and normal distributions
+- Confidence intervals and hypothesis testing
+- Correlation and linear regression
+
+Students will explore real-life data sets through a variety of exercises, gaining hands-on experience with both mathematical methods and graphing calculator tools.
+
+This course is part of the **General Education Program** in the **Quantitative Reasoning** category and is designed to be accessible and applicable to students from across disciplines.
+
+---
 
   ## Course Description
 
