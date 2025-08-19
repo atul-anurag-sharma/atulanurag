@@ -6,8 +6,13 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: 'Open Sans'  # Changed font for better readability
-  font_size: S       # Adjusted font size to medium for improved readability
+
+  font:
+    text: "Open Sans"
+    heading: "Open Sans"
+    mono: "Fira Code"
+
+  font_size: S
 
 # SEO
 marketing:
