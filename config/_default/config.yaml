@@ -71,7 +71,6 @@ markup:
     startLevel: 2
     endLevel: 3
 
-
 related:
   threshold: 80
   includeNewer: true
@@ -90,4 +89,26 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep 
+  _merge: deep
+
+############################
+## APPEARANCE CUSTOMIZATION
+############################
+
+params:
+  fonts:
+    text: "Poppins"
+    heading: "Montserrat"
+    monospace: "Source Code Pro"
+
+  colors:
+    primary: "#1E90FF"
+    accent: "#FF6347"
+
+  appearance:
+    theme: "auto"        # options: "auto", "light", "dark"
+
+  layout:
+    sidebar:
+      enabled: false
+    container_width: 1200
