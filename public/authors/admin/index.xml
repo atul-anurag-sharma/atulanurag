@@ -1,359 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atul Anurag</title>
-    <link>http://localhost:3488/authors/admin/</link>
-      <atom:link href="http://localhost:3488/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Atul Anurag</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 09:30:00 +0000</lastBuildDate>
+    <title>Dr. Atul Anurag | Atul Anurag</title>
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Atul Anurag</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 09:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:3488/authors/admin/avatar_hu438a2726be5b8f874db87aede3c9d442_387080_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Atul Anurag</title>
-      <link>http://localhost:3488/authors/admin/</link>
+      <url>http://localhost:1313/authors/admin/avatar_hue3d19bed5a2c1d2cfb28620d2d869c54_281847_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Atul Anurag</title>
+      <link>http://localhost:1313/authors/admin/</link>
     </image>
     
     <item>
-      <title>Atul Anurag</title>
-      <link>http://localhost:3488/authors/admin/</link>
-      <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/authors/admin/</guid>
+      <title>Dr. Atul Anurag</title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;I obtained a Bachelor’s degree in mathematics from &lt;a href=&#34;https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics&#34; style=&#34;text-decoration: none; color: navy blue;&#34;&gt;Ramjas College, University of Delhi&lt;/a&gt;, and a Master’s degree in applied mathematics from &lt;a href=&#34;https://www.nitw.ac.in/math&#34; style=&#34;text-decoration: none; color: navy blue;&#34;&gt;National Institute of Technology, Warangal, Telangana&lt;/a&gt;. I am currently a fifth-year Ph.D. Mathematics Candidate in the mathematics department at the &lt;a href=&#34;https://math.njit.edu&#34; style=&#34;text-decoration: none; color: navy blue;&#34;&gt;Department of Mathematical Sciences, New Jersey Institute of Technology&lt;/a&gt;. My advisor here is &lt;a href=&#34;https://roygoodman.net&#34; style=&#34;text-decoration: none; color: navy blue;&#34;&gt;Dr. Roy Goodman&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Beginning in Fall 2025, I will be joining &lt;a href=&#34;https://www.ramapo.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramapo College of New Jersey&lt;/a&gt; as a Visiting Assistant Professor of Mathematics. I received my Bachelor&amp;rsquo;s degree in Mathematics in 2015 from &lt;a href=&#34;https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramjas College, University of Delhi&lt;/a&gt;, and a Master&amp;rsquo;s degree in Applied Mathematics in 2017 from the &lt;a href=&#34;https://www.nitw.ac.in/math&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Institute of Technology, Warangal, Telangana&lt;/a&gt;.&lt;br&gt;
+I earned my Ph.D. in Applied Mathematics in 2025 from the &lt;a href=&#34;https://math.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematical Sciences, New Jersey Institute of Technology&lt;/a&gt;, where I was advised by &lt;a href=&#34;https://roygoodman.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Roy Goodman&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The Global Phase Plane Analysis of Three Vortex Interactions</title>
+      <link>http://localhost:1313/events/dana-knox-research-showcase-2025/</link>
+      <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/dana-knox-research-showcase-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Global Phase Space of the Three-Vortex Interaction System</title>
+      <link>http://localhost:1313/publication/global-three-vortex/</link>
+      <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
+      <guid>http://localhost:1313/publication/global-three-vortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Phase Plane Analysis of the three-vortex problem</title>
+      <link>http://localhost:1313/events/siam-nnp-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/siam-nnp-2024/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>The Phase Space of the Three-Vortex Problem</title>
-      <link>http://localhost:3488/events/siam-nwcs-2024/</link>
+      <link>http://localhost:1313/events/siam-nwcs-2024/</link>
       <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/events/siam-nwcs-2024/</guid>
+      <guid>http://localhost:1313/events/siam-nwcs-2024/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Since Then!</title>
-      <link>http://localhost:3488/post/since-then/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/since-then/</guid>
-      <description>&lt;p&gt;Since then, the breath flowing with the winds continued but the heartbeat was lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, there was a wave of happiness in my mind but my thoughts got lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, many new paths have been found but the destination has been lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, many pleasant nights have come but the sleep of your dreams has been lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, I have remembered many memories but the desire to meet has been lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, I have had many dreams but the desire to win has been lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;Since then, days passed but the pace of time got lost somewhere.&lt;br/&gt;&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;O Friend!&lt;/b&gt;&lt;/p&gt;
-O friend! Let’s not worry about tomorrow,&lt;br/&gt;
-We have this moment to live, let’s not hurry.&lt;br/&gt;
-&lt;p&gt;O friend! Let’s follow the ray of hope in the infinite darkness of fear,&lt;br/&gt;
-I am shining in the vicinity of you, who cares.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;O friend! Let’s not hold onto the grievances of pain,&lt;br/&gt;
-Hold my hand and enhance your personal gains.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;O friend! Let’s paint our future desires bold,&lt;br/&gt;
-Listen to the rhythm of life, the music that never grows old.&lt;br/&gt;&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;You Are.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The quality of air I breathe.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The wings with which life flies without interference.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The time that I live without passing.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The sea that flows without knowing the path of an ocean.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The path I walk on when astray.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The strength to the heart that beats.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The comfort in moments of despair.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The option I choose in confusion.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;You are love. The habit I follow, not the hobby I change.&lt;br/&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description>
     </item>
     
     <item>
       <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
-      <link>http://localhost:3488/publication/vortex-dipole/</link>
+      <link>http://localhost:1313/publication/vortex-dipole/</link>
       <pubDate>Thu, 06 Jun 2024 21:56:21 -0400</pubDate>
-      <guid>http://localhost:3488/publication/vortex-dipole/</guid>
+      <guid>http://localhost:1313/publication/vortex-dipole/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Time of IFs and BUTs</title>
-      <link>http://localhost:3488/post/time-of-ifs-and-buts/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/time-of-ifs-and-buts/</guid>
-      <description>&lt;p align=&#34;center&#34;&gt;&lt;b&gt;TIME&lt;/b&gt;&lt;/p&gt;
-Time comes as a smile on your face, Time brings sorrow to your life, Time causes confusion,&lt;br /&gt;
-Time teaches you how to live,&lt;br /&gt;
-The spinning wheel of time never stops for anyone.&lt;br /&gt;
-&lt;p&gt;If you are happy, then time is good,&lt;br /&gt;
-If you are sad, then time is bad,&lt;br /&gt;
-Time has many names, but it moves at its own pace for everyone, Respect time or not, time never stops for anyone.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Time does not stop for those who want to live,&lt;br /&gt;
-Time does not stop for those who are tired of life,&lt;br /&gt;
-Time is life, and time is death,&lt;br /&gt;
-Time moves according to its own will,&lt;br /&gt;
-This is the spinning wheel of time, which never stops for anyone.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;IFs and BUTs&lt;/b&gt;&lt;/p&gt;
-If one morning while walking the path, I don&#39;t see you, I&#39;ll change the destination,&lt;br /&gt;
-&lt;p&gt;If one night in a dream I don&amp;rsquo;t catch a glimpse of you, I&amp;rsquo;ll change the dream,&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;If one day I don&amp;rsquo;t smell your fragrance in the air, I&amp;rsquo;ll change the direction of my breath,&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;If one day, while remembering good times, I don&amp;rsquo;t think of you, then I&amp;rsquo;ll change the pace of time itself,&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;If one day, while listening to a song, I don’t imagine the way you groove, then I’ll change the rhythm of the music.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;If one day, while reading a love story, I can&amp;rsquo;t feel how passionately I love you, then I will change the definition of love.&lt;/p&gt;
-&lt;hr&gt;
-</description>
+      <title>Point Vortex Dipole Scattering</title>
+      <link>http://localhost:1313/events/siam-nnp-2023/</link>
+      <pubDate>Fri, 20 Oct 2023 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/siam-nnp-2023/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Generalization of Leapfrogging Orbits of Point Vortices</title>
-      <link>http://localhost:3488/events/njit-math-summer-talk-2023/</link>
+      <link>http://localhost:1313/events/njit-math-summer-talk-2023/</link>
       <pubDate>Thu, 20 Jul 2023 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/events/njit-math-summer-talk-2023/</guid>
+      <guid>http://localhost:1313/events/njit-math-summer-talk-2023/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title> Know Thyself</title>
-      <link>http://localhost:3488/post/know-thyself/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/know-thyself/</guid>
-      <description>&lt;p&gt;In a world where beliefs about the existence of God vary, one must ponder whether these contrasting views truly impact the intensity of anger carried by individuals. The quest for knowledge often directs our attention outward, seeking answers from external sources. However, the true purpose of self-discovery and understanding is not to foster worry or anger but to foster a profound appreciation and active engagement with life itself.&lt;br /&gt; As &lt;strong&gt;Lao Tzu&lt;/strong&gt; once wisely remarked, &amp;ldquo;&lt;strong&gt;&lt;em&gt;A journey of a thousand miles begins with a single step&lt;/em&gt;&lt;/strong&gt;.&amp;rdquo; The journey of self-discovery, intertwined with the quest to know God, commences by truly knowing oneself. When we attain a comprehensive understanding of our own being, we have attained a profound connection with the divine. Hence, the first step towards self-discovery is to embrace self-love.&lt;br /&gt; Now, let us delve into the exploration of knowing one&amp;rsquo;s true self, and try to understand why it is important to know yourself. &lt;br /&gt;In the &lt;strong&gt;Bible&lt;/strong&gt;, &lt;strong&gt;Jesus&lt;/strong&gt; imparts wisdom: &amp;ldquo;&lt;strong&gt;&lt;em&gt;Examine yourself and understand who you are&amp;hellip; Whoever does not know self does not know anything. But, whoever knows self has acquired the knowledge of the universe&lt;/em&gt;&lt;/strong&gt;.&amp;rdquo; &lt;br /&gt;Lao Tzu, in his renowned work &lt;strong&gt;Tao Te Ching&lt;/strong&gt;, advises: &amp;ldquo;&lt;strong&gt;Know the simple self.&lt;/strong&gt;&amp;quot;&lt;br /&gt; Krishna, in the Bhagavad Gita, proclaims: &amp;ldquo;This is true knowledge, to seek the Self&amp;hellip; To seek anything else is ignorance.&amp;quot;&lt;br /&gt;The Prophet Muhammad, as mentioned in the Quran, states: &amp;ldquo;He who knows himself knows God.&amp;quot;&lt;br /&gt;In the Katha Upanishad, it is expressed: &amp;ldquo;Those who know and realize the Self are forever free.&amp;quot;&lt;br /&gt;Buddha refers to this state as Nirvana.&lt;br /&gt;Who are these individuals? They are all divine messengers. Despite their diverse backgrounds, their teachings ultimately converge on a profound realization: Know Thyself, which signifies understanding one&amp;rsquo;s own essence.&lt;br /&gt;In essence, their message is clear: If you desire to know the divine, begin by knowing yourself. Merely attending a mosque, temple, church, or synagogue will not bring about the desired transformation. True knowledge and connection with the divine stem from introspection and self-realization. &lt;br /&gt;In this pursuit, one question emerges: How can this be achieved? The answer lies in love.&lt;br /&gt;Indeed, love. Different people have different definitions of love; here, I will present my version. Love is not a finite resource that diminishes when shared or expressed; instead, it is the only thing in this world that grows more and more through giving. Love is an intangible force that eludes quantification. Have you ever wondered about the meaning behind someone proclaiming, &amp;ldquo;I loved that person so much&amp;rdquo;? How can the magnitude of such love be measured? The truth is, it cannot be adequately conveyed through words or even demonstrated through intense emotions. Love, in its purest form, is a deeply felt experience that transcends verbal expression. It is a profound connection that is experienced within the depths of one&amp;rsquo;s being.&lt;br /&gt;Now, the question arises: Have you ever truly loved yourself? Have you made a sincere endeavor to genuinely understand your own being? Many individuals may assert that they have, but the reality often tells a different story. Consider asking a religious person if they love God, and their immediate response will likely be &amp;ldquo;Yes.&amp;rdquo; However, when you inquire whether they love their neighbors or roommates, the answer becomes uncertain or even a straightforward &amp;ldquo;no.&amp;rdquo; This dilemma stems from our tendency to perceive numerous faults in living beings, obstructing our ability to wholeheartedly love them.&lt;br /&gt;As an example, we often find ourselves stirred by immediate emotions when we learn about the unfolding events in Ukraine and the resulting plight of numerous homeless individuals. However, it is crucial to pause and contemplate whether we have ever taken the initiative to offer a meal to a homeless person whom we are familiar with, someone who resides in our immediate vicinity. Sadly, the reality is that we often do not. In fact, we tend to avert our gaze from the sight of homeless individuals as we walk along the streets.&lt;br /&gt;The purpose of sharing this example is to highlight the challenge of loving others in the world when we haven&amp;rsquo;t yet discovered how to love ourselves. It is disheartening that while we often express concern for global issues, we fail to extend the same level of care to those around us. This mindset obstructs our understanding of the true essence of love.&lt;br /&gt;However, through small acts of kindness in how we live, act, and react, we can transform our lives. These gestures will have a profound impact, and we will no longer rely solely on external support during times of despair. Even if we find ourselves in what may seem like solitude, we will experience a newfound sense of joy and fulfillment. The concept of being &amp;ldquo;alone&amp;rdquo; will vanish from our lives, and we will embrace a state of genuine contentment. Don&amp;rsquo;t try to achieve something that lies outside of you. &lt;strong&gt;&lt;em&gt;Living for yourself doesn’t mean that you’re selfish.&lt;/em&gt;&lt;/strong&gt; Because Nature loves the ones who love themselves.&lt;br /&gt;In conclusion, if you aspire to embrace the ultimate bliss in your life, it becomes imperative to Know Yourself. Having embarked on my own journey of self-discovery, I have reached a point where my genuine desire is to witness everyone thriving in their individual paths. Believe me. The intoxication of knowing oneself is greater than any other intoxication in the world.&lt;br /&gt;&lt;strong&gt;In the color of love, I immersed myself so deeply that while chanting the garland of breaths, I experienced the divine vision of my beloved&amp;rsquo;s face in the form of God.&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How can I tell what you are to me?</title>
-      <link>http://localhost:3488/post/how-can-i-tell-what-you-are-to-me/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/how-can-i-tell-what-you-are-to-me/</guid>
-      <description>&lt;p&gt;How can I tell what you are to me?&lt;/p&gt;
-&lt;p&gt;You brighten my mornings and soothe my nights,&lt;/p&gt;
-&lt;p&gt;You bring light to my days and warmth to my life.&lt;/p&gt;
-&lt;p&gt;You are the dew of the dawn, refreshing and new.&lt;/p&gt;
-&lt;p&gt;You are the summer sun, shining and true.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;/p&gt;
-&lt;p&gt;You give meaning to my existence,&lt;/p&gt;
-&lt;p&gt;You are my days filled with joy and persistence.&lt;/p&gt;
-&lt;p&gt;You are my prayers to the heavens above,&lt;/p&gt;
-&lt;p&gt;You are the peace that fills my heart with love.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Your smile brings brightness to my face,&lt;/p&gt;
-&lt;p&gt;Your grace shines like stars in the night&amp;rsquo;s embrace.&lt;/p&gt;
-&lt;p&gt;You are the breath of life that sustains me,&lt;/p&gt;
-&lt;p&gt;You are the purpose that drives me endlessly.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;You are the reason I smile, the reason I sing,&lt;/p&gt;
-&lt;p&gt;The reason my heart takes flight on joyful wings.&lt;/p&gt;
-&lt;p&gt;You are the one who makes my life complete,&lt;/p&gt;
-&lt;p&gt;The missing piece to my puzzle, oh my dear sweet.&lt;/p&gt;
-&lt;p&gt;You are the hand that lifts me up when I fall,&lt;/p&gt;
-&lt;p&gt;You are the voice that whispers in my ear,&lt;/p&gt;
-&lt;p&gt;The words of encouragement, the comfort I hold dear.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;You are the stars that twinkle in the sky,&lt;/p&gt;
-&lt;p&gt;The music that fills my soul, the beat that never dies.&lt;/p&gt;
-&lt;p&gt;You are the laughter that echoes through the air,&lt;/p&gt;
-&lt;p&gt;The happiness that shines brighter than the sun up there.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;You are the memories I cherish every day,&lt;/p&gt;
-&lt;p&gt;The moments we&amp;rsquo;ve shared, in a special way.&lt;/p&gt;
-&lt;p&gt;You are the beauty that surrounds me, the one I see,&lt;/p&gt;
-&lt;p&gt;The person who makes me feel so incredibly free.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;You are the friend I turn to, through thick and thin,&lt;/p&gt;
-&lt;p&gt;The one who is always there, who knows where I&amp;rsquo;ve been.&lt;/p&gt;
-&lt;p&gt;You are the love I feel, the passion that&amp;rsquo;s real,&lt;/p&gt;
-&lt;p&gt;The bond that connects us, the strength that we steal.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me?&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;You are the sun that rises, the moon that shines,&lt;/p&gt;
-&lt;p&gt;The laughter that lifts me, the happiness that&amp;rsquo;s mine.&lt;/p&gt;
-&lt;p&gt;You are the light that shines in the darkness, the truth that sets me free,&lt;/p&gt;
-&lt;p&gt;You are the reason I live, the reason I believe.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;How can I tell what you are to me? &lt;br /&gt;
-How can I tell what you are to me?&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Adieu 2022!</title>
-      <link>http://localhost:3488/post/adieu-2022/</link>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/adieu-2022/</guid>
-      <description>&lt;p&gt;Today is the last day of the year 2022. Wow! What a fantastic journey it was. Now, when I look back on 2022, I am astonished. Like everyone, I embarked on my 2022 journey with many resolutions. Some, I aced; in some, I failed. I can undoubtedly tell everyone that I have cherished every day this year. There is nothing for which I should repent. I passed the litmus test of life in 2022. Allow me to take you on my unforgettable journey of the year.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;January&lt;/b&gt;&lt;/p&gt; 
-I was tense about how fruitful this year will turn out for me. But, at the same time, the spirits were high. In the second week of January, my academic advisor, Denis Blackmore, took a leave from the college due to some health reasons.
-&lt;p&gt;I was constantly in touch with him, and he told me he was doing fine. But, my anxiousness was growing exponentially. I used to walk near the park near my house to find solace. I am a self-claimed photographer and take pictures whenever I see a good view. I took a picture of the first snowfall of the year. Here it is:&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/jan.jpg&#34; alt=&#34;January&#34; height=&#34;200&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;February&lt;/b&gt;&lt;/p&gt; 
-The month of February started with Denis’s email saying: My medical problem is more complicated than I thought, and I’m undergoing a series of tests today. After a few days, I received another email from him saying: My medical problem is much more severe than I thought. He added, you have been outstanding students even for the short time we’ve been together, and I wish you all the best. Now, I was concerned. Four days later, I received another email from him saying: I am so happy to have you as my student, but I can not advise you because I need to get an operation, which will follow by two months of bed rest. He added you have never disappointed me as a student, and you will not if you choose a new advisor. After this email, I tried to reach out to him, but all efforts were in vain. I was in shock. Though I am not religious, I visited the temple for the well-being of my advisor. The picture of the temple I visited in New Jersey:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/feb.jpg&#34; alt=&#34;February&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;March&lt;/b&gt;&lt;/p&gt; 
-In March, the weather is pleasant to do all the outdoor activities. I play cricket when I am stressed, and yes, this time, I was worried because of things that happened in the last couple of months. While playing cricket, I broke my right leg right before spring break. But, my pain never took over my spirit. I was going to school for my teaching duties. While I was home, I cooked for myself. I cleaned the whole apartment alone- nobody helped me. My body’s inner strength healed me, both mentally and physically. Also, we all got a response to the card we sent to Denis for his speedy recovery. He said; the card brought tears to his eyes, and he misses all of us. In the midst, I found a moment to astray my thoughts. My school’s Indian association for students gave me a chance to celebrate an Indian festival called Holi. Holi is the Festival of colors. Here is a picture from the celebration:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/march.jpg&#34; alt=&#34;March&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-By the month’s end, I realized I was on my own now, and nothing could shake me.
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;April&lt;/b&gt;&lt;/p&gt;
-I decided to switch to a new advisor after three years in my Ph.D. program. I was starting my Ph.D. from scratch. I was worried, but not as much as I was concerned about Denis. Now, I started working on a completely different project. But, my new advisor, Professor Roy Goodman, made everything easy. He is the mentor I was looking for in this challenging time. Everything was going smoothly; I was improving in every way. I was becoming more informed about things. Then on April 28th, I heard the news that Denis had passed away. I was devastated. I didn’t know how I should react. But, again, Roy rescued me from this time. Most of the month went into wrapping up the semester. One time I got a chance to visit a café (called Intrinsic Café) near my school for the very first time in three years. Here is the picture:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/april.jpg&#34; alt=&#34;April&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;May&lt;/b&gt;&lt;/p&gt;
-Spring had turned into Summer. But it was a Fall season for me, Dark and Gloomy. Now, I was recovering from two things: Denis’s death and my broken leg. Meanwhile, in India, things were not good with my family. Everything seemed to be falling apart. I wanted to leave everything behind and wanted to go back to India. But my parents and the family I have made here in the US eased everything for me. My friends, Nick and David, used to come every day to check on me to see if I was doing fine, and I will always be indebted to their friendship. In the department of mathematics at my school, we organize an Annual Conference on Frontiers in Applied and Computational Mathematics (FACM’22). I was one of the volunteers for the conference. I made a lot of good friends from different universities. On the last day of the meeting, we all celebrated our success. Here is the picture:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/facm.jpg&#34; alt=&#34;May&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
- I had a balanced month in May 2022.
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;June&lt;/b&gt;&lt;/p&gt;
-I had recovered physically, but mentally. I was feeling better. The process of healing teaches you everything. The best way to deal with any situation is to face it. I was facing everything that was in my way and was gaining more and more strength. The world can not exist without dualities. We can only define what is wrong with right already existing and vice-versa. And so, the power I was gaining was for some reason. Something was coming where I needed to use that strength. On June 25th, I lost my dog. I won’t express how I felt; the readers know the feeling. The last picture of my dog that I took back in India:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/dog.jpg&#34; alt=&#34;June&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;July&lt;/b&gt;&lt;/p&gt;
-On the 4th of July, I went out with my friends to celebrate the USA independence day and see the fireworks. Here is the picture I took:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/july.png&#34; alt=&#34;July&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;On July 15th, I joined a summer teaching program at my school to keep myself diverted from the things that had already happened in my life. I feel relaxed when I teach. I was feeling happy because of the interaction with different kinds of students. But, the thing is, I can’t keep myself out of trouble. I broke the same leg again- this time, with four hair-line fractures. The doctor put me in a gigantic boot. I was in an ever-ending loop of troubles again.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;August&lt;/b&gt;&lt;/p&gt;
-As I was in bed again, I got into the hobby of reading. I read a total of five books this month. Here is the list of the books I read:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;b&gt;Total Freedom by J. Krishnamurti&lt;/b&gt;&lt;br&gt;
-  &lt;b&gt;Thus Spake Zarathustra by Friedrich Nietzsche&lt;/b&gt;&lt;br&gt;
-  &lt;b&gt;The Upanishads by Eknath Easwaran&lt;/b&gt;&lt;br&gt;
-  &lt;b&gt;The Forty Rules of Love by Elif Shafak&lt;/b&gt;&lt;br&gt;
-  &lt;b&gt;Autobiography of a Yogi by Paramahansa Yogananda&lt;/b&gt;
-&lt;/p&gt;
-&lt;p&gt;As soon as I got the strength to stand on my feet again, I went out with my friends. The place is called Greenroom, located in Harrison, New Jersey. This place can make a corpse alive, all credit to the amiable bartenders. Here is a picture of my friends (David and Nick) and me with a few staff members (Jules and Sam ) of the Greenroom.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/aug.jpg&#34; alt=&#34;August&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;September&lt;/b&gt;&lt;/p&gt;
-On September 5th, I started my final semester of the year. I knew that I was lagging behind in my Ph.D. My friends, who started with me in 2019, had already defended their Ph.D. thesis proposal. And here I was, starting everything fresh. My advisor is a gem. He helped me with everything. I started learning about new things I hadn’t seen before; that’s how research works. The best thing about my advisor is that he genuinely wants the person to understand. I had started getting my pace back.
-Meanwhile, I actively started participating in UCAN (United Council of Academics @NJIT), which works for the rights of research students and adjuncts at my school. At a UCAN event, I clicked a picture with Brian (President, UCAN). Here is the picture: Brian (left) and me (right).
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/sep.jpg&#34; alt=&#34;September&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;In general, the month of September was full of positivity.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;October&lt;/b&gt;&lt;/p&gt;
-The month is full of festivals. Diwali is the biggest festival in India, followed by Halloween. Diwali is the festival of lights. In 2022, India celebrated Diwali on October 24th. I went with my friends to an Indian street in Jersey City to celebrate Diwali. Here is the picture from the Diwali celebration:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/oct.jpg&#34; alt=&#34;October&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;On October 31st, I celebrated Halloween with my friends. Here is the picture of me (pumpkin) with my friend (Nick):&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/hallow.jpg&#34; alt=&#34;Halloween&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;November&lt;/b&gt;&lt;/p&gt;
-November is a month full of birthdays. On November 3rd, one of my cousins celebrated his birthday in India. On November 5th, my other cousin celebrated her birthday in India. On November 7th, my aunt celebrated her birthday. On November 10th, my sister celebrated her birthday. On November 14th, my uncles (14 years of age difference) celebrated their birthdays. On November 22nd, I celebrated my 28th birthday. On my birthday, I started my day by announcing that I would offer everyone free mathematics (undergraduate/graduate) tutoring for my birthday. Later, I went with my friends to an Indian restaurant to celebrate the occasion. The day was absolute pandemonium. Here is the picture from my birthday celebration:
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/nov.jpg&#34; alt=&#34;Birthday&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;&lt;b&gt;December&lt;/b&gt;&lt;/p&gt;
-The month of December started poorly. On December 2nd, I received a phone from my father telling me about the passing away of my maternal grandfather. It was a significant loss in my life. A void was created in my life again. I was on phone calls for hours with my parents to know how are they doing. I wanted to visit India and see my parents. But, I had a few deadlines for my Ph.D. that hindered me from going. I am glad they have healed from their loss, and I have successfully submitted my Ph.D. thesis proposal, which I will defend on January 11th, 2023. I am excited about it.
-&lt;p&gt;On December 14th, Jules, at the Greenroom, sketched my fat version, which I love. I am overeating to look like this. Look at the picture below:&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/fat.jpg&#34; alt=&#34;Fat&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;On December 25th, I celebrated Christmas in China Town in New York; while walking on the streets, I clicked on a beautiful picture. Here is the picture:&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/chinatown.jpg&#34; alt=&#34;china&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;I took another picture while walking on the streets of New York City.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://atulanurag.com/post/adieu-2022/december.jpg&#34; alt=&#34;December&#34; width=&#34;500&#34;&gt;
-&lt;/p&gt;
-&lt;p&gt;I learned much from the year 2022. Though it was a year of losses; but, I have no complaints. I plan to cultivate the art of &lt;a href=&#34;https://www.nytimes.com/2022/11/25/well/mind/schadenfreude-freudenfreude.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;freudenfreude&lt;/a&gt; in 2023. I hope you all enjoyed reading my article. Thank you for patiently reading my article. I wish you all a Happy New Year 2023. Let’s keep the past in the past and start living in the present.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Birthday</title>
-      <link>http://localhost:3488/post/birth-day/</link>
-      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/birth-day/</guid>
-      <description>&lt;p&gt;On November 22, 2022: I am turning twenty-eight.My birthday has no importance without quoting a Sanskrit Shloka,&lt;/p&gt;
-&lt;p&gt;सर्वतीर्थमयी माता सर्वदेवमयः पिता |&lt;/p&gt;
-&lt;p&gt;मातरं पितरं तस्मात् सर्वयत्नेन पूजयेत् ||&lt;/p&gt;
-&lt;p&gt;The gist of the Shloka is:&lt;/p&gt;
-&lt;p&gt;To a person, his mother is an object of veneration, and his father is like all the Gods combined. Therefore, his sacred duty is to revere and serve both of them with utmost care and attention.&lt;/p&gt;
-&lt;p&gt;I have had a sinusoidal year so far, with many ups and downs. This is a rarefied world. Like the outside world, personal identity is far away. I was crestfallen, and I was losing my identity. But my friends helped me sail my drowning lifeboat to reach its shore, and I will always be in their debt for the rest of my life.&lt;/p&gt;
-&lt;p&gt;Life is unsettling enough, but it is only the beginning. &amp;ldquo;Our life is shaped by our mind, for we become what we think&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;I was born a tabula rasa, but my life experiences have helped me become the person I am today.&lt;/p&gt;
-&lt;p&gt;The life-changing quote in my life this year was by the great Chinese philosopher: Lao Tzu. The quote is:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;div style=&#34;text-align:center;&#34;&gt;&lt;/strong&gt;
-&lt;strong&gt;If you are depressed, you are living in the past.&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;If you are anxious, you are living in the future.&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;If you are at peace, you are living in the present.&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Indeed, today I am at peace. I am only reminiscing the evanescence of life. I have petered out my pompousness. With my exquisite tenderness of mental awareness, I vow to open a door of ecstasy to everyone. I bow down in reverence to everyone and wish them the best year ahead. Thank you all for being part of my life.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resurrection of Love</title>
-      <link>http://localhost:3488/post/resurrection-of-love/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/resurrection-of-love/</guid>
-      <description>&lt;p&gt;When you realize that letting go is better than holding, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that presence is not important to be part of something, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that you are being unconditionally attached, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that you have no longings for yourself, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize learning from life is fathomless, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that you are commemorating your enemy&amp;rsquo;s success, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that you have started accepting rather than expecting, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that you are mortal and today is the only day to live, Love Resurrects.&lt;/p&gt;
-&lt;p&gt;When you realize that nothing remains constant in life, Love Resurrects.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title> Karma</title>
-      <link>http://localhost:3488/post/karma/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/karma/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Karma Yoga, the path of selfless actions.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;My journey began with a personal experience that I&amp;rsquo;d like to share - my journey from rock bottom to the peak of success. Just a few months ago, I was in a state of despair. It wasn&amp;rsquo;t due to the COVID pandemic, but rather a result of the tough times that life threw at me. Those moments when everything seems to fall apart before your eyes, when your world crumbles beneath your feet, and you realize that your safe haven is being demolished. I&amp;rsquo;m sure we&amp;rsquo;ve all experienced these moments, the ones where we ask the question, &amp;ldquo;Why me?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Initially, I sought out immediate solutions to my problems. I wanted to take medicine to cure my ailments, but I wasn&amp;rsquo;t ready to give up my bad habits. I went to doctors with the hope that they could fix me, but every attempt ended in failure. Eventually, I became overwhelmed and decided to avoid my problems altogether. That was when I discovered Ekam Vada - a solution that I believed could help me get rid of all my problems.&lt;/p&gt;
-&lt;p&gt;In Sanskrit, Ekam means only one, and Vada means please tell. I wandered around aimlessly for a few weeks until I stumbled upon the Bhagavad Gita. Reading it transformed the way I thought, spoke, and lived my life. How, you ask? Let me explain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kurukshetra War in Mahabharata&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Arjuna, the great warrior, asked Lord Krishna to drive his chariot between the two armies so he could see who desired to fight with him. As he stood between the armies, he saw his fathers and grandfathers, teachers, uncles, brothers, sons, grandsons, in-laws, and friends - all of whom he would have to face in battle. Overcome with confusion and despair, Arjuna told Krishna that his body trembled with fear, and he did not wish to fight the war. He felt it was a great sin to kill his own relatives for the sake of a kingdom&amp;rsquo;s pleasures. Arjuna even went as far as to suggest that it would be better if his relatives killed him unarmed and unresisting. In this moment, Arjuna wanted to run away from his problems instead of facing them head-on. Don&amp;rsquo;t we all feel the same way during a crisis? I know I have wanted to run away from my problems in the past.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mighty Lord Krishna Speaks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Krishna teaches that one should never engage in action solely for the sake of rewards, nor should one long for inaction. Those who break away from the ego-cage of &amp;lsquo;I,&amp;rsquo; &amp;lsquo;me,&amp;rsquo; and &amp;lsquo;mine&amp;rsquo; to unite with the Lord of Love are forever free. He advises Arjuna to work without self-attachments and to stay steady in success and failure. The wise, who unify their consciousness and abandon the attachment to the fruits of action that bind a person to rebirth, attain a state beyond all evil.&lt;/p&gt;
-&lt;p&gt;Krishna warns that when a person has lost the capacity to learn from the past and exercise sound judgment, their life is a waste. Such a person will bring misery upon themselves and those around them and leave this life as a burden instead of a contributor to others&amp;rsquo; welfare.&lt;/p&gt;
-&lt;p&gt;In this teaching, Krishna urges us to give up the doer, not the karma. He instructs Arjuna to fulfill all his duties, acting selflessly, and with devotion to selfless work, which is devotion to God. The senses have been conditioned by attraction to the pleasant and aversion to the unpleasant, but one should not be ruled by them as they are obstacles in one&amp;rsquo;s path. Our selfish desires and anger keep us away from eternal bliss.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Connections and Conclusions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Arjuna&amp;rsquo;s situation reflects our own experiences in times of difficulty. Often, our first inclination is to give up and retreat from action, seeing the problem as a personal issue of &amp;ldquo;I, me, and mine.&amp;rdquo; However, if we view the problem as a collective issue, it becomes a small part of the whole. This is where Krishna&amp;rsquo;s message comes in: we must relinquish the doer and focus on selfless action.&lt;/p&gt;
-&lt;p&gt;When we act as the doer, our ego creates expectations and blames others for any mistakes. But by acting selflessly, we eliminate the divide between the doer and the karma. We must renounce attachment to the fruits of our actions and see good and bad, success and failure, beauty and ugliness, and sorrow and happiness as equal.&lt;/p&gt;
-&lt;p&gt;Life is constantly changing, and we must adapt to these changes rather than seek comfort in inaction. Only through acting selflessly can we find peace and contentment in our actions, and avoid the trap of being ruled by our selfish desires and expectations.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A few Excerpts are taken from the book ”The Bhagavad Gita for Daily Living” by Eknath Easwaran.&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DONT FADE AWAY!</title>
-      <link>http://localhost:3488/post/dont-fade-away/</link>
-      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3488/post/dont-fade-away/</guid>
-      <description>&lt;p&gt;Failures may fade, but success doesn’t,&lt;/p&gt;
-&lt;p&gt;Luck may fade, but effort doesn’t,&lt;/p&gt;
-&lt;p&gt;Anger may fade, but love doesn’t,&lt;/p&gt;
-&lt;p&gt;Devotees may fade, but God doesn’t.&lt;/p&gt;
-&lt;p&gt;Breakups may fade, but relationships don’t,&lt;/p&gt;
-&lt;p&gt;Individuals may fade, but memories don’t,&lt;/p&gt;
-&lt;p&gt;Desires may fade, but attractions don’t,&lt;/p&gt;
-&lt;p&gt;Attachments may fade, but emotions don’t.&lt;/p&gt;
-&lt;p&gt;Ink may fade, but words don’t,&lt;/p&gt;
-&lt;p&gt;I may fade, but your trace in me won’t.&lt;/p&gt;
-&lt;hr&gt;
-</description>
     </item>
     
   </channel>

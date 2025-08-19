@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math 111 Calculus I | Atul Anurag</title>
+    <link>http://localhost:1313/teaching/njit/math-111/</link>
+      <atom:link href="http://localhost:1313/teaching/njit/math-111/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math 111 Calculus I</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/teaching/njit/math-111/featured.jpg.webp</url>
+      <title>Math 111 Calculus I</title>
+      <link>http://localhost:1313/teaching/njit/math-111/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math 108 Elementary Probability and Statistics | Atul Anurag</title>
+    <link>http://localhost:1313/teaching/ramapo/math-108/</link>
+      <atom:link href="http://localhost:1313/teaching/ramapo/math-108/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math 108 Elementary Probability and Statistics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png</url>
+      <title>Math 108 Elementary Probability and Statistics</title>
+      <link>http://localhost:1313/teaching/ramapo/math-108/</link>
+    </image>
+    
+    <item>
+      <title>Week 1 - Descriptive Statistics</title>
+      <link>http://localhost:1313/teaching/week-1-descriptive-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/week-1-descriptive-statistics/</guid>
+      <description>&lt;h2 id=&#34;topics-covered&#34;&gt;Topics Covered&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Types of data&lt;/li&gt;
+&lt;li&gt;Frequency tables&lt;/li&gt;
+&lt;li&gt;Histograms and bar charts&lt;/li&gt;
+&lt;li&gt;Measures of central tendency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-lecture-notes&#34;&gt;📚 Lecture Notes&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;lecture-notes.pdf&#34;&gt;Lecture Notes →&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-homework&#34;&gt;📝 Homework&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;homework1.pdf&#34;&gt;Download Homework (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

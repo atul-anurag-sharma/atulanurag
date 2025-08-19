@@ -2,37 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Atul Anurag</title>
-    <link>http://localhost:3488/tag/talks/</link>
-      <atom:link href="http://localhost:3488/tag/talks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/talks/</link>
+      <atom:link href="http://localhost:1313/tag/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 09:30:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 09:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:3488/media/icon_hubf1bafbf3f9ec4fa4a86baffde4f9bf8_307632_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
-      <link>http://localhost:3488/tag/talks/</link>
+      <link>http://localhost:1313/tag/talks/</link>
     </image>
     
     <item>
+      <title>The Global Phase Plane Analysis of Three Vortex Interactions</title>
+      <link>http://localhost:1313/events/dana-knox-research-showcase-2025/</link>
+      <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/dana-knox-research-showcase-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Phase Plane Analysis of the three-vortex problem</title>
+      <link>http://localhost:1313/events/siam-nnp-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 09:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/siam-nnp-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Phase Space of the Three-Vortex Problem</title>
-      <link>http://localhost:3488/events/siam-conference-on-nonlinear-waves-and-coherent/</link>
+      <link>http://localhost:1313/events/siam-nwcs-2024/</link>
       <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/events/siam-conference-on-nonlinear-waves-and-coherent/</guid>
+      <guid>http://localhost:1313/events/siam-nwcs-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point Vortex Dipole Scattering</title>
-      <link>http://localhost:3488/events/siam-nnp-2023/</link>
+      <link>http://localhost:1313/events/siam-nnp-2023/</link>
       <pubDate>Fri, 20 Oct 2023 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/events/siam-nnp-2023/</guid>
+      <guid>http://localhost:1313/events/siam-nnp-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalization of Leapfrogging Orbits of Point Vortices</title>
-      <link>http://localhost:3488/events/njit-math-summer-talk-2023/</link>
+      <link>http://localhost:1313/events/njit-math-summer-talk-2023/</link>
       <pubDate>Thu, 20 Jul 2023 09:30:00 +0000</pubDate>
-      <guid>http://localhost:3488/events/njit-math-summer-talk-2023/</guid>
+      <guid>http://localhost:1313/events/njit-math-summer-talk-2023/</guid>
       <description></description>
     </item>
     

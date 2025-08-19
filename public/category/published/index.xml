@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Published | Atul Anurag</title>
-    <link>http://localhost:3488/category/published/</link>
-      <atom:link href="http://localhost:3488/category/published/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/published/</link>
+      <atom:link href="http://localhost:1313/category/published/index.xml" rel="self" type="application/rss+xml" />
     <description>Published</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 21:56:21 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Apr 2025 21:56:21 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:3488/media/icon_hubf1bafbf3f9ec4fa4a86baffde4f9bf8_307632_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png</url>
       <title>Published</title>
-      <link>http://localhost:3488/category/published/</link>
+      <link>http://localhost:1313/category/published/</link>
     </image>
     
     <item>
+      <title>The Global Phase Space of the Three-Vortex Interaction System</title>
+      <link>http://localhost:1313/publication/global-three-vortex/</link>
+      <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
+      <guid>http://localhost:1313/publication/global-three-vortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
-      <link>http://localhost:3488/publication/vortex-dipole/</link>
+      <link>http://localhost:1313/publication/vortex-dipole/</link>
       <pubDate>Thu, 06 Jun 2024 21:56:21 -0400</pubDate>
-      <guid>http://localhost:3488/publication/vortex-dipole/</guid>
+      <guid>http://localhost:1313/publication/vortex-dipole/</guid>
       <description></description>
     </item>
     

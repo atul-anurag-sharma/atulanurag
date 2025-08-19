@@ -1,58 +1,50 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
 appearance:
-  theme_day: hugo    # alternative to minimal, try 'hugo', 'minimal', 'clean' or 'academic'
-  theme_night: hugo
-
-  font:
-    text: "Poppins"           # modern, fresh sans-serif font
-    heading: "Montserrat"     # elegant heading font
-    mono: "Source Code Pro"   # clean monospace for code
-
-  font_size: "M"               # medium font size for readability
-
-  colors:
-    primary: "#1E90FF"       # bright blue, customize as you like
-    accent: "#FF6347"        # tomato red accent color
-
-  layout:
-    sidebar: false           # hide sidebar for a cleaner, minimal look
-    container_width: 1200    # wider container for more spacious feel
-
-
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
 
 # SEO
+
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal blog of Atul Anurag, sharing insights on technology and life.'
-    twitter: 'atul_anurag'
+#    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: ''
+#    twitter: 'wowchemy'
+    twitter: 'Prof_DavidBader'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-109174963-2'
     baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
+
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
     show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Atul Anurag"
+    highlight_active_link: true
 
 # Site footer
+
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -63,17 +55,20 @@ footer:
       allow_commercial: false
 
 # Localization
+
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
+
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: github-dark
+    theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
@@ -103,11 +98,14 @@ features:
       index_name: ''
       show_logo: false
   map:
+#    provider: ''
     provider: 'mapnik'
+#    provider: 'google'
     api_key: ''
     zoom: 15
 
 # Extensions
+
 extensions:
   cms:
     branch: main
@@ -115,7 +113,9 @@ extensions:
   academicons:
     enable: true
 
+
 # Security
+
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true

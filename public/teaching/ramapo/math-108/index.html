@@ -1,0 +1,972 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: August 19, 2025 --><html lang="en-us" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.2.0" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dr. Atul Anurag" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines. Click below to access weekly lecture notes and homeworks." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/teaching/ramapo/math-108/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/blue.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <link rel="alternate" href="/teaching/ramapo/math-108/index.xml" type="application/rss+xml" title="Atul Anurag" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://localhost:1313/teaching/ramapo/math-108/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@Prof_DavidBader" />
+    <meta property="twitter:creator" content="@Prof_DavidBader" />
+  
+  <meta property="og:site_name" content="Atul Anurag" />
+  <meta property="og:url" content="http://localhost:1313/teaching/ramapo/math-108/" />
+  <meta property="og:title" content="Math 108 Elementary Probability and Statistics | Atul Anurag" />
+  <meta property="og:description" content="An introduction to probability theory, descriptive statistics, and statistical inference for students from a wide range of disciplines. Click below to access weekly lecture notes and homeworks." /><meta property="og:image" content="http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2024-06-14T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+
+  <title>Math 108 Elementary Probability and Statistics | Atul Anurag</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header ">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Atul Anurag">
+        
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      mr-auto ml-6">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Home</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/publication/"
+        >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/teaching/"
+        >Teaching</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/events/"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/contact/"
+        >Contact</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">Math 108 Elementary Probability and Statistics</h1>
+    <details>
+<summary><strong>📂 Homeworks and Lecture Notes</strong></summary>
+<br>
+<h2 id="weekly-materials">Weekly Materials</h2>
+<p>Here you can find links to each week&rsquo;s lecture notes and homework.</p>
+<table>
+<thead>
+<tr>
+<th>Week</th>
+<th>Lecture Notes</th>
+<th>Homework</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="week01/lecture-notes1.pdf">Week 1 Notes</a></td>
+<td><a href="week01/homework.pdf">Homework 1 (PDF)</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="week02/lecture-notes2.pdf">Week 2 Notes</a></td>
+<td><a href="week02/homework.pdf">Homework 2 (PDF)</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week03/lecture-notes3.pdf">Week 3 Notes</a></td>
+<td><a href="week03/homework.pdf">Homework 3 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</details>
+<hr>
+<h2 id="course-description">Course Description</h2>
+<p>This course introduces students to both <strong>descriptive</strong> and <strong>inferential statistics</strong>, with a foundation in <strong>elementary probability</strong>. Key topics include:</p>
+<ul>
+<li>Organizing and describing data</li>
+<li>Measures of center and variation</li>
+<li>Probability rules and distributions</li>
+<li>Binomial and normal distributions</li>
+<li>Confidence intervals and hypothesis testing</li>
+<li>Correlation and linear regression</li>
+</ul>
+<p>Students will explore real-life data sets through a variety of exercises, gaining hands-on experience with both mathematical methods and graphing calculator tools.</p>
+<p>This course is part of the <strong>General Education Program</strong> in the <strong>Quantitative Reasoning</strong> category and is designed to be accessible and applicable to students from across disciplines.</p>
+<hr>
+<h2 id="course-goals">Course Goals</h2>
+<p>The course consists of two components: Probability and Statistics. The student will gain a detailed insight into the three-step process of what Statistics is:  (1) collecting data sample, (2) displaying the sample and analyzing it, and from the later part of the course, (3) making calculations regarding predictions/inferences about the entire population. The second component of the course is Probability. Students will be introduced to probability as a branch of mathematics in its own right, as well as they will be able to see its usage in or connection to statistics.  Students will be exposed to a variety of real-life word problems, which will not only help them to make connections between the field of statistics and their field of study, but also, it will improve their problem-solving skills. Students will learn how to solve mathematics problems two ways: both algebraically (which will reinforce their basic mathematical skills) as well as by using the statistical features of their graphing calculators (which will enable them to learn and use relevant technology).</p>
+<hr>
+<h2 id="student-learning-outcomes">Student Learning Outcomes</h2>
+<p>By the end of the course, students will be able to:</p>
+<ol>
+<li>Solve problems reflecting core statistical and probabilistic concepts.</li>
+<li>Perform computations by hand and using a graphing calculator.</li>
+<li>Communicate mathematical reasoning clearly and effectively.</li>
+</ol>
+<p><strong>Assessment:</strong> These outcomes are assessed through quizzes, assignments, midterm exams, and a cumulative final exam.</p>
+<hr>
+<h2 id="course-information">Course Information</h2>
+<ul>
+<li><strong>Credit Hours:</strong> 4</li>
+<li><strong>Prerequisites:</strong>
+<ul>
+<li>SAT Math ≥ 580 or ACT Composite ≥ 26</li>
+<li>OR passing score on ACCUPLACER</li>
+<li>OR passing MATH 022 or MATH 021</li>
+</ul>
+</li>
+<li><strong>Textbook:</strong><br>
+<em>Statistics: Informed Decisions Using Data</em> by Michael Sullivan III, 7th ed., Pearson, 2024<br>
+<em>(Optional: Solutions Manual, CD videos – available at <a href="https://www.bkstr.com" target="_blank" rel="noopener">bkstr.com</a>)</em></li>
+<li><strong>Technology:</strong>
+<ul>
+<li>Required: TI-83 Plus or TI-84 Plus calculator</li>
+<li>Excel may be used for some exercises</li>
+<li>Smartphones may be required for submissions</li>
+<li>Additional tech for virtual instruction may include a computer with webcam and mic, smartphone, and internet</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="grading-breakdown">Grading Breakdown</h2>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quizzes &amp; Assignments (lowest 3 dropped)</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Exam I (proctored)</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Exam II (proctored)</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Cumulative Final Exam (proctored)</td>
+<td>25%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Grading Scale:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Grade</th>
+<th>Range</th>
+<th>Grade</th>
+<th>Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>93–100</td>
+<td>C</td>
+<td>73–76</td>
+</tr>
+<tr>
+<td>A−</td>
+<td>90–92</td>
+<td>C−</td>
+<td>70–72</td>
+</tr>
+<tr>
+<td>B+</td>
+<td>87–89</td>
+<td>D+</td>
+<td>67–69</td>
+</tr>
+<tr>
+<td>B</td>
+<td>83–86</td>
+<td>D</td>
+<td>60–66</td>
+</tr>
+<tr>
+<td>B−</td>
+<td>80–82</td>
+<td>F</td>
+<td>0–59</td>
+</tr>
+<tr>
+<td>C+</td>
+<td>77–79</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="course-tools--support">Course Tools &amp; Support</h2>
+<ul>
+<li><strong>Office Hours:</strong> By appointment (in-person or WebEx). Email instructor to schedule.</li>
+<li><strong>Tutoring:</strong> Free tutoring at the STEM Tutoring Center (Room G131)<br>
+Schedule and booking: <a href="https://tutoring.ramapo.edu" target="_blank" rel="noopener">https://tutoring.ramapo.edu</a></li>
+<li><strong>Canvas:</strong> Course files, announcements, and communication will be posted via Canvas.</li>
+<li><strong>Email:</strong> Students must check their Ramapo College email regularly.</li>
+</ul>
+<hr>
+<p><strong>Quizzes and Assignments:</strong> There will be at least 6 quizzes and assignments total, each having an equal weight. The quizzes will be proctored in-class quizzes and will constitute at least 40% of the “Quizzes and Assignments” category of the course grade (counted before dropping the 3 lowest grades from “Quizzes and Assignments” category). Quizzes will be similar to the already covered lecture material and already assigned homework material not yet covered by the previous quiz. In addition to the quizzes, a number of assignments may be given throughout the semester and grades received from them will count towards the “Quizzes and Assignments” category (some of the assignments may be: collected homework, take home assignments, lecture notes, or group work). There will be no make up quizzes or assignments. Moreover, quizzes or assignments will not be accepted past the due date, but the lowest 3 grades from the “Quizzes and Assignments” category will be dropped at the end (they could be from the days a student did not submit their work or didn’t perform their best). If a student is feeling sick or contagious, the student should not come to class and they should see a doctor or a school nurse.  If a student misses more than 3 in-class quizzes and if each of them was missed due to a contagious illness documented by a doctor’s note or a school nurse’s note that the student experienced on the dates those quizzes were administered, the student may contact the course instructor for additional accommodations. Students with chronic medical conditions are advised to seek accommodations from the Office of Specialized Services.</p>
+<p>Whether collected or not, it is essential that homework is completed by each next class meeting.<br>
+Any files (documents, lecture videos, quiz solutions, exam solutions, etc.)  that the course instructor posts on Canvas, sends via email, or hands out on paper, are the intellectual property of the course instructor. Students may not post them on the web for anyone from outside of this class to see nor share with others in any format, whether it’s electronic, paper, etc., whether it’s this year or in the future years.<br>
+When a student works on their quizzes/assignments/exams that are take home assignments or ones that may need to be submitted online, for the student’s long term benefit, it is expected that the student does their work on their own without using any help from other persons, textbooks, notebooks or the internet. If a student’s answers look too close to the answers of another student, points may be deducted and all students involved may be reported to the Office of the Provost as outlined in the Academic Integrity Policy of Ramapo College.<br>
+In this course, students should take lecture notes in their paper notebooks, and not on computers, not on tablets, not on smartphones. During in-person lectures electronic devices such as computers, tablets, and smartphones need to be stored away into student bags. Disciplinary actions will be taken against students who do not adhere to this policy.</p>
+<p><strong>Exams:</strong> Exam I, Exam II and the Final Exam will be proctored exams (closed book/notes). In extraordinary circumstances a student might be permitted by the instructor to reschedule their Exam I or Exam II to a different date/time that will be determined by the instructor and scheduled for a time preceding the lecture in which the graded exam is returned to the whole class. Such student needs to notify the instructor about rescheduling their Exam I or Exam II  the earliest possible, before the date of the class exam (or if it is not possible, at most 24 hours after the actual class exam). The student will need to provide the instructor a proper documentation justifying their absence from the original exam. Students may not retake any of the exams they already took. The final exam will be administered by the instructor of this section to all students of this section at the date and time specific to this section’s class meeting day and time and is designated by the table called Final Exam Schedule that can be found on the Web for Students at <a href="https://www.ramapo.edu/web-resources/" target="_blank" rel="noopener">https://www.ramapo.edu/web-resources/</a>. Permission for an alternate time/day of the Final Exam will be granted to a student only in extraordinary circumstances and it requires the instructor to obtain the permission of the course director, Dr. Kowal.  If during an exam or during a proctored quiz a student uses a smart phone or other electronic device during the time in which such electronic device is not permitted, the student’s score on that exam or quiz will automatically turn into a 0, and the student may be reported to the Office of the Provost as outlined in the Academic Integrity Policy of Ramapo College. Students are not permitted to leave the exam desk during a proctored quiz or an exam (so there are no bathroom breaks during quizzes or exams)  unless a related doctor’s note or a related note from the Office of Specialized Services is presented to the instructor at least a week prior to the start of the quiz or exam. The electronic devices that are not permitted on quizzes and exams must be stored by students to their bags during quizzes and exams, unless instructed otherwise by the instructor.</p>
+<p>[Fall semesters only: In case of a college closing due to inclement weather during one of the days of the final exam week, the college designated for this semester December __ to be the final exam make up day.]</p>
+<p><strong>Attendance Policy:</strong> Students are expected to attend all classes, including possible virtual classes. Attendance will be taken. A student who accumulates more than 4 unexcused absences will not pass the course.  All other absences (besides the 4 unexcused ones) in order to be excused, must be documented with a doctor’s note or a school nurse’s note, but a student may wait with submitting the first two doctor/nurse notes to the professor until they accumulate 7 absences. That is, a student who has at most 6 absences total of any kind, does not need to provide any documentation to the professor yet, but once the student accumulates more than 6 absences total, the student needs to begin submitting to the professor the doctor/nurse notes for the excused absences that accumulated. For instance, once someone has 4 unexcused absences and 3 absences excused with doctor’s notes, at that point they need to submit the 3 doctor/nurse notes.</p>
+<p>A student who misses a lecture for more than 30 minutes will be marked absent for the whole lecture. Students who are absent or late are still responsible for obtaining any missed lecture notes, announcements, hand-outs, etc. from a classmate.</p>
+<p>College policy states that:</p>
+<blockquote>
+<p>“A student who plans to miss one or more class sessions for religious observance, whether the religious holiday is recognized by the State of New Jersey or not, must notify the course instructor as soon as possible but no later than prior to the date of the religious holiday or the 50% refund date of the term in which the student is enrolled in the course (whichever comes first). The course instructor will not penalize the student for the absence and will allow the student to make up any work missed while absent for religious observance. Ultimately, it is the student’s responsibility to complete the work by the date agreed upon by the instructor and the student.”<br>
+This semester, <strong>February 3rd</strong> is the college’s 50% tuition refund date.</p>
+</blockquote>
+<p><strong>E-mail Account and Electronic Communication:</strong> In accordance to the College policy, students are responsible for keeping their Ramapo College e-mail accounts active. There will be both college and class announcements sent out to these accounts. The instructor may also use Canvas website (available through RCNJ Intranet page) for electronic communication, such as emailing the class, posting course files, etc. Contact <a href="mailto:helpdesk@ramapo.edu">helpdesk@ramapo.edu</a> or 201-684-7777 for technology-related issues.</p>
+<p><strong>Policy on Academic Integrity:</strong> Students are expected to read and understand Ramapo College’s academic integrity policy, which can be found online in the College Catalog or at <a href="https://www.ramapo.edu/provost/policy/academic-integrity/" target="_blank" rel="noopener">https://www.ramapo.edu/provost/policy/academic-integrity/</a>. Members of the Ramapo College community are expected to be honest. Students who are suspected of violating this policy will be required to meet with the faculty member and/or will be referred to the Office of the Provost.</p>
+<p><strong>Students with Disabilities:</strong> If a student needs course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services (OSS), the student should contact their professor.</p>
+<hr>
+<h2 id="tentative-course-schedule">Tentative Course Schedule</h2>
+<p>See the syllabus or course page for the <strong>detailed lecture-by-lecture breakdown</strong>, topics, homework, and textbook problems.</p>
+<hr>
+<h2 id="college-resources">College Resources</h2>
+<ul>
+<li><strong>Academic Calendar:</strong> <a href="http://www.ramapo.edu/web-resources/" target="_blank" rel="noopener">Web For Students</a></li>
+<li><strong>School of Theoretical and Applied Science Office:</strong> ASB 422, (201) 684-7734</li>
+<li><strong>College Closings/Alerts:</strong> Call (201) 236-2902 or sign up for &ldquo;Alert Me Now&rdquo;</li>
+</ul>
+<hr>
+<h2 id="instructor-information">Instructor Information</h2>
+<ul>
+<li><strong>Instructor</strong>: Dr. Atul Anurag</li>
+<li><strong>Email</strong>: <a href="mailto:aanurag@ramapo.edu">aanurag@ramapo.edu</a></li>
+<li><strong>Office Hours</strong>: TBD</li>
+<li><strong>Location</strong>: TBD</li>
+</ul>
+<hr>
+
+  </article>
+</div>
+
+
+
+
+<div class="flex flex-col items-center">
+
+  <div class="container max-w-[65ch] mx-auto bg-white dark:bg-zinc-900 rounded-xl border-gray-100 dark:border-gray-700 border shadow-md overflow-hidden my-5">
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+<a href="/teaching/week-1-descriptive-statistics/"  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
+      
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Week 1 - Descriptive Statistics</div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        Topics Covered Types of data Frequency tables Histograms and bar charts Measures of central tendency 📚 Lecture Notes Lecture Notes →
+📝 Homework Download Homework (PDF)</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 0001</p>
+    </div>
+  </div>
+</a>
+
+  
+
+  </div>
+
+
+  
+
+
+</div>
+
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
