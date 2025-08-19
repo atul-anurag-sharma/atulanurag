@@ -7,13 +7,17 @@ summary: An introduction to probability theory, descriptive statistics, and stat
 # Page metadata.
 date_start: "2019-08-01"
 date_end: ""
-lastmod: "2024-06-14"
+lastmod: "2025-08-14"
 draft: false
 toc: true
 type: book
 tags: 
-- teaching
+  - teaching
+
+_book:
+  disableNextPrev: true
 ---
+
 
 ## 📂 Homeworks and Lecture Notes
 
