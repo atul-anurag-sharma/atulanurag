@@ -2,17 +2,25 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: hugo    # alternative to minimal, try 'hugo', 'minimal', 'clean' or 'academic'
+  theme_night: hugo
 
   font:
-    text: "Open Sans"
-    heading: "Open Sans"
-    mono: "Fira Code"
+    text: "Poppins"           # modern, fresh sans-serif font
+    heading: "Montserrat"     # elegant heading font
+    mono: "Source Code Pro"   # clean monospace for code
 
-  font_size: S
+  font_size: M               # medium font size for readability
+
+  colors:
+    primary: "#1E90FF"       # bright blue, customize as you like
+    accent: "#FF6347"        # tomato red accent color
+
+  layout:
+    sidebar: false           # hide sidebar for a cleaner, minimal look
+    container_width: 1200    # wider container for more spacious feel
+
 
 # SEO
 marketing:
