@@ -13,10 +13,6 @@ toc: true
 type: book
 tags: 
   - teaching
-
-_build:
-  render: true
-  list: false
   
 _book:
   disableNextPrev: true
