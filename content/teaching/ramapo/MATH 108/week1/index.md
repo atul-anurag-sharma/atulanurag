@@ -12,7 +12,7 @@ weight: 1
 
 ### 📚 Lecture Notes
 
-[Lecture Notes →](lecture-notes.pdf)
+[Lecture Notes →](lecture-notes1.pdf)
 
 ### 📝 Homework
 
