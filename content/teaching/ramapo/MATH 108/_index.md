@@ -26,7 +26,7 @@ Here you can find links to each week's lecture notes and homework.
 
 | Week | Lecture Notes | Homework |
 |------|----------------|----------|
-| 1 | [Week 1 Page](/math108/week1/) | [Homework 1 (PDF)](week01/homework1.pdf) |
+| 1 | [Week 1 Page](/math108/week1/) | [Homework 1 (PDF)](/math108/week01/homework1.pdf) |
 | 2 | [Week 2 Notes](week02/lecture-notes2.pdf) | [Homework 2 (PDF)](week02/homework.pdf) |
 | 3 | [Week 3 Notes](week03/lecture-notes3.pdf) | [Homework 3 (PDF)](week03/homework.pdf) |
 
