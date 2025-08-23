@@ -1,13 +1,3 @@
-/* Widen the content area on Book pages */
-.book-page .page-body {
-  max-width: 90vw;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Test style: turn paragraphs blue */
-p {
-  color: blue;
-}
+<style type="text/css">
+p { text-align: center; }
+</style>
