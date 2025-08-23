@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: emerald
+  custom_css:
+    - css/reveal_custom.css
 
 # SEO
 marketing:

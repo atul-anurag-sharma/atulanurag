@@ -1,3 +1,20 @@
 <style type="text/css">
-p { text-align: left; }
+/* Left-align paragraphs (your original style) */
+p {
+  text-align: left;
+}
+
+/* Widen the content container */
+.book-page .page-body {
+  max-width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Optional: make tables stretch too */
+.book-page table {
+  width: 100%;
+}
 </style>
