@@ -1,10 +1,4 @@
-<style type="text/css">
-/* Left-align paragraphs (your original style) */
-p {
-  text-align: left;
-}
-
-/* Widen the content container */
+/* Widen the content area on Book pages */
 .book-page .page-body {
   max-width: 90vw;
   margin-left: auto;
@@ -13,8 +7,7 @@ p {
   padding-right: 1rem;
 }
 
-/* Optional: make tables stretch too */
-.book-page table {
-  width: 100%;
+/* Test style: turn paragraphs blue */
+p {
+  color: blue;
 }
-</style>
