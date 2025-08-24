@@ -55,8 +55,6 @@ profiles:
   label: "E-mail Me"
   url: "mailto:aanurag@ramapo.edu"
   
-- icon: brands/x
-  url: https://twitter.com/atul_anurag
   
 - icon: brands/instagram
   url: https://www.instagram.com/atul.anurag.sharma/
