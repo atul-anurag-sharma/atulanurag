@@ -3,10 +3,12 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
+
 
 # SEO
 marketing:
@@ -30,10 +32,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
     show_search: true
-    show_theme_chooser: true
+    highlight_active_link: true
     logo:
       text: "Dr. Atul Anurag"
 
