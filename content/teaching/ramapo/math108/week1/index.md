@@ -1,6 +1,8 @@
 ---
-title: Week 1 - Descriptive Statistics
+title: "Week 1 - Descriptive Statistics"
+linktitle: "Week 1"
 weight: 1
+type: book
 ---
 
 ## Topics Covered
