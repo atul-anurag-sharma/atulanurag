@@ -27,7 +27,7 @@ Here you can find links to each week's lecture notes and homework.
 
 | Week | Lecture Notes | Homework |
 |------|---------------|----------|
-| 1    | [Week 1 webpage](week1/) | [Homework 1 (PDF)](week1/homework1.pdf) |
+| 1    | [Week 1 Lecture Notes](week1/lecture-notes1.pdf) | [Homework 1 (PDF)](week1/homework1.pdf) |
 
 ---
 
