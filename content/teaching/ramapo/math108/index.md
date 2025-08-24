@@ -60,23 +60,6 @@ This course is part of the **General Education Program** in the **Quantitative R
 
 ---
 
-  ## Course Description
-
-  This course introduces students to both **descriptive** and **inferential statistics**, with a foundation in **elementary probability**. Key topics include:
-
-  - Organizing and describing data
-  - Measures of center and variation
-  - Probability rules and distributions
-  - Binomial and normal distributions
-  - Confidence intervals and hypothesis testing
-  - Correlation and linear regression
-
-  Students will explore real-life data sets through a variety of exercises, gaining hands-on experience with both mathematical methods and graphing calculator tools.
-
-  This course is part of the **General Education Program** in the **Quantitative Reasoning** category and is designed to be accessible and applicable to students from across disciplines.
-
-  ---
-
   ## Course Goals
 
   The course consists of two components: Probability and Statistics. The student will gain a detailed insight into the three-step process of what Statistics is:  (1) collecting data sample, (2) displaying the sample and analyzing it, and from the later part of the course, (3) making calculations regarding predictions/inferences about the entire population. The second component of the course is Probability. Students will be introduced to probability as a branch of mathematics in its own right, as well as they will be able to see its usage in or connection to statistics.  Students will be exposed to a variety of real-life word problems, which will not only help them to make connections between the field of statistics and their field of study, but also, it will improve their problem-solving skills. Students will learn how to solve mathematics problems two ways: both algebraically (which will reinforce their basic mathematical skills) as well as by using the statistical features of their graphing calculators (which will enable them to learn and use relevant technology). 
