@@ -2,9 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The Global Phase Space of the Three-Vortex Interaction System"
-authors: [admin,roy-goodman]
-date: 
-
+authors: [admin, roy-goodman]
+date: 2025-04-22
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-22T21:56:21-04:00
@@ -27,11 +26,9 @@ summary: "We derive a symplectic reduction of the evolution equations for a syst
 categories: ["published"]
 featured: true
 
-
 links:
   - name: arXiv
     url: "https://arxiv.org/abs/2504.16038"
-  
 
 url_pdf:
 url_code:
@@ -51,9 +48,14 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 ---
+
+---
+
+**Authors:** admin, Roy Goodman  
+**Date:** April 22, 2025
+
+---
+
+We derive a symplectic reduction of the evolution equations for a system of three point vortices and use the reduced system to succinctly explain a kind of bifurcation diagram that has appeared in the literature in a form that was difficult to understand and interpret. Using this diagram, we enumerate and plot all the global phase-space diagrams that occur as the circulations of the three vortices are varied. The reduction proceeds in two steps: a reduction to Jacobi coordinates and a Lie-Poisson reduction. In a recent paper, we used a different method in the second step. This took two forms depending on a sign that arose in the calculation. The Lie-Poisson equations unify these into a
