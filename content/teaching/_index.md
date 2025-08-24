@@ -1,6 +1,6 @@
 ---
 title: Teaching
-view: list
+view: landing
 draft: false
 ---
 
