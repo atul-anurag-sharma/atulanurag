@@ -45,40 +45,28 @@ Here you can find links to each week's lecture notes and homework.
 
 ## Course Description
 
-This course introduces students to both **descriptive** and **inferential statistics**, with a foundation in **elementary probability**. Key topics include:
+This introduction to statistics consists of both descriptive and inferential statistics, offering elementary probability as its background. Topics include: organization and description of data, introduction to probability, probability distributions, making inferences about population parameters using hypothesis testing, correlation and linear regression. The course offers a variety of exercises with real-life data sets. 
 
-- Organizing and describing data
-- Measures of center and variation
-- Probability rules and distributions
-- Binomial and normal distributions
-- Confidence intervals and hypothesis testing
-- Correlation and linear regression
-
-Students will explore real-life data sets through a variety of exercises, gaining hands-on experience with both mathematical methods and graphing calculator tools.
-
-This course is part of the **General Education Program** in the **Quantitative Reasoning** category and is designed to be accessible and applicable to students from across disciplines.
+The course is designed to introduce the student to the language, methodology, scope, and spirit of mathematics through an introduction to probability and statistics, two topics which are rich in applications and can genuinely be appreciated by students throughout the College. 
 
 ---
 
-  ## Course Goals
+## Course Goals
 
-  The course consists of two components: Probability and Statistics. The student will gain a detailed insight into the three-step process of what Statistics is:  (1) collecting data sample, (2) displaying the sample and analyzing it, and from the later part of the course, (3) making calculations regarding predictions/inferences about the entire population. The second component of the course is Probability. Students will be introduced to probability as a branch of mathematics in its own right, as well as they will be able to see its usage in or connection to statistics.  Students will be exposed to a variety of real-life word problems, which will not only help them to make connections between the field of statistics and their field of study, but also, it will improve their problem-solving skills. Students will learn how to solve mathematics problems two ways: both algebraically (which will reinforce their basic mathematical skills) as well as by using the statistical features of their graphing calculators (which will enable them to learn and use relevant technology). 
+The course consists of two components: Probability and Statistics. The student will gain a detailed insight into the three-step process of what Statistics is:  (1) collecting data sample, (2) displaying the sample and analyzing it, and from the later part of the course, (3) making calculations regarding predictions/inferences about the entire population. The second component of the course is Probability. Students will be introduced to probability as a branch of mathematics in its own right, as well as they will be able to see its usage in or connection to statistics.  Students will be exposed to a variety of real-life word problems, which will not only help them to make connections between the field of statistics and their field of study, but also, it will improve their problem-solving skills. Students will learn how to solve mathematics problems two ways: both algebraically (which will reinforce their basic mathematical skills) as well as by using the statistical features of their graphing calculators (which will enable them to learn and use relevant technology). 
 
-  ---
+---
 
-  ## Student Learning Outcomes
+## Measurable Student Learning Outcomes with respect to the course: 
+(1)	Students should be able to solve problems that reflect their understanding of the course
+      concepts.
+(2) Students should be able to perform computations (some by hand, some using special features of   
+      a graphing calculator) that involve topics taught in the course. 
+(3) Students should communicate mathematics with precision, clarity and organization.
+Assessment: These outcomes will be all assessed through the final exam. 
 
-  By the end of the course, students will be able to:
 
-  1. Solve problems reflecting core statistical and probabilistic concepts.
-  2. Perform computations by hand and using a graphing calculator.
-  3. Communicate mathematical reasoning clearly and effectively.
-
-  **Assessment:** These outcomes are assessed through quizzes, assignments, midterm exams, and a cumulative final exam.
-
-  ---
-
-  ## Course Information
+## Course Information
 
   - **Credit Hours:** 4
   - **Prerequisites:**
