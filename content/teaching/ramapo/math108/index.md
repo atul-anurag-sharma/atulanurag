@@ -26,7 +26,7 @@ _book:
 Here you can find links to each week's lecture notes and homework.
 
 <details>
-  <summary>Click to expand weekly materials</summary>
+    <summary>🔽🔽 **Click Here to Show Weekly Homework & Notes** 🔽🔽</summary>
 
 | Week | Lecture Notes                          | Homework                      | Homework Solutions            |
 |-------|--------------------------------------|-------------------------------|------------------------------|
