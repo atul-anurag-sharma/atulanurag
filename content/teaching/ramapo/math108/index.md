@@ -59,9 +59,12 @@ The course is designed to introduce the student to the language, methodology, sc
 
 ## Instructor Information
 
-  - **Instructor**: Dr. Atul Anurag 
-  - **Email**: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
-  - **Office Hours**: TBD  
-  - **Location**: TBD
+- Instructor: Dr. Atul Anurag
+- Email: aanurag@ramapo.edu
+- Office Hours:
+    * In-person or virtual, by appointment
+    * Mondays and Thursdays: 12:00 PM to 1:00 PM
+    * Other days/times: By appointment
+- Location: G128H
 
 ---
