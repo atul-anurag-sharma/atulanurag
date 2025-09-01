@@ -61,6 +61,7 @@ The course is designed to introduce the student to the language, methodology, sc
 
 [Download the MATH 108 Course Syllabus (PDF)](week1/MATH108-syllabus.pdf)
 
+
 ---
 
 ## Instructor Information
