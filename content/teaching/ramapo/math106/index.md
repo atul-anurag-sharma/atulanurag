@@ -59,7 +59,7 @@ Find all weekly lecture notes, homework assignments, and their solutions below.
 
 ## Course Syllabus
 
-[Download the MATH 106 Course Syllabus (PDF)](week1/MATH108-syllabus.pdf)
+[Download the MATH 106 Course Syllabus (PDF)](week1/MATH106-syllabus.pdf)
 
 
 ---
