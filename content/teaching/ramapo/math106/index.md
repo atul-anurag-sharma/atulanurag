@@ -31,8 +31,8 @@ Find all weekly lecture notes, homework assignments, and their solutions below.
 
 | 🕓 **Week** | 📘 **Lecture Notes** | 🧮 **Homework** | ✅ **Solutions** |
 |:-----------:|:-------------------:|:---------------:|:----------------:|
-| 1 | [Lecture Notes 1](week1/lecture-notes1.pdf) | [Homework 1](week1/homework1.pdf) | [Solutions 1](week1/solutions1.pdf) |
-| 2 | [Lecture Notes 2](week2/lecture-notes2.pdf) | [Homework 2](week2/homework2.pdf) | [Solutions 2](week2/solutions2.pdf) |
+| 1 | [Lecture Notes 1](week1/math_106_lecture_1.pdf) | [Homework 1](week1/homework1.pdf) | [Solutions 1](week1/solutions1.pdf) |
+| 2 | [Lecture Notes 2](week1/math_106_lecture_2.pdf) | [Homework 2](week2/homework2.pdf) | [Solutions 2](week2/solutions2.pdf) |
 | 3 | [Lecture Notes 3](week3/lecture-notes3.pdf) | [Homework 3](week3/homework3.pdf) | [Solutions 3](week3/solutions3.pdf) |
 | 4 | [Lecture Notes 4](week4/lecture-notes4.pdf) | [Homework 4](week4/homework4.pdf) | [Solutions 4](week4/solutions4.pdf) |
 | 5 | [Lecture Notes 5](week5/lecture-notes5.pdf) | [Homework 5](week5/homework5.pdf) | [Solutions 5](week5/solutions5.pdf) |
