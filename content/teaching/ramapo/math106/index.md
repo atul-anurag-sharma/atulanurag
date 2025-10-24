@@ -7,7 +7,7 @@ summary: This Quantitative Reasoning course is designed for non-science majors w
 # Page metadata.
 date_start: "2019-08-01"
 date_end: ""
-lastmod: "2025-08-14"
+lastmod: "2025-10-24"
 draft: false
 toc: true
 type: book
