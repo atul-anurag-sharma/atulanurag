@@ -30,7 +30,6 @@ Find all weekly lecture notes below.
 
 <b>📘 Weekly Homework & Notes</b>
 
-<br>
 
 | 🕓 **Week** | 📘 **Lecture Notes** |
 |:-----------:|:-------------------:|
@@ -41,7 +40,6 @@ Find all weekly lecture notes below.
 | 5 | [Lecture 9](week5/math_106_lecture_9.pdf), [Lecture 10](week5/math_106_lecture_10.pdf) |
 | 6 | [Lecture 11](week6/math_106_lecture_11.pdf), [Lecture 12](week6/math_106_lecture_12.pdf) |
 
-<br>
 
 ## Course Syllabus
 
