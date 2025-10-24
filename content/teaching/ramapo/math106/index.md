@@ -29,8 +29,7 @@ correction of data transmission errors.
 ### 📅 Weekly Materials
 Find all weekly lecture notes below.
 
-<details>
-  <summary><b>🔽 Click to Expand Weekly Homework & Notes</b></summary>
+<b>📘 Weekly Homework & Notes</b>
 
 <br>
 
@@ -43,9 +42,7 @@ Find all weekly lecture notes below.
 | 5 | [Lecture 9](week5/math_106_lecture_9.pdf), [Lecture 10](week5/math_106_lecture_10.pdf) |
 | 6 | [Lecture 11](week6/math_106_lecture_11.pdf), [Lecture 12](week6/math_106_lecture_12.pdf) |
 
-
 <br>
-</details>
 
 ---
 
