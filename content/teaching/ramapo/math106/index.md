@@ -2,7 +2,8 @@
 # Course title, summary, and position.
 title: Math 106 Introduction to Mathematical Modeling
 linktitle: Math
-summary: 
+summary: This is a Quantitative Reasoning keystone course meant for non-science majors. The course is intended to provide insight into the importance of mathematics to the world outside academia, and to improve students reasoning and problem—solving skills. It will introduce to students applications by way of management decision making, social choice, and population studies. Typical among problems to be studied are: scheduling of projects with precedence restrictions; linear Programming problems; manipulability of voting systems; weighted voting systems (coalitions and relative power, paradoxes in voting systems); apportionment; fair division in presence of individual preferences; detection and/or
+correction of data transmission errors.
 
 # Page metadata.
 date_start: "2019-08-01"
@@ -19,10 +20,10 @@ _book:
 ---
 
 
-## 🗂️ Homeworks & Lecture Notes
+## 🗂 Lecture Notes
 
 ### 📅 Weekly Materials
-Find all weekly lecture notes, homework assignments, and their solutions below.
+Find all weekly lecture notes below.
 
 <details>
   <summary><b>🔽 Click to Expand Weekly Homework & Notes</b></summary>
