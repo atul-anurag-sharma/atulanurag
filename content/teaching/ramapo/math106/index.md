@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 title: Math 106 Introduction to Mathematical Modeling
 linktitle: Math
-summary: 
+summary: This Quantitative Reasoning course is designed for non-science majors who want to see how math connects to everyday life. You’ll build problem-solving and reasoning skills by exploring real-world applications in areas like business decisions, voting systems, and population studies. Topics include project scheduling, linear programming, how voting systems can be fair (or not), ways to divide resources fairly, and how to detect or fix data errors. By the end of the course, you’ll see how math helps explain and solve real problems in the world around you.
 
 # Page metadata.
 date_start: "2019-08-01"
