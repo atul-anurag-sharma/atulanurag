@@ -49,12 +49,12 @@ Each week’s homework corresponds to the lecture topics covered. Downloadable P
 
 | 🕓 **Week** | 🧾 **Homework** | 📅 **Due Date** |
 |:-----------:|:----------------|:---------------:|
-| 1 | [Homework 1](week1/homework_1.pdf) | Sep 6 |
-| 2 | [Homework 2](week2/homework_2.pdf) | Sep 13 |
-| 3 | [Homework 3](week3/homework_3.pdf) | Sep 20 |
-| 4 | [Homework 4](week4/homework_4.pdf) | Sep 27 |
-| 5 | [Homework 5](week5/homework_5.pdf) | Oct 4 |
-| 6 | [Homework 6](week6/homework_6.pdf) | Oct 11 |
+| 1 | [Homework 1](week1/homework_1.pdf) | Sep 17 |
+| 2 | [Homework 2](week2/homework_2.pdf) | Sep 29 |
+| 3 | [Homework 3](week3/homework_3.pdf) | Oct 6 |
+| 4 | [Homework 4](week4/homework_4.pdf) | Oct 27 |
+| 5 | [Homework 5](week5/homework_5.pdf) | Nov 3 |
+| 6 | [Homework 6](week6/homework_6.pdf) |  |
 
 ### 💡 Homework Notes & Solutions
 
