@@ -50,9 +50,6 @@ Find all weekly lecture notes below.
 
 [Download the MATH 106 Course Syllabus (PDF)](week1/MATH106-syllabus.pdf)
 
-
----
-
 ## Instructor Information
 
 - **Instructor:** Dr. Atul Anurag  
