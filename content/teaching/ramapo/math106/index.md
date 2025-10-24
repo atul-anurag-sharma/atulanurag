@@ -28,7 +28,7 @@ correction of data transmission errors.
 ### 📅 Weekly Materials
 Find all weekly lecture notes below.
 
-<b>📘 Weekly Homework & Notes</b>
+<b>📘 Weekly lecture Notes</b>
 
 
 | 🕓 **Week** | 📘 **Lecture Notes** |
@@ -40,6 +40,37 @@ Find all weekly lecture notes below.
 | 5 | [Lecture 9](week5/math_106_lecture_9.pdf), [Lecture 10](week5/math_106_lecture_10.pdf) |
 | 6 | [Lecture 11](week6/math_106_lecture_11.pdf), [Lecture 12](week6/math_106_lecture_12.pdf) |
 
+
+## 🧮 Homework
+
+### 🗓 Weekly Homework Assignments
+
+Each week’s homework corresponds to the lecture topics covered. Downloadable PDFs are provided below.
+
+| 🕓 **Week** | 🧾 **Homework** | 📅 **Due Date** |
+|:-----------:|:----------------|:---------------:|
+| 1 | [Homework 1](week1/homework_1.pdf) | Sep 6 |
+| 2 | [Homework 2](week2/homework_2.pdf) | Sep 13 |
+| 3 | [Homework 3](week3/homework_3.pdf) | Sep 20 |
+| 4 | [Homework 4](week4/homework_4.pdf) | Sep 27 |
+| 5 | [Homework 5](week5/homework_5.pdf) | Oct 4 |
+| 6 | [Homework 6](week6/homework_6.pdf) | Oct 11 |
+
+### 💡 Homework Notes & Solutions
+
+| 📘 **Week** | 🧩 **Solutions / Notes** |
+|:-----------:|:------------------------:|
+| 1 | [Homework 1 Solutions](week1/homework_1_solutions.pdf) |
+| 2 | [Homework 2 Solutions](week2/homework_2_solutions.pdf) |
+| 3 | [Homework 3 Solutions](week3/homework_3_solutions.pdf) |
+| 4 | [Homework 4 Solutions](week4/homework_4_solutions.pdf) |
+| 5 | [Homework 5 Solutions](week5/homework_5_solutions.pdf) |
+| 6 | [Homework 6 Solutions](week6/homework_6_solutions.pdf) |
+
+### 🧭 Notes on Submission
+- Submit all homework via **Canvas** or **in-person** by the due date listed.  
+- Late submissions accepted up to 48 hours with a 10% penalty.  
+- Show all work and clearly label answers.  
 
 ## Course Syllabus
 
