@@ -30,12 +30,12 @@ Here you can find links to each week's lecture notes and homework.
 
 | 🕓 **Week** | 📘 **Lecture Notes** |
 |:-----------:|:-------------------:|
-| 1 | [Lecture 1](week1/lecture-notes1.pdf), [Lecture 2](week1/math_106_lecture_2.pdf) |
-| 2 | [Lecture 3](week1/math_106_lecture_3.pdf), [Lecture 4](week1/math_106_lecture_4.pdf) |
-| 3 | [Lecture 5](week1/math_106_lecture_5.pdf), [Lecture 6](week1/math_106_lecture_6.pdf) |
-| 4 | [Lecture 7](week1/math_106_lecture_7.pdf), [Lecture 8](week1/math_106_lecture_8.pdf) |
-| 5 | [Lecture 9](week1/math_106_lecture_9.pdf), [Lecture 10](week1/math_106_lecture_10.pdf) |
-| 6 | [Lecture 11](week1/math_106_lecture_11.pdf), [Lecture 12](week1/math_106_lecture_12.pdf) |
+| 1 | [Lecture 1](week1/lecture-notes1.pdf), [Lecture 2](week1/math_108_lecture_2.pdf) |
+| 2 | [Lecture 3](week1/math_108_lecture_3.pdf), [Lecture 4](week1/math_108_lecture_4.pdf) |
+| 3 | [Lecture 5](week1/math_108_lecture_5.pdf), [Lecture 6](week1/math_108_lecture_6.pdf) |
+| 4 | [Lecture 7](week1/math_108_lecture_7.pdf), [Lecture 8](week1/math_108_lecture_8.pdf) |
+| 5 | [Lecture 9](week1/math_108_lecture_9.pdf), [Lecture 10](week1/math_108_lecture_10.pdf) |
+| 6 | [Lecture 11](week1/math_108_lecture_11.pdf), [Lecture 12](week1/math_108_lecture_12.pdf) |
 
 <br>
 
