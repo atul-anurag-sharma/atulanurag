@@ -30,7 +30,7 @@ Here you can find links to each week's lecture notes and homework.
 
 | 🕓 **Week** | 📘 **Lecture Notes** |
 |:-----------:|:-------------------:|
-| 1 | [Lecture 1](week1/math_106_lecture_1.pdf), [Lecture 2](week1/math_106_lecture_2.pdf) |
+| 1 | [Lecture 1](week1/lecture-notes1.pdf), [Lecture 2](week1/math_106_lecture_2.pdf) |
 | 2 | [Lecture 3](week2/math_106_lecture_3.pdf), [Lecture 4](week2/math_106_lecture_4.pdf) |
 | 3 | [Lecture 5](week3/math_106_lecture_5.pdf), [Lecture 6](week3/math_106_lecture_6.pdf) |
 | 4 | [Lecture 7](week4/math_106_lecture_7.pdf), [Lecture 8](week4/math_106_lecture_8.pdf) |
