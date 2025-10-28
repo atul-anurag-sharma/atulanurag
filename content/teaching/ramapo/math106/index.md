@@ -39,7 +39,7 @@ Find all weekly lecture notes below.
 | 4 | [Lecture 7](week4/math_106_lecture_7.pdf), [Lecture 8](week4/math_106_lecture_8.pdf) |
 | 5 | [Lecture 9](week5/math_106_lecture_9.pdf), [Lecture 10](week5/math_106_lecture_10.pdf) |
 | 6 | [Lecture 11](week6/math_106_lecture_11.pdf), [Lecture 12](week6/math_106_lecture_12.pdf) |
-
+| 6 | [Lecture 13](week7/math_106_lecture_13.pdf), [Lecture 14](week7/math_106_lecture_14.pdf) |
 
 ## 🧮 Homework
 
