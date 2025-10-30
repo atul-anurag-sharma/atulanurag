@@ -36,6 +36,7 @@ Here you can find links to each week's lecture notes and homework.
 | 4 | [Lecture 7](week1/math_108_lecture_7.pdf), [Lecture 8](week1/math_108_lecture_8.pdf) |
 | 5 | [Lecture 9](week1/math_108_lecture_9.pdf), [Lecture 10](week1/math_108_lecture_10.pdf) |
 | 6 | [Lecture 11](week1/math_108_lecture_11.pdf), [Lecture 12](week1/math_108_lecture_12.pdf) |
+| 6 | [Lecture 13](week1/math_108_lecture_13.pdf), [Lecture 14](week1/math_108_lecture_14.pdf) |
 
 <br>
 
