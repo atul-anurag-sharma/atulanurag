@@ -1,6 +1,6 @@
 ---
-title: Currently Teaching
+title: Fall 2025
 view: article-grid
-summary: Courses I am currently teaching at Ramapo.
+summary: Courses taught in the Fall 2025 at Ramapo.
 draft: false
 ---
