@@ -1,10 +1,11 @@
 ---
-title: "PhD Dissertation: The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering"
+title: "PhD Dissertation: 
+The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering"
 authors:
 - admin
 date: 2026-05-18
 
-publication_types: ["7"]
+publication_types: ["7"]  # thesis type in Wowchemy
 
 abstract: >
   This dissertation presents a global reduction of the classical three-vortex problem that is free from coordinate singularities, enabling a comprehensive analysis of the system's dynamics across all circulation regimes.
@@ -22,11 +23,8 @@ abstract: >
 url_pdf: "/files/atulanurag_PhD_dissertation.pdf"
 
 links:
-- name: Download PDF
-  url: "/files/atulanurag_PhD_dissertation.pdf"
-
-- name: View Official Record (NJIT Digital Commons)
-  url: "https://digitalcommons.njit.edu/dissertations/1851/"
+- name: PDF
+  url: /files/atulanurag_PhD_dissertation.pdf
 
 featured: true
 ---
