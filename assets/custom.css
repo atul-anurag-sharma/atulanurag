@@ -1,0 +1,45 @@
+
+body {
+  font-family: "Palatino", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.75;
+  color: #222;
+}
+
+/* Narrow academic column (VERY important) */
+main, .container, .article-container {
+  max-width: 720px;
+  margin: auto;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: "Palatino", serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* Paragraph spacing like papers */
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Links subtle academic style */
+a {
+  color: #2a4b8d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Publications feel like journal articles */
+.article-style {
+  max-width: 720px;
+}
+
+/* Reduce UI noise */
+.navbar, footer {
+  font-size: 0.95em;
+}

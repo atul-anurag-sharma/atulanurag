@@ -106,9 +106,12 @@ params:
     accent: "#FF6347"
 
   appearance:
-    theme: "auto"        # options: "auto", "light", "dark"
+    theme: "auto"
 
   layout:
     sidebar:
       enabled: false
     container_width: 1200
+
+  custom_css:
+    - css/custom.css
