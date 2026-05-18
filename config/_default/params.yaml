@@ -1,13 +1,8 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: modern
-  font_size: M
+  font: classic
+  font_size: L
 
 
 # SEO
@@ -15,9 +10,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Atul Anurag'
+    description: 'Personal academic website of Dr. Atul Anurag, specializing in dynamical systems, vortex dynamics, and nonlinear mathematics.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,12 +32,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Dr. Atul Anurag"
+      text: "Atul Anurag"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Atul Anurag. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false
