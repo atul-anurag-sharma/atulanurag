@@ -5,9 +5,9 @@
     <link>http://localhost:1313/authors/admin/</link>
       <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Atul Anurag</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 09:30:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/authors/admin/avatar_hue3d19bed5a2c1d2cfb28620d2d869c54_281847_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/authors/admin/avatar_hu_2c6e8a7f0c8975d.jpg</url>
       <title>Dr. Atul Anurag</title>
       <link>http://localhost:1313/authors/admin/</link>
     </image>
@@ -15,12 +15,20 @@
     <item>
       <title>Dr. Atul Anurag</title>
       <link>http://localhost:1313/authors/admin/</link>
-      <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/admin/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;Beginning in Fall 2025, I will be joining &lt;a href=&#34;https://www.ramapo.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramapo College of New Jersey&lt;/a&gt; as a Visiting Assistant Professor of Mathematics. I received my Bachelor&amp;rsquo;s degree in Mathematics in 2015 from &lt;a href=&#34;https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramjas College, University of Delhi&lt;/a&gt;, and a Master&amp;rsquo;s degree in Applied Mathematics in 2017 from the &lt;a href=&#34;https://www.nitw.ac.in/math&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Institute of Technology, Warangal, Telangana&lt;/a&gt;.&lt;br&gt;
+&lt;p&gt;I am working as a Visiting Assistant Professor of Mathematics at the &lt;a href=&#34;https://www.ramapo.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramapo College of New Jersey&lt;/a&gt;. I received my Bachelor&amp;rsquo;s degree in Mathematics in 2015 from &lt;a href=&#34;https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramjas College, University of Delhi&lt;/a&gt;, and a Master&amp;rsquo;s degree in Applied Mathematics in 2017 from the &lt;a href=&#34;https://www.nitw.ac.in/math&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Institute of Technology, Warangal, Telangana&lt;/a&gt;.&lt;br&gt;
 I earned my Ph.D. in Applied Mathematics in 2025 from the &lt;a href=&#34;https://math.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematical Sciences, New Jersey Institute of Technology&lt;/a&gt;, where I was advised by &lt;a href=&#34;https://roygoodman.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Roy Goodman&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PhD Dissertation: The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering</title>
+      <link>http://localhost:1313/publication/phd-dissertation/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/phd-dissertation/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -32,7 +40,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the &lt;a href=&#34;https:
     </item>
     
     <item>
-      <title>The Global Phase Space of the Three-Vortex Interaction System</title>
+      <title>Phase portraits and the bifurcation set for the three-vortex interaction system</title>
       <link>http://localhost:1313/publication/global-three-vortex/</link>
       <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
       <guid>http://localhost:1313/publication/global-three-vortex/</guid>

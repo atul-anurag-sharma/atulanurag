@@ -5,12 +5,364 @@
     <link>http://localhost:1313/teaching/njit/</link>
       <atom:link href="http://localhost:1313/teaching/njit/index.xml" rel="self" type="application/rss+xml" />
     <description>Past Courses</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png</url>
       <title>Past Courses</title>
       <link>http://localhost:1313/teaching/njit/</link>
     </image>
+    
+    <item>
+      <title>Math 106 Introduction to Mathematical Modeling</title>
+      <link>http://localhost:1313/teaching/math-106-introduction-to-mathematical-modeling/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/math-106-introduction-to-mathematical-modeling/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This is a Quantitative Reasoning keystone course meant for non-science majors. The course is intended to provide insight into the importance of mathematics to the world outside academia, and to improve students reasoning and problem—solving skills. It will introduce to students applications by way of management decision making, social choice, and population studies. Typical among problems to be studied are: scheduling of projects with precedence restrictions; linear Programming problems; manipulability of voting systems; weighted voting systems (coalitions and relative power, paradoxes in voting systems); apportionment; fair division in presence of individual preferences; detection and or
+correction of data transmission errors.&lt;/p&gt;
+&lt;h2 id=&#34;-lecture-notes&#34;&gt;🗂 Lecture Notes&lt;/h2&gt;
+&lt;h3 id=&#34;-weekly-materials&#34;&gt;📅 Weekly Materials&lt;/h3&gt;
+&lt;p&gt;Find all weekly lecture notes below.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;📘 Weekly lecture Notes&lt;/b&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;🕓 &lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;📘 &lt;strong&gt;Lecture Notes&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;-homework&#34;&gt;🧮 Homework&lt;/h2&gt;
+&lt;h3 id=&#34;-weekly-homework-assignments&#34;&gt;🗓 Weekly Homework Assignments&lt;/h3&gt;
+&lt;p&gt;Each week’s homework corresponds to the lecture topics covered. Downloadable PDFs are provided below.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;🕓 &lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;🧾 &lt;strong&gt;Homework&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;📅 &lt;strong&gt;Due Date&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sep 17&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sep 29&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Oct 6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Oct 27&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Nov 3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-homework-notes--solutions&#34;&gt;💡 Homework Notes &amp;amp; Solutions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;📘 &lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;🧩 &lt;strong&gt;Solutions / Notes&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-notes-on-submission&#34;&gt;🧭 Notes on Submission&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Submit all homework via &lt;strong&gt;Canvas&lt;/strong&gt; or &lt;strong&gt;in-person&lt;/strong&gt; by the due date listed.&lt;/li&gt;
+&lt;li&gt;Late submissions accepted up to 48 hours with a 10% penalty.&lt;/li&gt;
+&lt;li&gt;Show all work and clearly label answers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-syllabus&#34;&gt;Course Syllabus&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;instructor-information&#34;&gt;Instructor Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Atul Anurag&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;In-person or virtual, by appointment&lt;/li&gt;
+&lt;li&gt;Mondays and Thursdays: 12:00 PM to 1:00 PM&lt;/li&gt;
+&lt;li&gt;Other days/times: By appointment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; G128H&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math 108 Elementary Probability and Statistics</title>
+      <link>http://localhost:1313/teaching/math-108-elementary-probability-and-statistics/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/math-108-elementary-probability-and-statistics/</guid>
+      <description>&lt;h2 id=&#34;-homeworks-and-lecture-notes&#34;&gt;📂 Homeworks and Lecture Notes&lt;/h2&gt;
+&lt;h3 id=&#34;weekly-materials&#34;&gt;Weekly Materials&lt;/h3&gt;
+&lt;p&gt;Here you can find links to each week&amp;rsquo;s lecture notes and homework.
+&lt;b&gt;📘 Weekly Homework &amp;amp; Notes&lt;/b&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;🕓 &lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;📘 &lt;strong&gt;Lecture Notes&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+, 
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;This introduction to statistics consists of both descriptive and inferential statistics, offering elementary probability as its background. Topics include: organization and description of data, introduction to probability, probability distributions, making inferences about population parameters using hypothesis testing, correlation and linear regression. The course offers a variety of exercises with real-life data sets.&lt;/p&gt;
+&lt;p&gt;The course is designed to introduce the student to the language, methodology, scope, and spirit of mathematics through an introduction to probability and statistics, two topics which are rich in applications and can genuinely be appreciated by students throughout the College.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;course-syllabus&#34;&gt;Course Syllabus&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;instructor-information&#34;&gt;Instructor Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Atul Anurag&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;In-person or virtual, by appointment&lt;/li&gt;
+&lt;li&gt;Mondays and Thursdays: 12:00 PM to 1:00 PM&lt;/li&gt;
+&lt;li&gt;Other days/times: By appointment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; G128H&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math 112 Calculus II</title>
+      <link>http://localhost:1313/teaching/math-112-calculus-ii/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/math-112-calculus-ii/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;From Fall 2019 to Spring 2022, I served as a Recitation Leader for &lt;strong&gt;Calculus II (Math 112)&lt;/strong&gt;, an undergraduate-level course covering advanced topics in integral calculus, sequences and series, and polar coordinates.&lt;/p&gt;
+&lt;p&gt;My worked solutions to previous exams can be found here:&lt;br&gt;
+👉 
+&lt;/p&gt;
+&lt;p&gt;Each week, I also curated and assigned targeted &lt;strong&gt;practice problem sets&lt;/strong&gt;, designed to reinforce key concepts and support exam preparation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;weekly-practice-sets&#34;&gt;Weekly Practice Sets&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;🕓 &lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;📘 &lt;strong&gt;Practice Sets&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;I&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;II&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;III&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;IV&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;V&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VI&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VII&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VIII&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;IX&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math 111 Calculus I</title>
+      <link>http://localhost:1313/teaching/math-111-calculus-i/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/math-111-calculus-i/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;My solutions to the previous exams on Calculus I can be found here: &lt;a href=&#34;MATH-111.pdf&#34;&gt;Calculus I&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

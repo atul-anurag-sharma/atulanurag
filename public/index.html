@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 19, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: May 18, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.2.0" />
+  <meta name="generator" content="Hugo Blox Builder 0.10.0" />
 
   
   
@@ -18,6 +18,8 @@
 
 
 
+
+  
 
 
 
@@ -41,7 +43,7 @@
   
     
   
-  <meta name="description" content="Visiting Assistant Professor of Mathematics" />
+  <meta name="description" content="Personal academic website of Dr. Atul Anurag, specializing in dynamical systems, vortex dynamics, and nonlinear mathematics." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/" />
@@ -56,64 +58,31 @@
 
   
   
+  
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
-  
 
   
   
   
-
   
-
-  <script>
-     
-    window.hbb = {
-       defaultTheme: document.documentElement.dataset.wcThemeDefault,
-       setDarkTheme: () => {
-        document.documentElement.classList.add("dark");
-        document.documentElement.style.colorScheme = "dark";
-      },
-       setLightTheme: () => {
-        document.documentElement.classList.remove("dark");
-        document.documentElement.style.colorScheme = "light";
-      }
-    }
-
-    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
-
-    if ("wc-color-theme" in localStorage) {
-      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
-    } else {
-      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
-      if (window.hbb.defaultTheme === "system") {
-        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
-      }
-    }
-  </script>
-
-  <script>
+  
+  
+  
     
-    document.addEventListener('DOMContentLoaded', function () {
-      
-      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
-      checkboxes.forEach(e => {
-        e.parentElement.parentElement.classList.add('task-list');
-      });
+      <link rel="stylesheet" href="/css/_entry.css">
+    
+  
 
-      
-      const liNodes = document.querySelectorAll('.task-list li');
-      liNodes.forEach(nodes => {
-        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
-        if (textNodes.length > 0) {
-          const span = document.createElement('label');
-          textNodes[0].after(span);  
-          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
-          span.appendChild(textNodes[0]);
-        }
-      });
-    });
-  </script>
+
+  
+
+  
+  
+  
+
+  
+
+  <script src="/js/hb-head.min.js"></script>
 
   
   
@@ -160,8 +129,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu_80107a177ebc7f98.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_da3328ff46c72632.png" />
 
   <link rel="canonical" href="http://localhost:1313/" />
 
@@ -185,17 +154,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@Prof_DavidBader" />
-    <meta property="twitter:creator" content="@Prof_DavidBader" />
-  
   <meta property="og:site_name" content="Atul Anurag" />
   <meta property="og:url" content="http://localhost:1313/" />
   <meta property="og:title" content="Atul Anurag" />
-  <meta property="og:description" content="Visiting Assistant Professor of Mathematics" /><meta property="og:image" content="http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hue50b16f42026dbe199bb7bf81a0b65ce_2866871_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Personal academic website of Dr. Atul Anurag, specializing in dynamical systems, vortex dynamics, and nonlinear mathematics." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2025-04-23T09:30:00&#43;00:00" />
+      <meta property="og:updated_time" content="2026-05-18T00:00:00&#43;00:00" />
     
   
 
@@ -204,18 +170,15 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "http://localhost:1313/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  },
-  "url": "http://localhost:1313/"
+  "@type": "WebSite","url": "http://localhost:1313/"
 }
 </script>
 
 
   
+
+
+
 
 
   <title>Atul Anurag</title>
@@ -244,83 +207,122 @@
   
   
 
+
+
+
+  
+  
+
+  
+  
+
+  
+
   
   
     
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
     
       
       
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
       
     
       
       
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
       
     
       
       
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
       
     
       
       
+      
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
     
   
   
@@ -331,102 +333,7 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
-
-
-
-
-
-
-<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
-
-
-<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
-
-<style>
-  html.dark {
-    --pagefind-ui-primary: #eeeeee;
-    --pagefind-ui-text: #eeeeee;
-    --pagefind-ui-background: #152028;
-    --pagefind-ui-border: #152028;
-    --pagefind-ui-tag: #152028;
-  }
-</style>
-
-<script>
-  window.addEventListener('DOMContentLoaded', (event) => {
-    new PagefindUI({ element: "#search", showSubResults: true });
-  });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
-
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
-
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
-
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
-
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
-
-      });
-    }
-  });
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
   <script
     defer
     src="/js/hugo-blox-en.min.js"
@@ -444,25 +351,193 @@
 
 
 
+  <script>console.log('✓ Alpine.js loading on demand');</script>
+  
+  
+  <script src="/dist/lib/alpinejs/cdn.min.e041f1b639d1e6b2fc2736d8d7638a409afcd444a6ec90446f8f4e44fa36f406.js" integrity="sha256-4EHxtjnR5rL8JzbY12OKQJr81ESm7JBEb49ORPo29AY=" defer></script>
+
+
+
+
+<script defer src="/js/hb-search.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link type="text/css" rel="stylesheet" href="/dist/lib/katex/katex.min.19095127357ed6d29fe0a63a6b000c913a89f7f1963b765dd3715e97c9852e75.css" integrity="sha256-GQlRJzV&#43;1tKf4KY6awAMkTqJ9/GWO3Zd03Fel8mFLnU=" />
+  
+  
+  <script defer src="/dist/lib/katex/katex.min.e8d885505949f3a5f4abdd5dd0d53696bd1371ad26ffbf4f310dcd77c8cdae89.js" integrity="sha256-6NiFUFlJ86X0q91d0NU2lr0Tca0m/79PMQ3Nd8jNrok="></script>
+  
+  
+  
+  
+  <script defer src="/js/katex-renderer.7bdcf3f3f669a04734c54d2fe7c91a2d07b44e4ec8f1ea72384893db11a740eb.js" integrity="sha256-e9zz8/ZpoEc0xU0v58kaLQe0Tk7I8epyOEiT2xGnQOs="></script>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
 
 
 </head>
 
   <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
     <div id="page-bg"></div>
-    <div class="page-header ">
+    <div class="page-header sticky top-0 z-30">
       
       
       
-        
-        
         
           <header id="site-header" class="header">
-  <nav class="navbar px-3 flex justify-left">
-    <div class="order-0 h-100">
+  <nav class="navbar px-3 flex justify-start">
+    <div class="order-0 h-full">
       
       <a class="navbar-brand" href="/" title="Atul Anurag">
-        
+        Atul Anurag
       </a>
     </div>
     
@@ -487,8 +562,8 @@
     
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
-      mr-auto ml-6">
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
+      ">
       
       
       
@@ -527,8 +602,8 @@
         <a
           class="nav-link "
           
-          href="/teaching/"
-        >Teaching</a
+          href="/events/"
+        >Talks</a
         >
       </li>
       
@@ -541,8 +616,8 @@
         <a
           class="nav-link "
           
-          href="/events/"
-        >Talks</a
+          href="/teaching/"
+        >Teaching</a
         >
       </li>
       
@@ -570,9 +645,9 @@
       
       
       <button
-        aria-label="search"
-        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        aria-label="toggle search"
+        class="text-black hover:text-primary inline-block px-3 text-xl dark:text-white cursor-pointer"
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -584,12 +659,12 @@
         <button class="theme-toggle mt-1" accesskey="t" title="appearance">
           <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class="dark:hidden">
+               stroke-linejoin="round" class="block dark:hidden">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
           <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+               stroke-linejoin="round" class="hidden dark:block">
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -614,8 +689,488 @@
 </header>
 
 
-<div id="search" class="hidden p-3"></div>
+<div
+  x-data="searchModal()"
+  x-show="$store.search.open"
+  @keydown.escape.window="$store.search.open = false"
+  @keydown.cmd.k.window.prevent="$store.search.open = !$store.search.open"
+  @keydown.ctrl.k.window.prevent="$store.search.open = !$store.search.open"
+  x-cloak
+  class="fixed inset-0 z-[100] bg-black/50 backdrop-blur-sm"
+  style="display: none;"
+>
+  
+  <div class="absolute inset-0" @click="$store.search.open = false"></div>
+  
+  
+  <div 
+    class="relative mx-auto mt-[10vh] max-w-3xl"
+    x-show="$store.search.open"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="opacity-0 translate-y-4 scale-95"
+    x-transition:enter-end="opacity-100 translate-y-0 scale-100"
+    x-transition:leave="transition ease-in duration-150"
+    x-transition:leave-start="opacity-100 translate-y-0 scale-100"
+    x-transition:leave-end="opacity-0 translate-y-4 scale-95"
+  >
+    <div class="mx-4 overflow-hidden rounded-2xl bg-white dark:bg-gray-900 shadow-2xl ring-1 ring-gray-900/10 dark:ring-white/10">
+      
+      
+      <div class="border-b border-gray-200 dark:border-gray-800">
+        <div class="flex items-center gap-3 px-4 py-3">
+          
+          
+          <svg class="h-5 w-5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+          
+          
+          <input
+            x-ref="searchInput"
+            x-model="query"
+            @input="loading = query.trim() !== ''"
+            @input.debounce.300ms="search()"
+            type="text"
+            placeholder="Search for answers..."
+            class="flex-1 bg-transparent text-lg outline-none text-gray-900 dark:text-gray-100 placeholder-gray-400"
+            autocomplete="off"
+            autofocus
+          />
+          
+          
+          <div x-show="loading" class="flex-shrink-0">
+            <svg class="animate-spin h-5 w-5 text-primary-600" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+          </div>
+          
+          
+          <kbd class="hidden sm:block flex-shrink-0 rounded bg-gray-100 px-2 py-1 text-xs font-semibold text-gray-600 dark:bg-gray-800 dark:text-gray-400">ESC</kbd>
+          
+          
+    <button
+            @click="$store.search.open = false"
+            class="flex-shrink-0 rounded-lg p-1 text-gray-400 hover:bg-gray-100 hover:text-gray-600 dark:hover:bg-gray-800 dark:hover:text-gray-300 cursor-pointer"
+    >
+            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+  </div>
 
+        
+        <div x-show="query && availableFilters.length > 0" x-transition class="border-t border-gray-100 dark:border-gray-800 px-4 py-2">
+          <div class="flex flex-wrap gap-2">
+            <button
+              @click="activeFilter = null; search()"
+              :class="activeFilter === null ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'"
+              class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer"
+            >
+              All Results
+            </button>
+            <template x-for="filter in availableFilters" :key="filter.filterKey">
+              <button
+                @click="activeFilter = filter.filterKey; search()"
+                :class="activeFilter === filter.filterKey ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'"
+                class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer"
+                x-text="filter.label + ' (' + filter.count + ')'"
+              ></button>
+            </template>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="max-h-[60vh] overflow-y-auto">
+        
+        
+        <div x-show="!query && results.length === 0" class="p-6">
+          
+          
+          
+          
+          
+          
+          
+          
+        </div>
+        
+        
+        <div x-show="query && results.length > 0" class="divide-y divide-gray-200 dark:divide-gray-800">
+          <template x-for="(result, index) in results" :key="result.id">
+            <a
+              :href="result.url"
+              @mouseenter="selectedIndex = index"
+              @click="$store.search.open = false"
+              :class="selectedIndex === index ? 'bg-primary-50 dark:bg-primary-900/20 border-l-2 border-primary-600' : ''"
+              class="block px-6 py-4 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors group search-result"
+            >
+              
+              <div class="flex items-center gap-2 mb-2 flex-wrap">
+                
+                <span
+                  x-show="result.filters && result.filters.type"
+                  :class="{
+                    'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300': result.filters.type && result.filters.type[0] === 'questions',
+                    'bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300': result.filters.type && result.filters.type[0] === 'faq',
+                    'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300': result.filters.type && result.filters.type[0] === 'docs'
+                  }"
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium"
+                  x-text="result.filters.type ? (typeLabels[result.filters.type[0]] || result.filters.type[0]) : ''"
+                ></span>
+                
+                
+                <span 
+                  x-show="result.filters && result.filters.category" 
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300"
+                  x-text="result.filters.category ? result.filters.category[0] : ''"
+                ></span>
+                
+                
+                <span 
+                  x-show="result.filters && result.filters.difficulty" 
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+                  x-text="result.filters.difficulty ? result.filters.difficulty[0] : ''"
+                ></span>
+              </div>
+              
+              
+              <h3 class="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors mb-2" x-html="result.meta.title || 'Untitled'"></h3>
+              
+              
+              <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2" x-html="result.excerpt"></p>
+            </a>
+          </template>
+        </div>
+        
+        
+        <div x-show="query && loading" class="px-6 py-16 text-center">
+          <div class="inline-flex items-center gap-3">
+            <svg class="animate-spin h-8 w-8 text-primary-600" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            <div class="text-left">
+              <p class="text-lg font-medium text-gray-900 dark:text-white">Searching...</p>
+              <p class="text-sm text-gray-500 dark:text-gray-400" x-text="'Finding results for &quot;' + query + '&quot;'"></p>
+            </div>
+          </div>
+        </div>
+        
+        
+        <div x-show="query && results.length === 0 && !loading && hasSearched" class="px-6 py-12 text-center">
+          <svg class="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <h3 class="mt-4 text-lg font-semibold text-gray-900 dark:text-white">No results found</h3>
+          <p class="mt-2 text-gray-600 dark:text-gray-400" x-text="'No results for &quot;' + query + '&quot;'"></p>
+          <button
+            @click="query = ''; $refs.searchInput.focus()"
+            class="mt-4 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium"
+          >
+            Clear search
+          </button>
+        </div>
+      </div>
+      
+      
+      <div class="border-t border-gray-200 dark:border-gray-800 px-4 py-3 bg-gray-50 dark:bg-gray-900/50">
+        <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+          <div class="flex items-center gap-3">
+            <span class="flex items-center gap-1">
+              <kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↑↓</kbd>
+              Navigate
+            </span>
+            <span class="flex items-center gap-1">
+              <kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↵</kbd>
+              Select
+            </span>
+            <span x-show="availableFilters.length > 0" class="flex items-center gap-1">
+              <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+              </svg>
+              <span x-text="availableFilters.length + ' filters'"></span>
+            </span>
+          </div>
+          <a href="https://hugoblox.com" target="_blank" rel="noopener" class="flex items-center gap-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+            <svg class="h-3 w-3" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+            Powered by Hugo Blox
+          </a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<script>
+  
+  function searchModal() {
+    return {
+      query: '',
+      results: [],
+      loading: false,
+      hasSearched: false,  
+      selectedIndex: -1,
+      activeFilter: null,
+      availableFilters: [],
+      trendingSearches: "[\"Search term 1\",\"Search term 2\"]",
+      pagefind: null,
+      
+      
+      typeLabels: {
+        'questions': "\"Questions\"",
+        'faq': "\"FAQ\"",
+        'docs': "\"Documentation\""
+      },
+      
+      async init() {
+        
+        try {
+          this.pagefind = await import('/pagefind/pagefind.js');
+          await this.pagefind.init();
+          console.log('✓ Pagefind initialized');
+          
+          
+          await this.loadFilters();
+        } catch (error) {
+          console.error('Failed to initialize Pagefind:', error);
+        }
+        
+        
+        this.$watch('$store.search.open', (open) => {
+          if (open) {
+            this.$nextTick(() => this.$refs.searchInput?.focus());
+            document.body.style.overflow = 'hidden';
+          } else {
+            document.body.style.overflow = '';
+            this.query = '';
+            this.results = [];
+            this.selectedIndex = -1;
+            this.hasSearched = false;  
+          }
+        });
+        
+        
+        window.addEventListener('keydown', (e) => {
+          if (!this.$store.search.open || this.results.length === 0) return;
+          
+          if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            this.selectedIndex = this.selectedIndex < this.results.length - 1 ? this.selectedIndex + 1 : 0;
+            this.scrollToSelected();
+          } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            this.selectedIndex = this.selectedIndex > 0 ? this.selectedIndex - 1 : this.results.length - 1;
+            this.scrollToSelected();
+          } else if (e.key === 'Enter' && this.selectedIndex >= 0) {
+            e.preventDefault();
+            const selected = this.results[this.selectedIndex];
+            if (selected) {
+              window.location.href = selected.url;
+              this.$store.search.open = false;
+            }
+          }
+        });
+      },
+      
+      scrollToSelected() {
+        this.$nextTick(() => {
+          const selectedEl = document.querySelector('.search-result:nth-child(' + (this.selectedIndex + 1) + ')');
+          if (selectedEl) {
+            selectedEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+          }
+        });
+      },
+      
+      async search() {
+        if (!this.query.trim()) {
+          this.results = [];
+          this.hasSearched = false;
+          return;
+        }
+        
+        this.loading = true;
+        this.hasSearched = false;  
+        
+        try {
+          const options = {};
+          
+          
+          if (this.activeFilter) {
+            const [filterCategory, filterValue] = this.activeFilter.split(':');
+            options.filters = { [filterCategory]: filterValue };
+          }
+          
+          const search = await this.pagefind.search(this.query, options);
+          console.log('Search results:', search);
+          console.log('Search filters:', search.filters);
+          
+          
+          this.results = await Promise.all(
+            search.results.slice(0, 10).map(async (result) => {
+              const data = await result.data();
+              console.log('Result data:', data);
+              return {
+                id: data.url,
+                url: data.url,
+                meta: data.meta,
+                excerpt: data.excerpt,
+                filters: data.filters || {}
+              };
+            })
+          );
+          
+          
+          const filterCounts = { type: {}, category: {}, difficulty: {} };
+          
+          this.results.forEach(result => {
+            if (result.filters) {
+              
+              if (result.filters.type) {
+                result.filters.type.forEach(val => {
+                  filterCounts.type[val] = (filterCounts.type[val] || 0) + 1;
+                });
+              }
+              
+              if (result.filters.category) {
+                result.filters.category.forEach(val => {
+                  filterCounts.category[val] = (filterCounts.category[val] || 0) + 1;
+                });
+              }
+              
+              if (result.filters.difficulty) {
+                result.filters.difficulty.forEach(val => {
+                  filterCounts.difficulty[val] = (filterCounts.difficulty[val] || 0) + 1;
+                });
+              }
+            }
+          });
+          
+          console.log('Extracted filter counts from results:', filterCounts);
+          
+          
+          const filters = [];
+          
+          
+          Object.entries(filterCounts.type).forEach(([value, count]) => {
+            filters.push({
+              category: 'type',
+              value,
+              label: this.typeLabels[value] || value.charAt(0).toUpperCase() + value.slice(1),
+              count,
+              filterKey: `type:${value}`
+            });
+          });
+          
+          
+          Object.entries(filterCounts.category).forEach(([value, count]) => {
+            filters.push({
+              category: 'category',
+              value,
+              label: value,
+              count,
+              filterKey: `category:${value}`
+            });
+          });
+          
+          
+          Object.entries(filterCounts.difficulty).forEach(([value, count]) => {
+            filters.push({
+              category: 'difficulty',
+              value,
+              label: value,
+              count,
+              filterKey: `difficulty:${value}`
+            });
+          });
+          
+          this.availableFilters = filters;
+          console.log('Final availableFilters array:', this.availableFilters);
+          
+          
+          if (this.results.length > 0) {
+            this.selectedIndex = 0;
+          }
+        } catch (error) {
+          console.error('Search error:', error);
+          this.results = [];
+        } finally {
+          this.loading = false;
+          this.hasSearched = true;  
+        }
+      },
+      
+      async loadFilters() {
+        
+        try {
+          const search = await this.pagefind.search('');
+          console.log('Available Pagefind filters:', search.filters);
+          
+          const filters = [];
+          
+          
+          if (search.filters && search.filters.type) {
+            Object.entries(search.filters.type).forEach(([value, count]) => {
+              filters.push({
+                category: 'type',
+                value,
+                label: value.charAt(0).toUpperCase() + value.slice(1),
+                count,
+                filterKey: `type:${value}`
+              });
+            });
+          }
+          
+          
+          if (search.filters && search.filters.category) {
+            Object.entries(search.filters.category).forEach(([value, count]) => {
+              filters.push({
+                category: 'category',
+                value,
+                label: value,
+                count,
+                filterKey: `category:${value}`
+              });
+            });
+          }
+          
+          
+          if (search.filters && search.filters.difficulty) {
+            Object.entries(search.filters.difficulty).forEach(([value, count]) => {
+              filters.push({
+                category: 'difficulty',
+                value,
+                label: value,
+                count,
+                filterKey: `difficulty:${value}`
+              });
+            });
+          }
+          
+          this.availableFilters = filters;
+          console.log('Processed filters:', this.availableFilters);
+        } catch (error) {
+          console.error('Failed to load filters:', error);
+        }
+      }
+    };
+  }
+  
+  
+  document.addEventListener('alpine:init', () => {
+    Alpine.store('search', {
+      open: false
+    });
+  });
+</script>
+
+<style>
+  [x-cloak] { display: none !important; }
+</style>
 
         
       
@@ -656,29 +1211,8 @@
 
 
 
-
-
-
-
-
   
-
-
-
-
-
-
-
-
-
-
-
   
-
-
-
-  
-    
     
     
   
@@ -711,296 +1245,383 @@
 
 
 
-<section id="section-resume-biography-3" class="relative hbb-section blox-resume-biography-3  " style="padding: 0.5rem 0 0.5rem 0;" >
- <div class="home-section-bg  bg-image" style="background-color: auto;filter: brightness(auto);">
-   
- </div>
+
+
+
+
+
+
+  
+  
+  
+
+  
   
 
   
 
+  
+
+  
+  <section id="section-resume-biography-3" class="relative  hbb-section blox-resume-biography-3  " >
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
-  <div class="flex-none m-w-[130px] mx-auto md:mx-0">
-
-  
-  
-
-  <div id="profile" class="flex justify-center items-center flex-col">
     
-
-    <div class="avatar-wrapper mt-10">
-      
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/authors/admin/avatar_hue3d19bed5a2c1d2cfb28620d2d869c54_281847_150x150_fill_q75_lanczos_center.jpg" alt="Dr. Atul Anurag"
-           width="150" height="150">
+    <div class="home-section-bg  bg-image" style="background-color: auto;">
       
     </div>
     
 
-    <div class="portrait-title dark:text-white">
 
-      <div class="text-3xl font-bold mb-2 mt-6">Dr. Atul Anurag</div>
 
-      <h3 class="font-semibold mb-1">Visiting Assistant Professor of Mathematics</h3>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="resume-biography py-8 px-4 sm:py-12 md:py-16 lg:py-24 xl:py-32 relative overflow-hidden">
+  
+  <div class="max-w-7xl mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-start">
       
-      <div class="mb-2">
-        <a href="https://www.ramapo.edu" target="_blank" rel="noopener">
-        <div>Ramapo College of New Jersey</div>
-        </a>
+      
+      <div class="md:col-span-4 flex flex-col items-center text-center space-y-6 md:space-y-8">
+        
+        
+        
+        
+
+        
+        
+        <div class="avatar-wrapper mb-4" style="width: 320px; height: 320px;">
+          
+          <img class="avatar rounded-full border-4 border-white shadow-2xl" 
+               src="/authors/admin/avatar_hu_53b484fc0ad2970b.jpg" 
+               alt="Dr. Atul Anurag"
+               width="320" 
+               height="320"
+               style="width: 320px; height: 320px; object-fit: cover;">
+          
+        </div>
+        
+
+        
+        <div class="space-y-3">
+          <h1 class="text-5xl lg:text-6xl font-black text-gray-900 dark:text-white leading-tight">Dr. Atul Anurag</h1>
+            <p class="text-2xl font-semibold text-primary-600 dark:text-primary-400">Visiting Assistant Professor of Mathematics</p>
+          
+          
+          
+            <p class="text-lg text-gray-700 dark:text-gray-300">
+              <a href="https://www.ramapo.edu" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+              Ramapo College of New Jersey
+              </a>
+            </p>
+          
+        </div>
+
+        
+        <div class="flex flex-wrap justify-center gap-4">
+          
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <a href="mailto:aanurag@ramapo.edu"  
+             aria-label="envelope"
+              title="E-mail Me"
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"/></svg>
+          </a>
+          
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://www.instagram.com/atul.anurag.sharma/" target="_blank" rel="noopener" 
+             aria-label="brands/instagram"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M12.91 12.909c.326-.327.582-.72.749-1.151c.16-.414.27-.886.302-1.578c.032-.693.04-.915.04-2.68c0-1.765-.008-1.987-.04-2.68c-.032-.692-.142-1.164-.302-1.578a3.185 3.185 0 0 0-.75-1.151a3.187 3.187 0 0 0-1.151-.75c-.414-.16-.886-.27-1.578-.302C9.487 1.007 9.265 1 7.5 1c-1.765 0-1.987.007-2.68.04c-.692.03-1.164.14-1.578.301a3.2 3.2 0 0 0-1.151.75a3.2 3.2 0 0 0-.75 1.151c-.16.414-.27.886-.302 1.578C1.007 5.513 1 5.735 1 7.5c0 1.765.007 1.987.04 2.68c.03.692.14 1.164.301 1.578c.164.434.42.826.75 1.151c.325.33.718.586 1.151.75c.414.16.886.27 1.578.302c.693.031.915.039 2.68.039c1.765 0 1.987-.008 2.68-.04c.692-.03 1.164-.14 1.578-.301a3.323 3.323 0 0 0 1.151-.75ZM2 6.735v1.53c-.002.821-.002 1.034.02 1.5c.026.586.058 1.016.156 1.34c.094.312.199.63.543 1.012c.344.383.675.556 1.097.684c.423.127.954.154 1.415.175c.522.024.73.024 1.826.024H8.24c.842.001 1.054.002 1.526-.02c.585-.027 1.015-.059 1.34-.156c.311-.094.629-.2 1.011-.543c.383-.344.556-.676.684-1.098c.127-.422.155-.953.176-1.414C13 9.247 13 9.04 13 7.947v-.89c0-1.096 0-1.303-.023-1.826c-.021-.461-.049-.992-.176-1.414c-.127-.423-.3-.754-.684-1.098c-.383-.344-.7-.449-1.011-.543c-.325-.097-.755-.13-1.34-.156A27.29 27.29 0 0 0 8.24 2H7.057c-1.096 0-1.304 0-1.826.023c-.461.021-.992.049-1.415.176c-.422.128-.753.301-1.097.684c-.344.383-.45.7-.543 1.012c-.098.324-.13.754-.156 1.34c-.022.466-.022.679-.02 1.5ZM7.5 5.25a2.25 2.25 0 1 0 0 4.5a2.25 2.25 0 0 0 0-4.5ZM4.25 7.5a3.25 3.25 0 1 1 6.5 0a3.25 3.25 0 0 1-6.5 0Zm6.72-2.72a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"/></svg>
+          </a>
+          
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://github.com/atul-anurag-sharma" target="_blank" rel="noopener" 
+             aria-label="brands/github"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="3 3 18 18"><path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z"></path></svg>
+          </a>
+          
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://www.linkedin.com/in/atul-anurag-290367166/" target="_blank" rel="noopener" 
+             aria-label="brands/linkedin"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+          </a>
+          
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://scholar.google.com/citations?hl=en&amp;user=XUZQI3IAAAAJ" target="_blank" rel="noopener" 
+             aria-label="academicons/google-scholar"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M343.759 106.662V79.43L363.524 64h-213.89L20.476 176.274h85.656a82.339 82.339 0 0 0-.219 6.225c0 20.845 7.22 38.087 21.672 51.861c14.453 13.797 32.252 20.648 53.327 20.648c4.923 0 9.75-.368 14.438-1.024c-2.907 6.5-4.374 12.523-4.374 18.142c0 9.875 4.499 20.43 13.467 31.642c-39.234 2.67-68.061 9.732-86.437 21.163c-10.531 6.5-19 14.704-25.39 24.531c-6.391 9.9-9.578 20.515-9.578 31.962c0 9.648 2.062 18.336 6.219 26.062c4.156 7.726 9.578 14.07 16.312 18.984c6.718 4.968 14.469 9.101 23.219 12.469c8.734 3.344 17.406 5.718 26.061 7.062A167.052 167.052 0 0 0 180.555 448c13.469 0 26.953-1.734 40.547-5.187c13.562-3.485 26.28-8.642 38.171-15.493c11.86-6.805 21.515-16.086 28.922-27.718c7.39-11.68 11.094-24.805 11.094-39.336c0-11.016-2.25-21.039-6.75-30.14c-4.468-9.073-9.938-16.542-16.452-22.345c-6.501-5.813-13-11.155-19.516-15.968c-6.5-4.845-12-9.75-16.468-14.813c-4.485-5.046-6.735-10.054-6.735-14.984c0-4.921 1.734-9.672 5.216-14.265c3.455-4.61 7.674-9.048 12.61-13.306c4.937-4.25 9.875-8.968 14.796-14.133c4.922-5.147 9.141-11.827 12.61-20.008c3.485-8.18 5.203-17.445 5.203-27.757c0-13.453-2.547-24.46-7.547-33.314c-.594-1.022-1.218-1.803-1.875-3.022l56.907-46.672v17.119c-7.393.93-6.624 5.345-6.624 10.635V245.96c0 5.958 4.875 10.834 10.834 10.834h3.989c5.958 0 10.833-4.875 10.833-10.834V117.293c0-5.277.778-9.688-6.561-10.63zm-107.36 222.48c1.14.75 3.704 2.78 7.718 6.038c4.05 3.243 6.797 5.695 8.266 7.414a443.553 443.553 0 0 1 6.376 7.547c2.813 3.375 4.718 6.304 5.718 8.734c1 2.477 2.016 5.461 3.047 8.946a38.27 38.27 0 0 1 1.485 10.562c0 17.048-6.564 29.68-19.656 37.859c-13.125 8.18-28.767 12.274-46.938 12.274c-9.187 0-18.203-1.093-27.063-3.196c-8.843-2.116-17.311-5.336-25.39-9.601c-8.078-4.258-14.577-10.204-19.5-17.797c-4.938-7.64-7.407-16.415-7.407-26.25c0-10.32 2.797-19.29 8.422-26.906c5.594-7.625 12.938-13.391 22.032-17.315c9.063-3.946 18.25-6.742 27.562-8.398a157.865 157.865 0 0 1 28.438-2.555c4.47 0 7.936.25 10.405.696c.455.219 3.032 2.07 7.735 5.563c4.704 3.462 7.625 5.595 8.75 6.384zm-3.359-100.579c-7.406 8.86-17.734 13.288-30.953 13.288c-11.86 0-22.298-4.764-31.266-14.312c-9-9.523-15.422-20.328-19.344-32.43c-3.937-12.109-5.906-23.984-5.906-35.648c0-13.694 3.596-25.352 10.781-34.976c7.187-9.65 17.5-14.485 30.938-14.485c11.875 0 22.374 5.038 31.437 15.157c9.094 10.085 15.61 21.413 19.517 33.968c3.922 12.54 5.873 24.53 5.873 35.984c0 13.446-3.702 24.61-11.076 33.454z"/></svg>
+          </a>
+          
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://www.researchgate.net/profile/Atul_Anurag" target="_blank" rel="noopener" 
+             aria-label="academicons/researchgate"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M228.66 408.101c-20.194-21.973-47.218-57.268-69.698-97.166c37.134-8.685 64.633-43.55 64.633-78.384c0-51.345-39.88-75.176-92.163-75.176c-27.023 0-48.583 1.365-68.716 1.365c-18.369 0-36.722 0-48.154-.445V171.6l17.401 3.192c11.97 2.302 18.783 7.765 18.783 36.214v180.6c0 28.435-6.813 33.928-18.783 36.2l-17.4 3.252v13.259c12.367-.445 33.912-1.351 55.473-1.351c20.624 0 47.217.906 58.68 1.35v-13.258l-23.847-3.253c-12.366-1.796-18.813-7.764-18.813-36.2v-76.542c11.002.921 20.624.921 35.325.921c27.96 49.95 54.551 87.56 69.652 104.962c13.78 16.526 34.85 27.054 61.442 27.054c7.781 0 16.023-1.367 21.054-3.683v-11.894c-16.496 0-32.992-11.477-44.87-24.321zM119.064 295.344c-15.591 0-22.434-.414-33.008-1.41V178.918c10.574-.92 24.752-.92 37.136-.92c38.531 0 61.427 20.195 61.427 56.839c0 36.215-24.736 60.506-65.555 60.506zm139.934-115.703c-.46-2.409-.875-5.217-1.243-8.456c-.383-3.268-.63-7.104-.782-11.63c-.154-4.496-.215-9.99-.215-16.282c0-6.323.061-11.74.215-16.25c.152-4.528.399-8.41.782-11.648c.368-3.223.782-6.046 1.243-8.455a50.885 50.885 0 0 1 1.78-6.982c3.943-11.923 10.405-20.885 19.443-26.901C289.244 67.02 300.308 64 313.443 64c6.752 0 12.875.782 18.307 2.377c5.371 1.581 10.189 3.76 14.44 6.553c4.189 2.762 7.81 6.015 10.802 9.698a52.87 52.87 0 0 1 7.474 11.878c.75 1.35.537 2.425-.66 3.176l-16.68 6.858c-1.413.753-2.41.37-3.193-1.12c-3.743-6.936-6.936-11.493-12.183-14.807c-5.31-3.3-10.22-4.865-18.308-4.865c-8.793 0-12.721 1.749-18.23 5.693c-5.463 3.867-9.468 8.732-11.832 16.143c-.474 1.335-.905 2.993-1.41 4.942c-.415 1.98-.753 4.404-.967 7.242c-.215 2.84-.415 6.353-.598 10.497c-.123 4.144-.184 9.177-.184 15.008c0 5.86.061 10.894.184 15.038c.184 4.128.383 7.641.598 10.48c.214 2.87.552 5.279.966 7.274c.507 1.919.937 3.575 1.411 4.927c2.364 7.38 5.74 11.415 10.712 14.654c4.911 3.284 10.557 5.648 19.35 5.648c7.811 0 14.962-2.225 19.626-5.618c4.62-3.39 8.456-7.87 10.175-13.994c.753-2.579 1.72-5.786 2.38-9.714c.598-3.929.598-8.087.598-13.825c0-.907-.508-1.367-1.352-1.367h-26.716c-1.504 0-2.24-.736-2.24-2.24v-15.314c0-1.52.736-2.257 2.24-2.257h49.028c1.535 0 2.257.737 2.257 2.257v13.09c0 6.935 0 13.365-.722 19.32c-.691 5.953-1.626 11.109-2.808 14.868c-3.744 11.77-9.682 20.15-18.782 26.394c-9.131 6.291-20.9 9.682-33.684 9.682c-13.135 0-24.199-3.022-33.221-9.022c-9.039-6.077-15.5-14.993-19.443-26.916a51.103 51.103 0 0 1-1.78-6.997z"/></svg>
+          </a>
+          
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <a href="https://orcid.org/my-orcid?orcid=0009-0003-6871-0703" target="_blank" rel="noopener" 
+             aria-label="academicons/orcid"
+             
+             class="w-12 h-12 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 
+                    shadow-md hover:shadow-xl hover:scale-110 hover:-translate-y-1 
+                    transition-all duration-300 border border-gray-200 dark:border-gray-700">
+            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M336.62 194.538c-7.13-3.328-13.866-5.56-20.253-6.614c-6.365-1.095-16.574-1.612-30.71-1.612h-36.704v152.747h37.634c14.673 0 26.081-1.013 34.224-3.017c8.142-2.004 14.921-4.526 20.356-7.626a69.448 69.448 0 0 0 14.942-11.388c14.488-14.714 21.742-33.273 21.742-55.717c0-22.052-7.44-40.052-22.341-53.982c-5.498-5.166-11.822-9.444-18.89-12.793zM256 8C119.022 8 8 119.042 8 256s111.022 248 248 248s248-111.042 248-248S392.978 8 256 8Zm-82.336 357.513h-29.389V160.148h29.389zM158.95 138.696c-11.14 0-20.213-9.01-20.213-20.212c0-11.118 9.052-20.191 20.213-20.191c11.18 0 20.232 9.052 20.232 20.191a20.194 20.194 0 0 1-20.232 20.212zm241.386 163.597c-5.29 12.545-12.834 23.581-22.65 33.088c-9.982 9.837-21.597 17.194-34.844 22.196c-7.75 3.017-14.839 5.063-21.307 6.117c-6.49 1.013-18.828 1.509-37.076 1.509h-64.956V160.148h69.233c27.962 0 50.034 4.154 66.32 12.545c16.265 8.37 29.181 20.728 38.792 36.972c9.61 16.265 14.425 34.018 14.425 53.196c.023 13.765-2.666 26.908-7.936 39.432z"/></svg>
+          </a>
+          
+        </div>
       </div>
-      
-    </div>
 
-    <ul class="network-icon dark:text-zinc-100">
       
-      
-      
-      
+      <div class="md:col-span-8">
         
-      
-      
-      
-      
-      
-      <li>
-        <a href="mailto:aa2894@njit.edu"  aria-label="envelope"
-            data-toggle="tooltip" data-placement="top" title="E-mail Me">
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
         
-      
-      
-      
-      
-      
         
-      
-      <li>
-        <a href="https://twitter.com/atul_anurag" target="_blank" rel="noopener" aria-label="brands/x"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://www.instagram.com/atul.anurag.sharma/" target="_blank" rel="noopener" aria-label="brands/instagram"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M12.91 12.909c.326-.327.582-.72.749-1.151c.16-.414.27-.886.302-1.578c.032-.693.04-.915.04-2.68c0-1.765-.008-1.987-.04-2.68c-.032-.692-.142-1.164-.302-1.578a3.185 3.185 0 0 0-.75-1.151a3.187 3.187 0 0 0-1.151-.75c-.414-.16-.886-.27-1.578-.302C9.487 1.007 9.265 1 7.5 1c-1.765 0-1.987.007-2.68.04c-.692.03-1.164.14-1.578.301a3.2 3.2 0 0 0-1.151.75a3.2 3.2 0 0 0-.75 1.151c-.16.414-.27.886-.302 1.578C1.007 5.513 1 5.735 1 7.5c0 1.765.007 1.987.04 2.68c.03.692.14 1.164.301 1.578c.164.434.42.826.75 1.151c.325.33.718.586 1.151.75c.414.16.886.27 1.578.302c.693.031.915.039 2.68.039c1.765 0 1.987-.008 2.68-.04c.692-.03 1.164-.14 1.578-.301a3.323 3.323 0 0 0 1.151-.75ZM2 6.735v1.53c-.002.821-.002 1.034.02 1.5c.026.586.058 1.016.156 1.34c.094.312.199.63.543 1.012c.344.383.675.556 1.097.684c.423.127.954.154 1.415.175c.522.024.73.024 1.826.024H8.24c.842.001 1.054.002 1.526-.02c.585-.027 1.015-.059 1.34-.156c.311-.094.629-.2 1.011-.543c.383-.344.556-.676.684-1.098c.127-.422.155-.953.176-1.414C13 9.247 13 9.04 13 7.947v-.89c0-1.096 0-1.303-.023-1.826c-.021-.461-.049-.992-.176-1.414c-.127-.423-.3-.754-.684-1.098c-.383-.344-.7-.449-1.011-.543c-.325-.097-.755-.13-1.34-.156A27.29 27.29 0 0 0 8.24 2H7.057c-1.096 0-1.304 0-1.826.023c-.461.021-.992.049-1.415.176c-.422.128-.753.301-1.097.684c-.344.383-.45.7-.543 1.012c-.098.324-.13.754-.156 1.34c-.022.466-.022.679-.02 1.5ZM7.5 5.25a2.25 2.25 0 1 0 0 4.5a2.25 2.25 0 0 0 0-4.5ZM4.25 7.5a3.25 3.25 0 1 1 6.5 0a3.25 3.25 0 0 1-6.5 0Zm6.72-2.72a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://github.com/atul-anurag-sharma" target="_blank" rel="noopener" aria-label="brands/github"
-           >
-          <svg style="height: 1.5rem;" fill="currentColor" viewBox="3 3 18 18"><path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z"></path></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://www.linkedin.com/in/atul-anurag-290367166/" target="_blank" rel="noopener" aria-label="brands/linkedin"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://scholar.google.com/citations?hl=en&amp;user=XUZQI3IAAAAJ" target="_blank" rel="noopener" aria-label="academicons/google-scholar"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M343.759 106.662V79.43L363.524 64h-213.89L20.476 176.274h85.656a82.339 82.339 0 0 0-.219 6.225c0 20.845 7.22 38.087 21.672 51.861c14.453 13.797 32.252 20.648 53.327 20.648c4.923 0 9.75-.368 14.438-1.024c-2.907 6.5-4.374 12.523-4.374 18.142c0 9.875 4.499 20.43 13.467 31.642c-39.234 2.67-68.061 9.732-86.437 21.163c-10.531 6.5-19 14.704-25.39 24.531c-6.391 9.9-9.578 20.515-9.578 31.962c0 9.648 2.062 18.336 6.219 26.062c4.156 7.726 9.578 14.07 16.312 18.984c6.718 4.968 14.469 9.101 23.219 12.469c8.734 3.344 17.406 5.718 26.061 7.062A167.052 167.052 0 0 0 180.555 448c13.469 0 26.953-1.734 40.547-5.187c13.562-3.485 26.28-8.642 38.171-15.493c11.86-6.805 21.515-16.086 28.922-27.718c7.39-11.68 11.094-24.805 11.094-39.336c0-11.016-2.25-21.039-6.75-30.14c-4.468-9.073-9.938-16.542-16.452-22.345c-6.501-5.813-13-11.155-19.516-15.968c-6.5-4.845-12-9.75-16.468-14.813c-4.485-5.046-6.735-10.054-6.735-14.984c0-4.921 1.734-9.672 5.216-14.265c3.455-4.61 7.674-9.048 12.61-13.306c4.937-4.25 9.875-8.968 14.796-14.133c4.922-5.147 9.141-11.827 12.61-20.008c3.485-8.18 5.203-17.445 5.203-27.757c0-13.453-2.547-24.46-7.547-33.314c-.594-1.022-1.218-1.803-1.875-3.022l56.907-46.672v17.119c-7.393.93-6.624 5.345-6.624 10.635V245.96c0 5.958 4.875 10.834 10.834 10.834h3.989c5.958 0 10.833-4.875 10.833-10.834V117.293c0-5.277.778-9.688-6.561-10.63zm-107.36 222.48c1.14.75 3.704 2.78 7.718 6.038c4.05 3.243 6.797 5.695 8.266 7.414a443.553 443.553 0 0 1 6.376 7.547c2.813 3.375 4.718 6.304 5.718 8.734c1 2.477 2.016 5.461 3.047 8.946a38.27 38.27 0 0 1 1.485 10.562c0 17.048-6.564 29.68-19.656 37.859c-13.125 8.18-28.767 12.274-46.938 12.274c-9.187 0-18.203-1.093-27.063-3.196c-8.843-2.116-17.311-5.336-25.39-9.601c-8.078-4.258-14.577-10.204-19.5-17.797c-4.938-7.64-7.407-16.415-7.407-26.25c0-10.32 2.797-19.29 8.422-26.906c5.594-7.625 12.938-13.391 22.032-17.315c9.063-3.946 18.25-6.742 27.562-8.398a157.865 157.865 0 0 1 28.438-2.555c4.47 0 7.936.25 10.405.696c.455.219 3.032 2.07 7.735 5.563c4.704 3.462 7.625 5.595 8.75 6.384zm-3.359-100.579c-7.406 8.86-17.734 13.288-30.953 13.288c-11.86 0-22.298-4.764-31.266-14.312c-9-9.523-15.422-20.328-19.344-32.43c-3.937-12.109-5.906-23.984-5.906-35.648c0-13.694 3.596-25.352 10.781-34.976c7.187-9.65 17.5-14.485 30.938-14.485c11.875 0 22.374 5.038 31.437 15.157c9.094 10.085 15.61 21.413 19.517 33.968c3.922 12.54 5.873 24.53 5.873 35.984c0 13.446-3.702 24.61-11.076 33.454z"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://www.researchgate.net/profile/Atul_Anurag" target="_blank" rel="noopener" aria-label="academicons/researchgate"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M228.66 408.101c-20.194-21.973-47.218-57.268-69.698-97.166c37.134-8.685 64.633-43.55 64.633-78.384c0-51.345-39.88-75.176-92.163-75.176c-27.023 0-48.583 1.365-68.716 1.365c-18.369 0-36.722 0-48.154-.445V171.6l17.401 3.192c11.97 2.302 18.783 7.765 18.783 36.214v180.6c0 28.435-6.813 33.928-18.783 36.2l-17.4 3.252v13.259c12.367-.445 33.912-1.351 55.473-1.351c20.624 0 47.217.906 58.68 1.35v-13.258l-23.847-3.253c-12.366-1.796-18.813-7.764-18.813-36.2v-76.542c11.002.921 20.624.921 35.325.921c27.96 49.95 54.551 87.56 69.652 104.962c13.78 16.526 34.85 27.054 61.442 27.054c7.781 0 16.023-1.367 21.054-3.683v-11.894c-16.496 0-32.992-11.477-44.87-24.321zM119.064 295.344c-15.591 0-22.434-.414-33.008-1.41V178.918c10.574-.92 24.752-.92 37.136-.92c38.531 0 61.427 20.195 61.427 56.839c0 36.215-24.736 60.506-65.555 60.506zm139.934-115.703c-.46-2.409-.875-5.217-1.243-8.456c-.383-3.268-.63-7.104-.782-11.63c-.154-4.496-.215-9.99-.215-16.282c0-6.323.061-11.74.215-16.25c.152-4.528.399-8.41.782-11.648c.368-3.223.782-6.046 1.243-8.455a50.885 50.885 0 0 1 1.78-6.982c3.943-11.923 10.405-20.885 19.443-26.901C289.244 67.02 300.308 64 313.443 64c6.752 0 12.875.782 18.307 2.377c5.371 1.581 10.189 3.76 14.44 6.553c4.189 2.762 7.81 6.015 10.802 9.698a52.87 52.87 0 0 1 7.474 11.878c.75 1.35.537 2.425-.66 3.176l-16.68 6.858c-1.413.753-2.41.37-3.193-1.12c-3.743-6.936-6.936-11.493-12.183-14.807c-5.31-3.3-10.22-4.865-18.308-4.865c-8.793 0-12.721 1.749-18.23 5.693c-5.463 3.867-9.468 8.732-11.832 16.143c-.474 1.335-.905 2.993-1.41 4.942c-.415 1.98-.753 4.404-.967 7.242c-.215 2.84-.415 6.353-.598 10.497c-.123 4.144-.184 9.177-.184 15.008c0 5.86.061 10.894.184 15.038c.184 4.128.383 7.641.598 10.48c.214 2.87.552 5.279.966 7.274c.507 1.919.937 3.575 1.411 4.927c2.364 7.38 5.74 11.415 10.712 14.654c4.911 3.284 10.557 5.648 19.35 5.648c7.811 0 14.962-2.225 19.626-5.618c4.62-3.39 8.456-7.87 10.175-13.994c.753-2.579 1.72-5.786 2.38-9.714c.598-3.929.598-8.087.598-13.825c0-.907-.508-1.367-1.352-1.367h-26.716c-1.504 0-2.24-.736-2.24-2.24v-15.314c0-1.52.736-2.257 2.24-2.257h49.028c1.535 0 2.257.737 2.257 2.257v13.09c0 6.935 0 13.365-.722 19.32c-.691 5.953-1.626 11.109-2.808 14.868c-3.744 11.77-9.682 20.15-18.782 26.394c-9.131 6.291-20.9 9.682-33.684 9.682c-13.135 0-24.199-3.022-33.221-9.022c-9.039-6.077-15.5-14.993-19.443-26.916a51.103 51.103 0 0 1-1.78-6.997z"/></svg>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a href="https://orcid.org/my-orcid?orcid=0009-0003-6871-0703" target="_blank" rel="noopener" aria-label="academicons/orcid"
-           >
-          <svg style="height: 1.5rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M336.62 194.538c-7.13-3.328-13.866-5.56-20.253-6.614c-6.365-1.095-16.574-1.612-30.71-1.612h-36.704v152.747h37.634c14.673 0 26.081-1.013 34.224-3.017c8.142-2.004 14.921-4.526 20.356-7.626a69.448 69.448 0 0 0 14.942-11.388c14.488-14.714 21.742-33.273 21.742-55.717c0-22.052-7.44-40.052-22.341-53.982c-5.498-5.166-11.822-9.444-18.89-12.793zM256 8C119.022 8 8 119.042 8 256s111.022 248 248 248s248-111.042 248-248S392.978 8 256 8Zm-82.336 357.513h-29.389V160.148h29.389zM158.95 138.696c-11.14 0-20.213-9.01-20.213-20.212c0-11.118 9.052-20.191 20.213-20.191c11.18 0 20.232 9.052 20.232 20.191a20.194 20.194 0 0 1-20.232 20.212zm241.386 163.597c-5.29 12.545-12.834 23.581-22.65 33.088c-9.982 9.837-21.597 17.194-34.844 22.196c-7.75 3.017-14.839 5.063-21.307 6.117c-6.49 1.013-18.828 1.509-37.076 1.509h-64.956V160.148h69.233c27.962 0 50.034 4.154 66.32 12.545c16.265 8.37 29.181 20.728 38.792 36.972c9.61 16.265 14.425 34.018 14.425 53.196c.023 13.765-2.666 26.908-7.936 39.432z"/></svg>
-        </a>
-      </li>
-      
-    </ul>
-  </div>
-  </div>
-
-  <div class="flex-auto max-w-prose md:mt-12">
-    
-    <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
-      <div class="bio-text" >
-        <h2 id="about-me">About Me</h2>
-<p>Beginning in Fall 2025, I will be joining <a href="https://www.ramapo.edu" target="_blank" rel="noopener">Ramapo College of New Jersey</a> as a Visiting Assistant Professor of Mathematics. I received my Bachelor&rsquo;s degree in Mathematics in 2015 from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics" target="_blank" rel="noopener">Ramjas College, University of Delhi</a>, and a Master&rsquo;s degree in Applied Mathematics in 2017 from the <a href="https://www.nitw.ac.in/math" target="_blank" rel="noopener">National Institute of Technology, Warangal, Telangana</a>.<br>
+        <div class="mb-12">
+          <div class="flex items-center gap-4 mb-8">
+            <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
+              <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 9h3.75M15 12h3.75M15 15h3.75M4.5 19.5h15a2.25 2.25 0 0 0 2.25-2.25V6.75A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25v10.5A2.25 2.25 0 0 0 4.5 19.5m6-10.125a1.875 1.875 0 1 1-3.75 0a1.875 1.875 0 0 1 3.75 0m1.294 6.336a6.721 6.721 0 0 1-3.17.789a6.721 6.721 0 0 1-3.168-.789a3.376 3.376 0 0 1 6.338 0"/></svg>
+            </div>
+            
+            
+            
+            <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">Professional Summary</h2>
+          </div>
+          <div class="prose prose-lg dark:prose-invert text-gray-800 dark:text-gray-200 text-base sm:text-lg leading-relaxed">
+            <div class="bio-text" >
+              <h2 id="about-me">About Me</h2>
+<p>I am working as a Visiting Assistant Professor of Mathematics at the <a href="https://www.ramapo.edu" target="_blank" rel="noopener">Ramapo College of New Jersey</a>. I received my Bachelor&rsquo;s degree in Mathematics in 2015 from <a href="https://ramjas.du.ac.in/college/web/index.php?r=department/department-of-mathematics" target="_blank" rel="noopener">Ramjas College, University of Delhi</a>, and a Master&rsquo;s degree in Applied Mathematics in 2017 from the <a href="https://www.nitw.ac.in/math" target="_blank" rel="noopener">National Institute of Technology, Warangal, Telangana</a>.<br>
 I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.njit.edu" target="_blank" rel="noopener">Department of Mathematical Sciences, New Jersey Institute of Technology</a>, where I was advised by <a href="https://roygoodman.net" target="_blank" rel="noopener">Dr. Roy Goodman</a>.</p>
 
+            </div>
+          </div>
+        </div>
+        
+
+        
+        
+        <div class="mb-16">
+          <a href="files/resume.pdf" target="_blank" 
+             class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-primary-600 to-secondary-600 hover:from-primary-700 hover:to-secondary-700 text-white font-bold text-lg rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300">
+            <svg class='w-5 h-5 mr-3' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m.75 12l3 3m0 0l3-3m-3 3v-6m-1.5-9H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+            CV
+          </a>
+        </div>
+        
+
+        
+        
+        <div class="mb-16">
+          <div class="flex items-center gap-4 mb-8">
+            <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
+              <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
+            </div>
+            
+            <h3 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">Education</h3>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+            
+            <div class="group h-full flex flex-col bg-gradient-to-br from-white/90 to-primary-50/30 dark:from-gray-800/90 dark:to-primary-900/20 rounded-xl p-6 shadow-md hover:shadow-xl transition-all duration-300 border border-transparent hover:border-primary-200 dark:hover:border-primary-800 backdrop-blur-md">
+              <div class="flex gap-4">
+                <div class="flex-shrink-0 w-12 h-12 bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 rounded-full flex items-center justify-center shadow-md">
+                  
+                    <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
+                  
+                </div>
+                <div class="flex-1 flex-grow">
+                  <p class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+                    PhD Applied Mathematics, 2025
+                  </p>
+                  <p class="text-gray-600 dark:text-gray-400 font-medium mt-1">New Jersey Institute of Technology</p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="group h-full flex flex-col bg-gradient-to-br from-white/90 to-primary-50/30 dark:from-gray-800/90 dark:to-primary-900/20 rounded-xl p-6 shadow-md hover:shadow-xl transition-all duration-300 border border-transparent hover:border-primary-200 dark:hover:border-primary-800 backdrop-blur-md">
+              <div class="flex gap-4">
+                <div class="flex-shrink-0 w-12 h-12 bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 rounded-full flex items-center justify-center shadow-md">
+                  
+                    <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
+                  
+                </div>
+                <div class="flex-1 flex-grow">
+                  <p class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+                    MSc Applied Mathematics, 2017
+                  </p>
+                  <p class="text-gray-600 dark:text-gray-400 font-medium mt-1">National Institute of Technology, Warangal, India</p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="group h-full flex flex-col bg-gradient-to-br from-white/90 to-primary-50/30 dark:from-gray-800/90 dark:to-primary-900/20 rounded-xl p-6 shadow-md hover:shadow-xl transition-all duration-300 border border-transparent hover:border-primary-200 dark:hover:border-primary-800 backdrop-blur-md">
+              <div class="flex gap-4">
+                <div class="flex-shrink-0 w-12 h-12 bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 rounded-full flex items-center justify-center shadow-md">
+                  
+                    <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
+                  
+                </div>
+                <div class="flex-1 flex-grow">
+                  <p class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+                    BSc Honours Mathematics, 2015
+                  </p>
+                  <p class="text-gray-600 dark:text-gray-400 font-medium mt-1">Ramjas College, University of Delhi, India</p>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+
+        
+        
+        <div>
+          <div class="flex items-center gap-4 mb-8">
+            <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
+              <svg class='w-6 h-6 text-primary-600 dark:text-primary-400' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09m8.445-7.188L18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456m-1.365 11.852L16.5 21.75l-.394-1.183a2.25 2.25 0 0 0-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 0 0 1.423-1.423l.394-1.183l.394 1.183a2.25 2.25 0 0 0 1.423 1.423l1.183.394l-1.183.394a2.25 2.25 0 0 0-1.423 1.423"/></svg>
+            </div>
+            
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white tracking-tight">Interests</h3>
+          </div>
+          <div class="flex flex-wrap gap-3">
+            
+            <span class="inline-block bg-primary-50 dark:bg-gray-800 text-primary-800 dark:text-primary-200 text-base font-medium px-4 py-2 rounded-full border border-primary-200/50 dark:border-primary-800/50
+                           hover:bg-primary-100 
+                           dark:hover:bg-primary-500 dark:hover:text-gray-900 dark:hover:border-primary-500
+                           transition-all duration-200 cursor-default">
+              Nonlinear Dynamics
+            </span>
+            
+            <span class="inline-block bg-primary-50 dark:bg-gray-800 text-primary-800 dark:text-primary-200 text-base font-medium px-4 py-2 rounded-full border border-primary-200/50 dark:border-primary-800/50
+                           hover:bg-primary-100 
+                           dark:hover:bg-primary-500 dark:hover:text-gray-900 dark:hover:border-primary-500
+                           transition-all duration-200 cursor-default">
+              Dynamical Systems
+            </span>
+            
+            <span class="inline-block bg-primary-50 dark:bg-gray-800 text-primary-800 dark:text-primary-200 text-base font-medium px-4 py-2 rounded-full border border-primary-200/50 dark:border-primary-800/50
+                           hover:bg-primary-100 
+                           dark:hover:bg-primary-500 dark:hover:text-gray-900 dark:hover:border-primary-500
+                           transition-all duration-200 cursor-default">
+              Bifurcation Theory
+            </span>
+            
+          </div>
+        </div>
+        
       </div>
     </div>
-    
-
-    
-    <a href="files/resume.pdf" target="_blank" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700"><svg class="w-3.5 h-3.5 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-      <path d="M14.707 7.793a1 1 0 0 0-1.414 0L11 10.086V1.5a1 1 0 0 0-2 0v8.586L6.707 7.793a1 1 0 1 0-1.414 1.414l4 4a1 1 0 0 0 1.416 0l4-4a1 1 0 0 0-.002-1.414Z"/>
-      <path d="M18 12h-2.55l-2.975 2.975a3.5 3.5 0 0 1-4.95 0L4.55 12H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2Zm-3 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"/>
-    </svg> CV</a>
-    
-
-
-
-
-  <div class="grid grid-cols-2 gap-4 justify-between mt-6 dark:text-gray-300">
-
-    
-    <div class="">
-      <div class="section-subheading mb-3">Interests</div>
-      <ul class="list-disc list-inside space-y-1 pl-5">
-        
-        <li>
-          Nonlinear Dynamics
-        </li>
-        
-        <li>
-          Dynamical Systems
-        </li>
-        
-        <li>
-          Bifurcation Theory
-        </li>
-        
-      </ul>
-    </div>
-    
-
-    
-    <div class="">
-      <div class="section-subheading mb-3">Education</div>
-      <ul class="">
-        
-        <li class="flex items-start gap-3">
-          <svg style="" class='flex-shrink-0 w-5 h-5 me-2 mt-1' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
-          <div class="description">
-            <p class="course">PhD Applied Mathematics, 2025</p>
-            <p class="text-sm">New Jersey Institute of Technology</p>
-          </div>
-        </li>
-        
-        <li class="flex items-start gap-3">
-          <svg style="" class='flex-shrink-0 w-5 h-5 me-2 mt-1' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
-          <div class="description">
-            <p class="course">MSc Applied Mathematics, 2017</p>
-            <p class="text-sm">National Institute of Technology, Warangal, India</p>
-          </div>
-        </li>
-        
-        <li class="flex items-start gap-3">
-          <svg style="" class='flex-shrink-0 w-5 h-5 me-2 mt-1' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.26 10.147a60.436 60.436 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41a60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.905 59.905 0 0 1 12 3.493a59.902 59.902 0 0 1 10.399 5.84a51.39 51.39 0 0 0-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"/></svg>
-          <div class="description">
-            <p class="course">BSc Honours Mathematics, 2015</p>
-            <p class="text-sm">Ramjas College, University of Delhi, India</p>
-          </div>
-        </li>
-        
-      </ul>
-    </div>
-    
-
   </div>
-
 </div>
-</div>
-
-
-  
-
-  
-</section>
+  </section>
 
   
 
@@ -1054,48 +1675,41 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+  <section id="section-markdown" class="relative  hbb-section blox-markdown  " >
     
     
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-markdown" class="relative hbb-section blox-markdown  " style="padding: 0.5rem 0 0.5rem 0;" >
- <div class="home-section-bg " >
-   
- </div>
-  
-
-  
-
+    <div class="home-section-bg " >
+      
+    </div>
     
 
 
@@ -1106,7 +1720,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     
@@ -1116,11 +1730,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
   
 </div>
 
-
-  
-
-  
-</section>
+  </section>
 
   
 
@@ -1174,48 +1784,41 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+  <section id="papers" class="relative  hbb-section blox-collection  " >
     
     
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="papers" class="relative hbb-section blox-collection  " style="padding: 0.5rem 0 0.5rem 0;" >
- <div class="home-section-bg " >
-   
- </div>
-  
-
-  
-
+    <div class="home-section-bg " >
+      
+    </div>
     
 
 
@@ -1238,27 +1841,14 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-  
-  
-  
-  
-  
-
-
-
-
 
 
 
   
-
-
-
-
-
-
-
-
+  
+  
+  
+  
 
 
 
@@ -1273,7 +1863,33 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     Publications
@@ -1283,39 +1899,11 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 </div>
 
 
-<div class="flex flex-col items-center">
+<div class="flex flex-col items-center px-6">
 
   
-  <div class="container max-w-[65ch] mx-auto bg-white dark:bg-zinc-900 rounded-xl border-gray-100 dark:border-gray-700 border shadow-md overflow-hidden my-5">
+  <div class="container max-w-[65ch] mx-auto grid grid-cols-1 gap-6 my-5">
 
-
-  
-    
-
-
-
-
-
-
-
-
-<a href="/publication/global-three-vortex/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-        
-        
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/global-three-vortex/featured_hu52a595dd6c6fdb959b91667a18ce7cea_140715_3b22ec9c9f64476c228310b7f6a7fda0.webp" height="655" width="655" alt="The Global Phase Space of the Three-Vortex Interaction System">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">The Global Phase Space of the Three-Vortex Interaction System</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        We derive a symplectic reduction of the evolution equations for a system of three point vortices and use the reduced system to succinctly explain a kind of bifurcation diagram that has appeared in the literature in a form that was difficult to understand and interpret. The reduction proceeds in two steps: a reduction to Jacobi coordinates and a Lie-Poisson reduction.</p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Apr 22, 2025</p>
-    </div>
-  </div>
-</a>
 
   
     
@@ -1327,24 +1915,352 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<a href="/publication/vortex-dipole/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-        
-        
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/vortex-dipole/featured_hub2041dc08dfdb1c9ceb511e7066b48ec_64821_853b2267b054d0767685d7c17e752da9.webp" height="655" width="655" alt="A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        We use Jacobi coordinates and Nambu brackets to derive a new representation of the motion of three vortices which, unlinke all previous reductions, introduces no singularities into the system. We use this to study the scattering of dipoles by stationary vortices.</p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jun 6, 2024</p>
-    </div>
-  </div>
-</a>
 
+
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-37c1dbbdcc26cccd09b44c60963503d7">
+    
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
+        
+        <a href="/publication/phd-dissertation/"  class="block w-full h-full">
+          <div class="w-full h-full bg-gradient-to-br from-blue-500/20 to-purple-500/20 flex items-center justify-center hover:from-blue-500/30 hover:to-purple-500/30 transition-colors duration-300">
+            <div class="w-16 h-16 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+              <svg class="w-8 h-8 text-white/60" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M4 3a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2H4zm12 12H4l4-8 3 6 2-4 3 6z" clip-rule="evenodd"/>
+              </svg>
+            </div>
+          </div>
+        </a>
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+
+      <h3 id="card-title-37c1dbbdcc26cccd09b44c60963503d7" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/publication/phd-dissertation/"  class="hover:underline">
+          PhD Dissertation: The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering
+          
+        </a>
+      </h3>
+      
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
+          
+          
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2026-05-18">
+              May 18, 2026
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
+        </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/publication/phd-dissertation/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
+      </div>
+      
+      
+      
+      
+    </div>
+</div>
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-e4556cac5bc7879e4f6ede876419d02e">
+    
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
+        
+          
+          
+            
+          
+          
+          <a href="/publication/global-three-vortex/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/publication/global-three-vortex/featured_hu_46118f3e01da28e6.webp 400w, /publication/global-three-vortex/featured_hu_d9856b37377bb71a.webp 600w, /publication/global-three-vortex/featured_hu_d33807af9c69dcae.webp 800w, /publication/global-three-vortex/featured_hu_a056513605f6d661.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/publication/global-three-vortex/featured_hu_46118f3e01da28e6.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="Phase portraits and the bifurcation set for the three-vortex interaction system featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+
+      <h3 id="card-title-e4556cac5bc7879e4f6ede876419d02e" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/publication/global-three-vortex/"  class="hover:underline">
+          Phase portraits and the bifurcation set for the three-vortex interaction system
+          
+        </a>
+      </h3>
+      
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        We derive a symplectic reduction of the evolution equations for a system of three point vortices and use the reduced system to succinctly explain a kind of bifurcation diagram that …
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
+          
+          
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2025-04-22">
+              Apr 22, 2025
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
+        </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/publication/global-three-vortex/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
+      </div>
+      
+      
+      
+      
+    </div>
+</div>
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-ce237f9dcb2f21fc4a9e7ee9d5cba19f">
+    
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
+        
+          
+          
+            
+          
+          
+          <a href="/publication/vortex-dipole/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/publication/vortex-dipole/featured_hu_54a16345f30850d9.webp 400w, /publication/vortex-dipole/featured_hu_fae832725c42c263.webp 600w, /publication/vortex-dipole/featured_hu_3977dde6c10847fb.webp 800w, /publication/vortex-dipole/featured_hu_f7160d04bf8c28af.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/publication/vortex-dipole/featured_hu_54a16345f30850d9.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+
+      <h3 id="card-title-ce237f9dcb2f21fc4a9e7ee9d5cba19f" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/publication/vortex-dipole/"  class="hover:underline">
+          A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering
+          
+        </a>
+      </h3>
+      
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        We use Jacobi coordinates and Nambu brackets to derive a new representation of the motion of three vortices which, unlinke all previous reductions, introduces no singularities into …
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
+          
+          
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2024-06-06">
+              Jun 6, 2024
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
+        </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/publication/vortex-dipole/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
+      </div>
+      
+      
+      
+      
+    </div>
+</div>
   
 
   </div>
@@ -1356,11 +2272,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-
-  
-
-  
-</section>
+  </section>
 
   
 
@@ -1414,48 +2326,41 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+  <section id="events" class="relative  hbb-section blox-collection  " >
     
     
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="events" class="relative hbb-section blox-collection  " style="padding: 0.5rem 0 0.5rem 0;" >
- <div class="home-section-bg " >
-   
- </div>
-  
-
-  
-
+    <div class="home-section-bg " >
+      
+    </div>
     
 
 
@@ -1478,40 +2383,57 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
   
+  
+  
+  
+  
 
 
 
 
 
-<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     Recent &amp; Upcoming Talks
@@ -1521,7 +2443,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 </div>
 
 
-<div class="flex flex-col items-center">
+<div class="flex flex-col items-center px-6">
 
   
   
@@ -1542,125 +2464,127 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<div class="group cursor-pointer">
 
-  
-  
-  
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-25b3bfeff5f43487566b4ba4249c4fbd">
     
-  
-  
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
-
-    <a
-      class="relative block aspect-video"
-      href="/events/dana-knox-research-showcase-2025/" >
-
-      <img alt="The Global Phase Plane Analysis of Three Vortex Interactions"
-           class="object-fill transition-all"
-           data-nimg="fill"
-           decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/events/dana-knox-research-showcase-2025/featured_hu52a595dd6c6fdb959b91667a18ce7cea_140715_7a7657aa0a72d22521f33cfe7185ab21.webp"
-           style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-           width="960"></a>
-  </div>
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
         
-        <a href="/tag/talks/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Talks</span></a>
+          
+          
+            
+          
+          
+          <a href="/events/dana-knox-research-showcase-2025/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/events/dana-knox-research-showcase-2025/featured_hu_4f3fce8ebf39048e.webp 400w, /events/dana-knox-research-showcase-2025/featured_hu_93449dd5d124419b.webp 600w, /events/dana-knox-research-showcase-2025/featured_hu_63e5e5fd3e1c1429.webp 800w, /events/dana-knox-research-showcase-2025/featured_hu_400b7bb662d346be.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/events/dana-knox-research-showcase-2025/featured_hu_4f3fce8ebf39048e.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 fetchpriority="high"
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="The Global Phase Plane Analysis of Three Vortex Interactions featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+      <div class="flex items-center gap-2">
+        
+        <a href="/tag/talks/">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
+            Talks
+          </span>
+        </a>
         
       </div>
       
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/events/dana-knox-research-showcase-2025/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">The Global Phase Plane Analysis of Three Vortex Interactions
-          </span></a>
-      </h2>
+
+      <h3 id="card-title-25b3bfeff5f43487566b4ba4249c4fbd" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/events/dana-knox-research-showcase-2025/"  class="hover:underline">
+          The Global Phase Plane Analysis of Three Vortex Interactions
+          
+        </a>
+      </h3>
       
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/events/dana-knox-research-showcase-2025/" >
-        </a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
           
           
-          <time class="truncate text-sm" datetime="2025-04-23">Apr 23, 2025</time>
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2025-04-23">
+              Apr 23, 2025
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
         </div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="group cursor-pointer">
-
-  
-  
-  
-    
-  
-  
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
-
-    <a
-      class="relative block aspect-video"
-      href="/events/siam-nnp-2024/" >
-
-      <img alt="Global Phase Plane Analysis of the three-vortex problem"
-           class="object-fill transition-all"
-           data-nimg="fill"
-           decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/events/siam-nnp-2024/featured_hucac11aa64d8c0eb0c8cc49182170105c_124007_ca20396b03aba701cd74ffa556d72cf1.webp"
-           style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-           width="960"></a>
-  </div>
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
         
-        <a href="/tag/talks/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Talks</span></a>
         
-      </div>
-      
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/events/siam-nnp-2024/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Global Phase Plane Analysis of the three-vortex problem
-          </span></a>
-      </h2>
-      
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/events/siam-nnp-2024/" >
-        </a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
-          
-          
-          <time class="truncate text-sm" datetime="2024-11-01">Nov 1, 2024</time>
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/events/dana-knox-research-showcase-2025/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
         </div>
+        
       </div>
-
+      
+      
+      
+      
     </div>
-  </div>
 </div>
-
   
     
 
@@ -1672,125 +2596,127 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<div class="group cursor-pointer">
 
-  
-  
-  
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-2445e09ee0c4a45cc60a84d3631d7d80">
     
-  
-  
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
-
-    <a
-      class="relative block aspect-video"
-      href="/events/siam-nwcs-2024/" >
-
-      <img alt="The Phase Space of the Three-Vortex Problem"
-           class="object-fill transition-all"
-           data-nimg="fill"
-           decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/events/siam-nwcs-2024/featured_hu840a7be8166f95e322d5c1a1505a2c06_92294_507e4f9374cffa6f304ff4f092611439.webp"
-           style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-           width="960"></a>
-  </div>
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
         
-        <a href="/tag/talks/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Talks</span></a>
+          
+          
+            
+          
+          
+          <a href="/events/siam-nnp-2024/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/events/siam-nnp-2024/featured_hu_2aefc7846b62cf14.webp 400w, /events/siam-nnp-2024/featured_hu_49232d2a840057bc.webp 600w, /events/siam-nnp-2024/featured_hu_9ac876c47a6e81d2.webp 800w, /events/siam-nnp-2024/featured_hu_aa93db378b273255.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/events/siam-nnp-2024/featured_hu_2aefc7846b62cf14.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="Global Phase Plane Analysis of the three-vortex problem featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+      <div class="flex items-center gap-2">
+        
+        <a href="/tag/talks/">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
+            Talks
+          </span>
+        </a>
         
       </div>
       
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/events/siam-nwcs-2024/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">The Phase Space of the Three-Vortex Problem
-          </span></a>
-      </h2>
+
+      <h3 id="card-title-2445e09ee0c4a45cc60a84d3631d7d80" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/events/siam-nnp-2024/"  class="hover:underline">
+          Global Phase Plane Analysis of the three-vortex problem
+          
+        </a>
+      </h3>
       
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/events/siam-nwcs-2024/" >
-        </a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
           
           
-          <time class="truncate text-sm" datetime="2024-06-24">Jun 24, 2024</time>
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2024-11-01">
+              Nov 1, 2024
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
         </div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="group cursor-pointer">
-
-  
-  
-  
-    
-  
-  
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
-
-    <a
-      class="relative block aspect-video"
-      href="/events/siam-nnp-2023/" >
-
-      <img alt="Point Vortex Dipole Scattering"
-           class="object-fill transition-all"
-           data-nimg="fill"
-           decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/events/siam-nnp-2023/featured_hu2b1d369533181a9be4b7d48927773bce_61133_215a8939a75e89aa2c4901076313476b.webp"
-           style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-           width="960"></a>
-  </div>
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
         
-        <a href="/tag/talks/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Talks</span></a>
         
-      </div>
-      
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/events/siam-nnp-2023/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Point Vortex Dipole Scattering
-          </span></a>
-      </h2>
-      
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/events/siam-nnp-2023/" >
-        </a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
-          
-          
-          <time class="truncate text-sm" datetime="2023-10-20">Oct 20, 2023</time>
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/events/siam-nnp-2024/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
         </div>
+        
       </div>
-
+      
+      
+      
+      
     </div>
-  </div>
 </div>
-
   
     
 
@@ -1802,64 +2728,395 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-<div class="group cursor-pointer">
 
-  
-  
-  
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-45d73468b448978946588e7184939c04">
     
-  
-  
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
-
-    <a
-      class="relative block aspect-video"
-      href="/events/njit-math-summer-talk-2023/" >
-
-      <img alt="Generalization of Leapfrogging Orbits of Point Vortices"
-           class="object-fill transition-all"
-           data-nimg="fill"
-           decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/events/njit-math-summer-talk-2023/featured_hudc4611d6a615afb07b5d5cac843b1721_436355_38832ecaf644b01f2cd81017874f3efc.webp"
-           style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-           width="960"></a>
-  </div>
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
         
-        <a href="/tag/talks/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Talks</span></a>
+          
+          
+            
+          
+          
+          <a href="/events/siam-nwcs-2024/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/events/siam-nwcs-2024/featured_hu_e6bdba14cb9de274.webp 400w, /events/siam-nwcs-2024/featured_hu_bb036bd0b817e4af.webp 600w, /events/siam-nwcs-2024/featured_hu_3c8dd1ef1aeacde.webp 800w, /events/siam-nwcs-2024/featured_hu_df9624fcb6c96817.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/events/siam-nwcs-2024/featured_hu_e6bdba14cb9de274.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="The Phase Space of the Three-Vortex Problem featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+      <div class="flex items-center gap-2">
+        
+        <a href="/tag/talks/">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
+            Talks
+          </span>
+        </a>
         
       </div>
       
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/events/njit-math-summer-talk-2023/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Generalization of Leapfrogging Orbits of Point Vortices
-          </span></a>
-      </h2>
+
+      <h3 id="card-title-45d73468b448978946588e7184939c04" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/events/siam-nwcs-2024/"  class="hover:underline">
+          The Phase Space of the Three-Vortex Problem
+          
+        </a>
+      </h3>
       
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/events/njit-math-summer-talk-2023/" >
-        </a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
           
           
-          <time class="truncate text-sm" datetime="2023-07-20">Jul 20, 2023</time>
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2024-06-24">
+              Jun 24, 2024
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
         </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/events/siam-nwcs-2024/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
       </div>
-
-    </div>
-  </div>
-</div>
-
-  
-
+      
+      
+      
+      
     </div>
 </div>
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-4380c3d2dff208318e030f9a8bec2242">
+    
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
+        
+          
+          
+            
+          
+          
+          <a href="/events/siam-nnp-2023/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/events/siam-nnp-2023/featured_hu_f878b61074d9eacd.webp 400w, /events/siam-nnp-2023/featured_hu_ad791e4ff8b3a5d8.webp 600w, /events/siam-nnp-2023/featured_hu_da8c9b03c361c6cd.webp 800w, /events/siam-nnp-2023/featured_hu_58a5741fda93c9b7.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/events/siam-nnp-2023/featured_hu_f878b61074d9eacd.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="Point Vortex Dipole Scattering featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+      <div class="flex items-center gap-2">
+        
+        <a href="/tag/talks/">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
+            Talks
+          </span>
+        </a>
+        
+      </div>
+      
+
+      <h3 id="card-title-4380c3d2dff208318e030f9a8bec2242" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/events/siam-nnp-2023/"  class="hover:underline">
+          Point Vortex Dipole Scattering
+          
+        </a>
+      </h3>
+      
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
+          
+          
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2023-10-20">
+              Oct 20, 2023
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
+        </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/events/siam-nnp-2023/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
+      </div>
+      
+      
+      
+      
+    </div>
+</div>
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-fa4c7fbb7b505d03a39c7054a093fb12">
+    
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      
+      
+        
+          
+          
+            
+          
+          
+          <a href="/events/njit-math-summer-talk-2023/"  class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 object-fill" 
+                 srcset="/events/njit-math-summer-talk-2023/featured_hu_d5521302ea641608.webp 400w, /events/njit-math-summer-talk-2023/featured_hu_a2c5d2b6fdfdd86.webp 600w, /events/njit-math-summer-talk-2023/featured_hu_f120997c92d17f15.webp 800w, /events/njit-math-summer-talk-2023/featured_hu_ae490f15b47d97ee.webp 800w"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="/events/njit-math-summer-talk-2023/featured_hu_d5521302ea641608.webp" 
+                 width="800" 
+                 height="450"
+                 loading="lazy" 
+                 decoding="async"
+                 
+                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
+                 alt="Generalization of Leapfrogging Orbits of Point Vortices featured image">
+          </a>
+        
+      
+      
+      
+      <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+
+    
+    <div class="p-8 space-y-4">
+      
+
+      
+      <div class="flex items-center gap-2">
+        
+        <a href="/tag/talks/">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
+            Talks
+          </span>
+        </a>
+        
+      </div>
+      
+
+      <h3 id="card-title-fa4c7fbb7b505d03a39c7054a093fb12" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-200 leading-tight">
+        <a href="/events/njit-math-summer-talk-2023/"  class="hover:underline">
+          Generalization of Leapfrogging Orbits of Point Vortices
+          
+        </a>
+      </h3>
+      
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
+        
+      </p>
+
+      
+
+      
+      
+      <div class="pt-3 border-t border-zinc-100 dark:border-zinc-800">
+        <div class="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-500 flex-wrap mb-3">
+          
+          <div class="flex items-center gap-2 min-w-0">
+            
+            
+              
+              <div class="relative h-6 w-6 flex-shrink-0">
+                
+                
+                  
+                  <img alt="avatar" class="rounded-full object-cover" src="/authors/admin/avatar_hu_ceb2b274fd6bf53f.webp" width="24" height="24" loading="lazy" decoding="async" />
+                
+              </div>
+              <span class="truncate max-w-[9rem] text-sm">Dr. Atul Anurag</span>
+            
+          </div>
+          <span class="opacity-40">•</span>
+          
+          
+            <time class="hidden sm:inline whitespace-nowrap" datetime="2023-07-20">
+              Jul 20, 2023
+            </time>
+          
+          
+            <span class="hidden sm:inline opacity-40">•</span>
+          
+          
+            
+            
+            
+            
+            <span class="hidden sm:inline whitespace-nowrap">1 min read</span>
+          
+        </div>
+        
+        
+        
+        <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+          <a href="/events/njit-math-summer-talk-2023/"  class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+            <span>Read more</span>
+            <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+          </a>
+        </div>
+        
+      </div>
+      
+      
+      
+      
+    </div>
+</div>
+  
+
+    </div>
+</div>
 
 
 </div>
@@ -1868,11 +3125,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-
-  
-
-  
-</section>
+  </section>
 
   
 
@@ -1893,12 +3146,12 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-
-
-
-
   
-  
+
+
+
+
+
   
   
   
@@ -1932,7 +3185,7 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
   
   <p class="powered-by text-center">
-    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2026 Atul Anurag. All rights reserved.
   </p>
   
 
@@ -1953,21 +3206,26 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
-  <p class="powered-by text-center">
+  
     
     
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
-  </p>
 
-</footer>
+    <p class="powered-by text-center text-sm opacity-80 py-1">
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_na" target="_blank" rel="noopener" data-hbx="poweredby_brand">Hugo Blox Builder</a>.
+      <a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100"
+         href="https://hugoblox.com/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_na" target="_blank" rel="noopener" data-hbx="poweredby_cta">Create yours →</a>
+    </p></footer>
 
     </div>
 
@@ -1975,6 +3233,11 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
     
 
 
+<div id="hb-notification-container" class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live="polite" aria-atomic="true"></div>
+
+
+    
+    
 
 
 
@@ -1983,6 +3246,310 @@ I earned my Ph.D. in Applied Mathematics in 2025 from the <a href="https://math.
 
 
 
+  
 
+
+
+
+
+    
+    <script>
+    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1779144104","file":"_index.md","kind":"home","layout":"","path":"/","section":"","title":"","type":"landing"},"deps":[{"path":"github.com/atul-anurag-sharma/atulanurag","vendor":false,"version":""},{"owner_path":"github.com/atul-anurag-sharma/atulanurag","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify","time":"2025-12-01 03:15:47 +0000 UTC","vendor":false,"version":"v1.2.0"},{"owner_path":"github.com/atul-anurag-sharma/atulanurag","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","time":"2025-11-08 00:16:06 +0000 UTC","vendor":false,"version":"v0.10.0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics","time":"2025-08-20 00:03:08 +0000 UTC","vendor":false,"version":"v0.2.0"}],"entries":[{"buildId":"1779144104","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 5 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1779144104},{"buildId":"1779144104","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/_index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1779144104}],"generatedAt":"2026-05-18T22:41:44Z","hugo":{"goVersion":"go1.24.5","version":"0.148.2"},"modules":{"bloxTailwind":{"path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","version":"v0.10.0"}},"version":1};
+  </script>
+    <script>
+    (function(){
+      try {
+        const PLACEMENT = "\"bottom-left\"";
+        const OPACITY = "1";
+
+        const root = document.createElement('div');
+        root.id = 'hbx-dev-hud-root';
+        root.style.all = 'initial';
+        root.style.position = 'fixed';
+        root.style.zIndex = '2147483647';
+        root.style.pointerEvents = 'none';
+        root.style.bottom = '16px';
+        if (PLACEMENT === 'bottom-right') root.style.right = '16px';
+        else if (PLACEMENT === 'bottom-center') { root.style.left = '50%'; root.style.transform = 'translateX(-50%)'; }
+        else root.style.left = '16px';
+
+        const shadow = root.attachShadow({ mode: 'open' });
+        const style = document.createElement('style');
+        style.textContent = `
+          :host { all: initial; }
+          .btn { pointer-events: auto; position:relative; display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:9999px; background:#111418; color:#e6eaf0; border:1px solid #2a2f38; box-shadow: 0 10px 20px rgba(0,0,0,.25); cursor:pointer; }
+          .btn:hover { filter: brightness(1.1); }
+          .badge { position:absolute; top:-4px; right:-4px; min-width:18px; height:18px; padding:0 4px; border-radius:9999px; background:#ef4444; color:white; font: 600 11px/18px system-ui, sans-serif; text-align:center; }
+          .panel { pointer-events:auto; position:fixed; inset:auto auto 72px 16px; width:min(92vw, 1200px); max-height:min(80vh, 800px); background:#0d1117; color:#e6eaf0; border:1px solid #21262d; border-radius:12px; box-shadow: 0 20px 40px rgba(0,0,0,.4); overflow:hidden; display:none; }
+          .panel.open { display:flex; flex-direction:column; }
+          .panel-header { display:flex; align-items:center; gap:12px; padding:12px 16px; border-bottom:1px solid #21262d; background:#161b22; }
+          .panel-header h2 { margin:0; font: 700 16px system-ui, sans-serif; letter-spacing:-0.01em; color:#f0f6fc; }
+          .panel-header .close-btn { margin-left:auto; width:32px; height:32px; border:none; background:#21262d; color:#8b949e; border-radius:6px; cursor:pointer; font-size:16px; display:flex; align-items:center; justify-content:center; }
+          .panel-header .close-btn:hover { background:#30363d; color:#f0f6fc; }
+          .page-info { padding:16px; background:#0d1117; border-bottom:1px solid #21262d; }
+          .page-info h3 { margin:0 0 12px 0; font: 600 14px system-ui, sans-serif; color:#f0f6fc; display:flex; align-items:center; gap:8px; }
+          .page-info h3::before { content:'🔍'; font-size:16px; }
+          .page-meta { display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:12px; }
+          .meta-item { display:flex; flex-direction:column; gap:4px; }
+          .meta-label { font: 500 11px system-ui, sans-serif; color:#8b949e; text-transform:uppercase; letter-spacing:0.5px; }
+          .meta-value { font: 600 13px "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", monospace; color:#79c0ff; background:#161b22; padding:6px 8px; border-radius:6px; border:1px solid #21262d; word-break:break-all; }
+          .meta-value.type { color:#a5f3fc; }
+          .meta-value.layout { color:#fbbf24; }
+          .tabs { display:flex; background:#161b22; border-bottom:1px solid #21262d; }
+          .tab { padding:12px 16px; font: 500 14px system-ui, sans-serif; color:#8b949e; cursor:pointer; border-bottom:2px solid transparent; }
+          .tab:hover { color:#f0f6fc; }
+          .tab.active { color:#58a6ff; border-bottom-color:#58a6ff; }
+          .tab-content { flex:1; overflow:auto; }
+          .env-info { padding:12px 16px; font: 500 11px system-ui, sans-serif; color:#8b949e; background:#0d1117; border-bottom:1px solid #21262d; display:flex; align-items:center; gap:16px; }
+          .filters { display:flex; gap:12px; align-items:center; margin-left:auto; }
+          .filters label { display:inline-flex; gap:6px; align-items:center; font: 500 12px system-ui, sans-serif; color:#c9d2e1; cursor:pointer; }
+          .logs-content { overflow:auto; }
+          .entry { display:grid; grid-template-columns:auto 1fr auto; gap:12px; padding:12px 16px; border-bottom:1px solid #21262d; }
+          .entry:hover { background:#161b22; }
+          .entry .lvl { font:700 11px system-ui, sans-serif; text-transform:uppercase; padding:4px 6px; border-radius:4px; }
+          .entry.error .lvl { color:#ffffff; background:#da3633; }
+          .entry.warn .lvl { color:#1f2937; background:#f59e0b; }
+          .entry.info .lvl { color:#ffffff; background:#1f6feb; }
+          .entry .msg { white-space:pre-wrap; word-break:break-word; font: 400 13px system-ui, sans-serif; line-height:1.5; }
+          .entry .meta { color:#8b949e; font: 500 11px "SF Mono", Monaco, monospace; }
+          .page-group-header { padding:12px 16px; font: 600 12px system-ui, sans-serif; color:#58a6ff; border-bottom:1px solid #21262d; background:#0d1117; }
+          @media (prefers-reduced-motion:no-preference) {
+            .panel { transition: all .25s cubic-bezier(0.4, 0, 0.2, 1); transform: translateY(8px) scale(0.95); opacity:0; }
+            .panel.open { transform: translateY(0) scale(1); opacity:1; }
+          }
+        `;
+        shadow.appendChild(style);
+
+        const btnWrap = document.createElement('div');
+        btnWrap.style.position = 'relative';
+        const btn = document.createElement('button');
+        btn.className = 'btn';
+        btn.style.opacity = String(OPACITY);
+        btn.setAttribute('aria-label', 'Hugo Blox Dev HUD');
+        btn.textContent = 'HB';
+        const badge = document.createElement('span');
+        badge.className = 'badge';
+        badge.hidden = true;
+        btnWrap.append(btn, badge);
+
+        const panel = document.createElement('div');
+        panel.className = 'panel';
+        
+        
+        const header = document.createElement('div');
+        header.className = 'panel-header';
+        const title = document.createElement('h2'); 
+        title.textContent = 'Hugo Blox – Dev Tools';
+        const close = document.createElement('button'); 
+        close.className = 'close-btn'; 
+        close.textContent = '×'; 
+        close.title = 'Close';
+        header.append(title, close);
+        
+        
+        const pageInfo = document.createElement('div');
+        pageInfo.className = 'page-info';
+        const pageTitle = document.createElement('h3');
+        pageTitle.textContent = 'Current Page';
+        const pageMeta = document.createElement('div');
+        pageMeta.className = 'page-meta';
+        pageInfo.append(pageTitle, pageMeta);
+        
+        
+        const envInfo = document.createElement('div');
+        envInfo.className = 'env-info';
+        const env = document.createElement('div');
+        env.textContent = '';
+        const filters = document.createElement('div'); 
+        filters.className = 'filters';
+        const chkInfo = document.createElement('input'); 
+        chkInfo.type='checkbox'; 
+        chkInfo.id='hbx-info'; 
+        chkInfo.checked = !!(localStorage.getItem('hbx-show-info')||'');
+        const lblInfo = document.createElement('label'); 
+        lblInfo.htmlFor='hbx-info'; 
+        lblInfo.textContent='Show info';
+        const chkAuto = document.createElement('input');
+        chkAuto.type='checkbox';
+        chkAuto.id='hbx-auto-open';
+        chkAuto.checked = !!(localStorage.getItem('hbx-auto-open')||'');
+        const lblAuto = document.createElement('label');
+        lblAuto.htmlFor='hbx-auto-open';
+        lblAuto.textContent='Auto open';
+        filters.append(lblInfo, chkInfo, lblAuto, chkAuto);
+        envInfo.append(env, filters);
+        
+        
+        const tabs = document.createElement('div');
+        tabs.className = 'tabs';
+        const logsTab = document.createElement('div');
+        logsTab.className = 'tab active';
+        logsTab.textContent = 'Logs';
+        logsTab.dataset.tab = 'logs';
+        tabs.append(logsTab);
+        
+        
+        const tabContent = document.createElement('div');
+        tabContent.className = 'tab-content';
+        const logsContent = document.createElement('div');
+        logsContent.className = 'logs-content';
+        tabContent.append(logsContent);
+        
+        panel.append(header, pageInfo, envInfo, tabs, tabContent);
+
+        shadow.append(btnWrap, panel);
+
+        const attach = () => { if (!document.body.contains(root)) document.body.appendChild(root); };
+        if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', attach);
+        else attach();
+
+        let logs = [];
+        let meta = null;
+        const setLogs = (payload) => { 
+          if (payload) { 
+            logs = Array.isArray(payload.entries) ? payload.entries : []; 
+            meta = payload; 
+          } else { 
+            logs = []; 
+            meta = null; 
+          } 
+        };
+        const shouldShowInfo = () => chkInfo.checked;
+        const createMetaItem = (label, value, className = '') => {
+          const item = document.createElement('div');
+          item.className = 'meta-item';
+          const labelEl = document.createElement('div');
+          labelEl.className = 'meta-label';
+          labelEl.textContent = label;
+          const valueEl = document.createElement('div');
+          valueEl.className = `meta-value ${className}`;
+          valueEl.textContent = value || '(not set)';
+          item.append(labelEl, valueEl);
+          return item;
+        };
+
+        const render = () => {
+          
+          
+          if (meta && meta.hugo) {
+            const hv = meta.hugo.version || '';
+            const gvRaw = meta.hugo.goVersion || '';
+            const gv = gvRaw.replace(/^go/i, '');
+            const tw = meta.modules && meta.modules.bloxTailwind ? meta.modules.bloxTailwind.version : '';
+            env.textContent = `Hugo ${hv} · Go ${gv}${tw ? ` · blox-tailwind ${tw}` : ''}`;
+          }
+
+          
+          pageMeta.replaceChildren();
+          if (meta && meta.currentPage) {
+            const page = meta.currentPage;
+            pageMeta.append(
+              createMetaItem('Type', page.type || 'unknown', 'type'),
+              createMetaItem('Layout', page.layout || '(none)', 'layout'),
+              createMetaItem('Kind', page.kind || 'unknown'),
+              createMetaItem('Section', page.section || '(none)'),
+              createMetaItem('Path', page.path || window.location.pathname),
+              createMetaItem('File', page.file || '(virtual page)'),
+              createMetaItem('Build ID', page.buildId || 'unknown')
+            );
+          } else {
+            
+            pageMeta.append(
+              createMetaItem('Type', 'loading...', 'type'),
+              createMetaItem('Layout', 'loading...', 'layout'),
+              createMetaItem('Kind', 'loading...'),
+              createMetaItem('Section', 'loading...'),
+              createMetaItem('Path', window.location.pathname),
+              createMetaItem('File', 'loading...'),
+              createMetaItem('Build ID', 'loading...')
+            );
+          }
+
+          
+          const visible = logs.filter(e => e.level==='error' || e.level==='warn' || (e.level==='info' && shouldShowInfo()));
+          const errs = visible.filter(e => e.level==='error').length;
+          const warns = visible.filter(e => e.level==='warn').length;
+          const total = errs + warns + (shouldShowInfo()? visible.filter(e=>e.level==='info').length : 0);
+          badge.textContent = String(total);
+          badge.hidden = total === 0;
+          
+          
+          logsTab.textContent = `Logs${total > 0 ? ` (${total})` : ''}`;
+          
+          logsContent.replaceChildren();
+          const groupByPage = new Map();
+          for (const e of visible) {
+            const key = e.page || '/';
+            if (!groupByPage.has(key)) groupByPage.set(key, []);
+            groupByPage.get(key).push(e);
+          }
+          for (const [page, entries] of groupByPage) {
+            const h = document.createElement('div');
+            h.className = 'page-group-header';
+            h.textContent = page;
+            logsContent.appendChild(h);
+            for (const e of entries.sort((a,b)=> (a.level>b.level?-1:1) || (a.timestamp-b.timestamp))) {
+              const row = document.createElement('div');
+              row.className = `entry ${e.level}`;
+              const lvl = document.createElement('div'); 
+              lvl.className='lvl'; 
+              lvl.textContent=e.level;
+              const msg = document.createElement('div'); 
+              msg.className='msg'; 
+              msg.textContent = e.message || '';
+              const metaEl = document.createElement('div'); 
+              metaEl.className='meta'; 
+              metaEl.textContent = new Date(e.timestamp*1000).toLocaleTimeString();
+              row.append(lvl, msg, metaEl);
+              logsContent.appendChild(row);
+            }
+          }
+        };
+
+        const refreshFromWindow = () => { 
+          if (window.__HBX_LOGS__) { 
+            setLogs(window.__HBX_LOGS__); 
+          }
+        };
+        const fetchLogs = async () => {
+          try {
+            const res = await fetch('/hbx-debug.json?cb=' + Date.now());
+            if (res.ok) { const data = await res.json(); setLogs(data); render(); }
+          } catch (e) {   }
+        };
+
+        btn.addEventListener('click', () => { 
+          panel.classList.toggle('open'); 
+          if (panel.classList.contains('open')) { 
+            refreshFromWindow(); 
+            render(); 
+            fetchLogs(); 
+          } 
+        });
+        close.addEventListener('click', () => panel.classList.remove('open'));
+        chkInfo.addEventListener('change', () => { 
+          localStorage.setItem('hbx-show-info', chkInfo.checked ? '1' : ''); 
+          render(); 
+        });
+        chkAuto.addEventListener('change', () => {
+          localStorage.setItem('hbx-auto-open', chkAuto.checked ? '1' : '');
+        });
+
+        
+        refreshFromWindow();
+        render(); 
+
+        
+        if (chkAuto.checked) {
+          panel.classList.add('open');
+          render();
+          fetchLogs();
+        }
+
+        
+        setInterval(() => { refreshFromWindow(); }, 3000);
+      } catch(e) {   }
+    })();
+  </script>
   </body>
 </html>
