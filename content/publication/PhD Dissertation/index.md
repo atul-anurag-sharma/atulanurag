@@ -20,11 +20,11 @@ abstract: >
 
   Finally, the methodology is extended to a special integrable four-vortex case under vanishing total circulation and linear impulse, offering new insights into regimes where classical techniques are insufficient.
 
-url_pdf: "/files/atulanurag_PhD_dissertation.pdf"
+url_pdf: ""
 
 links:
 - name: PDF
-  url: /files/atulanurag_PhD_dissertation.pdf
+  url: 
 
 featured: true
 ---
