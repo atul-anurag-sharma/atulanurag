@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Global Phase Space of the Three-Vortex Interaction System"
+title: "Phase portraits and the bifurcation set for the three-vortex interaction system"
 authors: [admin,roy-goodman]
 date: 
 
