@@ -1,7 +1,8 @@
 ---
+active: true
 title: Contact
+weight: 130
 
-# NEW syntax
 block: contact
 
 content:
@@ -27,7 +28,7 @@ content:
   directions: "Office G128H, Ramapo College of New Jersey"
 
   office_hours:
-    - "Tuesday/Friday 2:50–3:50 PM"
+    - "Tuesday / Friday 2:50–3:50 PM"
 
 design:
   columns: "2"
