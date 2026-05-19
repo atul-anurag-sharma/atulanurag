@@ -1,64 +1,67 @@
 ---
-title: Dr. Atul Anurag
-date: 2023-08-07
+title: ""
+date:
 type: landing
+
+design:
+  spacing: 0.5rem
 
 sections:
 
-  - block: about.biography
-    id: about
+  - block: resume-biography-3
     content:
-      title: Biography
       username: admin
+      text: ""
       button:
-        text: Download CV
+        text: CV
         url: files/resume.pdf
+    design:
+      css_class: ""
+      background:
+        color: auto
+        image:
+          filename:
+          filters:
+            brightness: auto
+          size: cover
+          position: center
+          parallax: false
 
-  - block: markdown
-    content:
-      title: Research Interests
-      text: |
-        Nonlinear Dynamics, Dynamical Systems, Bifurcation Theory
+  # Removed "Professional Summary" markdown block completely
 
   - block: collection
-    id: papers
     content:
-      title: Publications
       filters:
+        featured_only: true
         folders:
           - publication
-        featured_only: true
+      title: Publications
     design:
       columns: 2
-      view: card
+      view: auto
+    id: papers
 
   - block: collection
-    id: talks
     content:
-      title: Talks
       filters:
         folders:
           - events
+      title: Recent & Upcoming Talks
     design:
       columns: 2
-      view: compact
+      view: article-grid
+    id: events
 
-  - block: contact
-    id: contact
+  - block: card
     content:
-      title: Contact
-      address:
-        street: "Ramapo College of New Jersey, G-128H Office"
-        city: Mahwah
-        region: NJ
-        postcode: "07430"
-        country: United States
-      coordinates:
-        latitude: 41.0814
-        longitude: -74.1718
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          link: "mailto:aanurag@ramapo.edu"
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+      text: ""
+    demo: true
+    design:
+      card:
+        css_class: bg-red-600
+        css_style: ""
 
 ---
