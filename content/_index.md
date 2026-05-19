@@ -1,13 +1,10 @@
 ---
 title: ""
-date:
 type: landing
-
 design:
   spacing: 0.5rem
 
 sections:
-
   - block: resume-biography-3
     content:
       username: admin
@@ -15,15 +12,6 @@ sections:
       button:
         text: CV
         url: files/resume.pdf
-    design:
-      background:
-        color: auto
-        image:
-          filters:
-            brightness: auto
-          size: cover
-          position: center
-          parallax: false
 
   - block: collection
     content:
@@ -53,7 +41,6 @@ sections:
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
-      text: ""
     design:
       card:
         css_class: bg-red-600
