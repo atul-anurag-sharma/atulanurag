@@ -1,17 +1,29 @@
 [build]
-command = 'hugo'
-publish = 'public'
+  publish = "public"
+  command = "hugo"
 
 [build.environment]
-HUGO_VERSION = '0.126.1'
+  HUGO_VERSION = "0.148.2"
+  HUGO_ENV = "production"
+  GO_VERSION = "1.26.3"
+  NODE_VERSION = "22"
 
-[context]
-[context.branch-deploy]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
-[context.deploy-preview]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+[[headers]]
+  for = "/index.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
 
-[context.production]
-[context.production.environment]
-HUGO_ENV = 'production'
+[[headers]]
+  for = "/index.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml"
