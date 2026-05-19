@@ -1,34 +1,22 @@
 ---
 title: Contact
-
-# NEW syntax
-block: contact
-
-content:
-  title: Contact
-  subtitle: ""
-
-  autolink: true
-
-  email: aanurag@ramapo.edu
-  phone: "862-237-1632"
-
-  address:
-    street: "505 Ramapo Valley Road, Office G128H"
-    city: "Mahwah"
-    region: "NJ"
-    postcode: "07430"
-    country: "United States"
-
-  coordinates:
-    latitude: 41.0819
-    longitude: -74.1749
-
-  directions: "Office G128H, Ramapo College of New Jersey"
-
-  office_hours:
-    - "Tuesday/Friday 2:50–3:50 PM"
-
-design:
-  columns: "2"
+type: page
+draft: false
 ---
+
+## Contact Information
+
+- Work Email: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)
+- Personal Email: [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
+
+## Office
+
+Office G128H  
+Ramapo College of New Jersey  
+505 Ramapo Valley Road  
+Mahwah, NJ 07430
+
+## Office Hours
+
+Tuesday / Friday  
+2:50 PM – 3:50 PM
