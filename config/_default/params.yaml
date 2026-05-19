@@ -55,3 +55,8 @@ features:
     enable: true
   privacy_pack:
     enable: false
+    
+
+  map:
+    provider: osm    
+    
