@@ -27,7 +27,6 @@ sections:
           position: center
           parallax: false
 
-  # Removed "Professional Summary" markdown block completely
 
   - block: collection
     content:
