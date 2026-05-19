@@ -47,6 +47,8 @@ interests:
 - Nonlinear Dynamics
 - Dynamical Systems
 - Bifurcation Theory
+- Vortex Dynamics
+- Hamiltonian Dynamics
 
 
 profiles:
