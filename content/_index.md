@@ -6,7 +6,7 @@ type: landing
 sections:
 
   # =========================
-  # HERO / BIOGRAPHY
+  # HERO / BIO
   # =========================
   - block: about.biography
     id: about
@@ -17,11 +17,10 @@ sections:
       button:
         text: Download CV
         url: files/resume.pdf
-    design:
-      spacing: 0.8rem
+    design: {}
 
   # =========================
-  # RESEARCH INTERESTS
+  # INTERESTS
   # =========================
   - block: markdown
     id: interests
@@ -84,7 +83,7 @@ sections:
       columns: 2
 
   # =========================
-  # CONTACT + MAP
+  # CONTACT + MAP (FIXED)
   # =========================
   - block: contact
     id: contact
