@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atul Anurag</title>
-    <link>https://www.atulanurag.com/</link>
-      <atom:link href="https://www.atulanurag.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Atul Anurag</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.atulanurag.com/media/icon_hu_3d6aa7a299c31620.png</url>
+      <url>http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png</url>
       <title>Atul Anurag</title>
-      <link>https://www.atulanurag.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>PhD Dissertation: The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering</title>
-      <link>https://www.atulanurag.com/publication/phd-dissertation/</link>
+      <link>http://localhost:1313/publication/phd-dissertation/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/publication/phd-dissertation/</guid>
+      <guid>http://localhost:1313/publication/phd-dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math 106 Introduction to Mathematical Modeling</title>
-      <link>https://www.atulanurag.com/teaching/math-106-introduction-to-mathematical-modeling/</link>
+      <link>http://localhost:1313/teaching/math-106-introduction-to-mathematical-modeling/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/teaching/math-106-introduction-to-mathematical-modeling/</guid>
+      <guid>http://localhost:1313/teaching/math-106-introduction-to-mathematical-modeling/</guid>
       <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
 &lt;p&gt;This is a Quantitative Reasoning keystone course meant for non-science majors. The course is intended to provide insight into the importance of mathematics to the world outside academia, and to improve students reasoning and problem—solving skills. It will introduce to students applications by way of management decision making, social choice, and population studies. Typical among problems to be studied are: scheduling of projects with precedence restrictions; linear Programming problems; manipulability of voting systems; weighted voting systems (coalitions and relative power, paradoxes in voting systems); apportionment; fair division in presence of individual preferences; detection and or
 correction of data transmission errors.&lt;/p&gt;
@@ -204,9 +204,9 @@ correction of data transmission errors.&lt;/p&gt;
     
     <item>
       <title>Math 108 Elementary Probability and Statistics</title>
-      <link>https://www.atulanurag.com/teaching/math-108-elementary-probability-and-statistics/</link>
+      <link>http://localhost:1313/teaching/math-108-elementary-probability-and-statistics/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/teaching/math-108-elementary-probability-and-statistics/</guid>
+      <guid>http://localhost:1313/teaching/math-108-elementary-probability-and-statistics/</guid>
       <description>&lt;h2 id=&#34;-homeworks-and-lecture-notes&#34;&gt;📂 Homeworks and Lecture Notes&lt;/h2&gt;
 &lt;h3 id=&#34;weekly-materials&#34;&gt;Weekly Materials&lt;/h3&gt;
 &lt;p&gt;Here you can find links to each week&amp;rsquo;s lecture notes and homework.
@@ -293,41 +293,41 @@ correction of data transmission errors.&lt;/p&gt;
     
     <item>
       <title>The Global Phase Plane Analysis of Three Vortex Interactions</title>
-      <link>https://www.atulanurag.com/events/dana-knox-research-showcase-2025/</link>
+      <link>http://localhost:1313/events/dana-knox-research-showcase-2025/</link>
       <pubDate>Wed, 23 Apr 2025 09:30:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/events/dana-knox-research-showcase-2025/</guid>
+      <guid>http://localhost:1313/events/dana-knox-research-showcase-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase portraits and the bifurcation set for the three-vortex interaction system</title>
-      <link>https://www.atulanurag.com/publication/global-three-vortex/</link>
+      <link>http://localhost:1313/publication/global-three-vortex/</link>
       <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
-      <guid>https://www.atulanurag.com/publication/global-three-vortex/</guid>
+      <guid>http://localhost:1313/publication/global-three-vortex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Phase Plane Analysis of the three-vortex problem</title>
-      <link>https://www.atulanurag.com/events/siam-nnp-2024/</link>
+      <link>http://localhost:1313/events/siam-nnp-2024/</link>
       <pubDate>Fri, 01 Nov 2024 09:30:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/events/siam-nnp-2024/</guid>
+      <guid>http://localhost:1313/events/siam-nnp-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Phase Space of the Three-Vortex Problem</title>
-      <link>https://www.atulanurag.com/events/siam-nwcs-2024/</link>
+      <link>http://localhost:1313/events/siam-nwcs-2024/</link>
       <pubDate>Mon, 24 Jun 2024 09:30:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/events/siam-nwcs-2024/</guid>
+      <guid>http://localhost:1313/events/siam-nwcs-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math 112 Calculus II</title>
-      <link>https://www.atulanurag.com/teaching/math-112-calculus-ii/</link>
+      <link>http://localhost:1313/teaching/math-112-calculus-ii/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/teaching/math-112-calculus-ii/</guid>
+      <guid>http://localhost:1313/teaching/math-112-calculus-ii/</guid>
       <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
 &lt;p&gt;From Fall 2019 to Spring 2022, I served as a Recitation Leader for &lt;strong&gt;Calculus II (Math 112)&lt;/strong&gt;, an undergraduate-level course covering advanced topics in integral calculus, sequences and series, and polar coordinates.&lt;/p&gt;
 &lt;p&gt;My worked solutions to previous exams can be found here:&lt;br&gt;
@@ -396,9 +396,9 @@ correction of data transmission errors.&lt;/p&gt;
     
     <item>
       <title>Math 111 Calculus I</title>
-      <link>https://www.atulanurag.com/teaching/math-111-calculus-i/</link>
+      <link>http://localhost:1313/teaching/math-111-calculus-i/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/teaching/math-111-calculus-i/</guid>
+      <guid>http://localhost:1313/teaching/math-111-calculus-i/</guid>
       <description>&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
 &lt;p&gt;My solutions to the previous exams on Calculus I can be found here: &lt;a href=&#34;MATH-111.pdf&#34;&gt;Calculus I&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -406,25 +406,25 @@ correction of data transmission errors.&lt;/p&gt;
     
     <item>
       <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
-      <link>https://www.atulanurag.com/publication/vortex-dipole/</link>
+      <link>http://localhost:1313/publication/vortex-dipole/</link>
       <pubDate>Thu, 06 Jun 2024 21:56:21 -0400</pubDate>
-      <guid>https://www.atulanurag.com/publication/vortex-dipole/</guid>
+      <guid>http://localhost:1313/publication/vortex-dipole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point Vortex Dipole Scattering</title>
-      <link>https://www.atulanurag.com/events/siam-nnp-2023/</link>
+      <link>http://localhost:1313/events/siam-nnp-2023/</link>
       <pubDate>Fri, 20 Oct 2023 09:30:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/events/siam-nnp-2023/</guid>
+      <guid>http://localhost:1313/events/siam-nnp-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalization of Leapfrogging Orbits of Point Vortices</title>
-      <link>https://www.atulanurag.com/events/njit-math-summer-talk-2023/</link>
+      <link>http://localhost:1313/events/njit-math-summer-talk-2023/</link>
       <pubDate>Thu, 20 Jul 2023 09:30:00 +0000</pubDate>
-      <guid>https://www.atulanurag.com/events/njit-math-summer-talk-2023/</guid>
+      <guid>http://localhost:1313/events/njit-math-summer-talk-2023/</guid>
       <description></description>
     </item>
     

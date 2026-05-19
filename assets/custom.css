@@ -1,4 +1,3 @@
-
 body {
   font-family: "Palatino", "Georgia", "Times New Roman", serif;
   font-size: 18px;
@@ -6,7 +5,7 @@ body {
   color: #222;
 }
 
-/* Narrow academic column (VERY important) */
+/* Narrow academic column */
 main, .container, .article-container {
   max-width: 720px;
   margin: auto;
@@ -19,12 +18,12 @@ h1, h2, h3, h4 {
   letter-spacing: -0.02em;
 }
 
-/* Paragraph spacing like papers */
+/* Paragraph spacing */
 p {
   margin-bottom: 1.2em;
 }
 
-/* Links subtle academic style */
+/* Academic link style */
 a {
   color: #2a4b8d;
   text-decoration: none;
@@ -34,12 +33,39 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Publications feel like journal articles */
+/* Publications layout */
 .article-style {
   max-width: 720px;
 }
 
 /* Reduce UI noise */
-.navbar, footer {
+.navbar,
+footer {
   font-size: 0.95em;
+}
+
+/* =========================================
+   FIX LARGE VERTICAL GAPS BETWEEN SECTIONS
+========================================= */
+
+.home-section {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+
+/* About section */
+#about {
+  padding-bottom: 1rem !important;
+  margin-bottom: 0 !important;
+}
+
+/* Publications section */
+#publications {
+  padding-top: 1rem !important;
+  margin-top: 0 !important;
+}
+
+/* Interests spacing */
+ul.ul-interests {
+  margin-bottom: 0 !important;
 }
