@@ -98,3 +98,38 @@ footer {
   text-decoration: none !important;
   border-bottom: none !important;
 }
+
+
+/* =========================
+   LINKS
+========================= */
+
+a,
+a:hover,
+a:focus,
+a:active {
+  color: #2a4b8d;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* HugoBlox/Wowchemy content links */
+.article-style a,
+.article-container a,
+.network-icon a,
+.nav-link {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Prevent hover underline/border */
+.article-style a:hover,
+.article-container a:hover,
+.network-icon a:hover,
+.nav-link:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
