@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Atul Anurag</title>
-    <link>http://localhost:1313/publication-type/7/</link>
-      <atom:link href="http://localhost:1313/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.atulanurag.com/publication-type/7/</link>
+      <atom:link href="https://www.atulanurag.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png</url>
+      <url>https://www.atulanurag.com/media/icon_hu_3d6aa7a299c31620.png</url>
       <title>7</title>
-      <link>http://localhost:1313/publication-type/7/</link>
+      <link>https://www.atulanurag.com/publication-type/7/</link>
     </image>
     
     <item>
       <title>PhD Dissertation: The global phase space of the three-vortex interaction system and its application to vortex-dipole scattering</title>
-      <link>http://localhost:1313/publication/phd-dissertation/</link>
+      <link>https://www.atulanurag.com/publication/phd-dissertation/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/phd-dissertation/</guid>
+      <guid>https://www.atulanurag.com/publication/phd-dissertation/</guid>
       <description></description>
     </item>
     

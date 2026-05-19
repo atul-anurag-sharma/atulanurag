@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roy Goodman | Atul Anurag</title>
-    <link>http://localhost:1313/authors/roy-goodman/</link>
-      <atom:link href="http://localhost:1313/authors/roy-goodman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.atulanurag.com/authors/roy-goodman/</link>
+      <atom:link href="https://www.atulanurag.com/authors/roy-goodman/index.xml" rel="self" type="application/rss+xml" />
     <description>Roy Goodman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Apr 2025 21:56:21 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/authors/roy-goodman/avatar_hu_7d351e2c13b35e55.jpg</url>
+      <url>https://www.atulanurag.com/authors/roy-goodman/avatar_hu_7d351e2c13b35e55.jpg</url>
       <title>Roy Goodman</title>
-      <link>http://localhost:1313/authors/roy-goodman/</link>
+      <link>https://www.atulanurag.com/authors/roy-goodman/</link>
     </image>
     
     <item>
       <title>Phase portraits and the bifurcation set for the three-vortex interaction system</title>
-      <link>http://localhost:1313/publication/global-three-vortex/</link>
+      <link>https://www.atulanurag.com/publication/global-three-vortex/</link>
       <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
-      <guid>http://localhost:1313/publication/global-three-vortex/</guid>
+      <guid>https://www.atulanurag.com/publication/global-three-vortex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering</title>
-      <link>http://localhost:1313/publication/vortex-dipole/</link>
+      <link>https://www.atulanurag.com/publication/vortex-dipole/</link>
       <pubDate>Thu, 06 Jun 2024 21:56:21 -0400</pubDate>
-      <guid>http://localhost:1313/publication/vortex-dipole/</guid>
+      <guid>https://www.atulanurag.com/publication/vortex-dipole/</guid>
       <description></description>
     </item>
     

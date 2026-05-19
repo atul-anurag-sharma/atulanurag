@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preprint | Atul Anurag</title>
-    <link>http://localhost:1313/publication-type/preprint/</link>
-      <atom:link href="http://localhost:1313/publication-type/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.atulanurag.com/publication-type/preprint/</link>
+      <atom:link href="https://www.atulanurag.com/publication-type/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Preprint</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Apr 2025 21:56:21 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3d6aa7a299c31620.png</url>
+      <url>https://www.atulanurag.com/media/icon_hu_3d6aa7a299c31620.png</url>
       <title>Preprint</title>
-      <link>http://localhost:1313/publication-type/preprint/</link>
+      <link>https://www.atulanurag.com/publication-type/preprint/</link>
     </image>
     
     <item>
       <title>Phase portraits and the bifurcation set for the three-vortex interaction system</title>
-      <link>http://localhost:1313/publication/global-three-vortex/</link>
+      <link>https://www.atulanurag.com/publication/global-three-vortex/</link>
       <pubDate>Tue, 22 Apr 2025 21:56:21 -0400</pubDate>
-      <guid>http://localhost:1313/publication/global-three-vortex/</guid>
+      <guid>https://www.atulanurag.com/publication/global-three-vortex/</guid>
       <description></description>
     </item>
     
