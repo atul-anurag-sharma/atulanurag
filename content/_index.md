@@ -1,6 +1,7 @@
 ---
 title: ""
 type: landing
+
 design:
   spacing: 0.5rem
 
@@ -44,3 +45,4 @@ sections:
     design:
       card:
         css_class: bg-red-600
+---
