@@ -1,3 +1,7 @@
+/* =========================
+   TYPOGRAPHY
+========================= */
+
 body {
   font-family: "Palatino", "Georgia", "Times New Roman", serif;
   font-size: 18px;
@@ -5,7 +9,7 @@ body {
   color: #222;
 }
 
-/* Narrow academic column */
+/* Narrow academic layout */
 main, .container, .article-container {
   max-width: 720px;
   margin: auto;
@@ -23,7 +27,7 @@ p {
   margin-bottom: 1.2em;
 }
 
-/* Academic link style */
+/* Links */
 a {
   color: #2a4b8d;
   text-decoration: none;
@@ -33,39 +37,40 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Publications layout */
-.article-style {
-  max-width: 720px;
-}
-
 /* Reduce UI noise */
 .navbar,
 footer {
   font-size: 0.95em;
 }
 
-/* =========================================
-   FIX LARGE VERTICAL GAPS BETWEEN SECTIONS
-========================================= */
+/* =========================
+   HOMEPAGE SPACING (FIX)
+========================= */
 
 .home-section {
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
+  padding-top: 0.9rem !important;
+  padding-bottom: 0.9rem !important;
+  margin: 0 !important;
 }
 
-/* About section */
-#about {
-  padding-bottom: 1rem !important;
-  margin-bottom: 0 !important;
-}
-
-/* Publications section */
-#publications {
-  padding-top: 1rem !important;
+/* Kill spacing between stacked sections */
+.home-section + .home-section {
   margin-top: 0 !important;
 }
 
-/* Interests spacing */
-ul.ul-interests {
+/* Biography section */
+.biography-section {
+  padding-bottom: 0.5rem !important;
+}
+
+/* Publications block (HugoBlox v5 safe selector) */
+#papers,
+#section-publications {
+  margin-top: 0 !important;
+  padding-top: 0.5rem !important;
+}
+
+/* Interests list spacing */
+.ul-interests {
   margin-bottom: 0 !important;
 }
