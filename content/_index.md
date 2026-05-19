@@ -1,10 +1,13 @@
 ---
 title: ""
-date: 
+date:
 type: landing
+
 design:
   spacing: 0.5rem
+
 sections:
+
   - block: resume-biography-3
     content:
       username: admin
@@ -17,20 +20,14 @@ sections:
       background:
         color: auto
         image:
-          filename: 
+          filename:
           filters:
             brightness: auto
           size: cover
           position: center
           parallax: false
 
-  - block: markdown
-    content:
-      subtitle: ""
-      text: ""
-      title: ""
-    design:
-      columns: "1"
+  # Removed "Professional Summary" markdown block completely
 
   - block: collection
     content:
@@ -43,8 +40,6 @@ sections:
       columns: 2
       view: auto
     id: papers
-    
-
 
   - block: collection
     content:
@@ -57,7 +52,6 @@ sections:
       view: article-grid
     id: events
 
-
   - block: card
     content:
       button:
@@ -69,4 +63,5 @@ sections:
       card:
         css_class: bg-red-600
         css_style: ""
+
 ---
