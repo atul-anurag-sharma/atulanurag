@@ -1,47 +1,34 @@
 ---
-# An instance of the Contact widget.
-widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
 title: Contact
-subtitle:
+
+# NEW syntax
+block: contact
 
 content:
-  # Automatically link email and phone or display as text?
+  title: Contact
+  subtitle: ""
+
   autolink: true
 
-  # Contact details
   email: aanurag@ramapo.edu
-  phone: 862 237 1632
+  phone: "862-237-1632"
 
   address:
-    street: "Office G128H, Ramapo College of New Jersey, 505 Ramapo Valley Road"
-    city: Mahwah
-    region: NJ
-    postcode: '07430'
-    country: United States
-    country_code: US
+    street: "505 Ramapo Valley Road, Office G128H"
+    city: "Mahwah"
+    region: "NJ"
+    postcode: "07430"
+    country: "United States"
 
   coordinates:
-    latitude: '41.0819'
-    longitude: '-74.1749'
+    latitude: 41.0819
+    longitude: -74.1749
 
-  directions: "__Office G128H, Ramapo College.__"
+  directions: "Office G128H, Ramapo College of New Jersey"
 
   office_hours:
-    - 'Tuesday/Friday 2:50-3:50'
-
-  contact_links:
-    - icon: video
-      icon_pack: fas
-      name: Teams Meeting Room
-      link: ''
+    - "Tuesday/Friday 2:50–3:50 PM"
 
 design:
-  columns: '2'
+  columns: "2"
 ---
