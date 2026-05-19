@@ -1,11 +1,13 @@
 ---
 title: ""
+date:
 type: landing
 
 design:
   spacing: 0.5rem
 
 sections:
+
   - block: resume-biography-3
     content:
       username: admin
@@ -13,6 +15,19 @@ sections:
       button:
         text: CV
         url: files/resume.pdf
+    design:
+      css_class: ""
+      background:
+        color: auto
+        image:
+          filename:
+          filters:
+            brightness: auto
+          size: cover
+          position: center
+          parallax: false
+
+  # Removed "Professional Summary" markdown block completely
 
   - block: collection
     content:
@@ -42,7 +57,11 @@ sections:
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
+      text: ""
+    demo: true
     design:
       card:
         css_class: bg-red-600
+        css_style: ""
+
 ---

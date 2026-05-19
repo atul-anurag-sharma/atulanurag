@@ -1,22 +1,15 @@
 ---
 title: Contact
-type: page
+view: article-grid
+headless: false
 draft: false
 ---
 
-## Contact Information
+You can reach out via email. Here are my emails:
 
-- Work Email: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)
-- Personal Email: [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
+Work Email: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
+Personal Email: [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
 
-## Office
+**Office Location**
 
-Office G128H  
-Ramapo College of New Jersey  
-505 Ramapo Valley Road  
-Mahwah, NJ 07430
-
-## Office Hours
-
-Tuesday / Friday  
-2:50 PM – 3:50 PM
+TBD
