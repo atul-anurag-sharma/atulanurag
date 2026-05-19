@@ -10,13 +10,18 @@ body {
 }
 
 /* Narrow academic layout */
-main, .container, .article-container {
+main,
+.container,
+.article-container {
   max-width: 720px;
   margin: auto;
 }
 
 /* Headings */
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: "Palatino", serif;
   font-weight: 600;
   letter-spacing: -0.02em;
@@ -27,24 +32,29 @@ p {
   margin-bottom: 1.2em;
 }
 
-/* Links */
-a {
+/* =========================
+   LINKS
+========================= */
+
+a,
+a:hover,
+a:focus,
+a:active {
   color: #2a4b8d;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
-a:hover {
-  text-decoration: underline;
-}
+/* =========================
+   REDUCE UI NOISE
+========================= */
 
-/* Reduce UI noise */
 .navbar,
 footer {
   font-size: 0.95em;
 }
 
 /* =========================
-   HOMEPAGE SPACING (FIX)
+   HOMEPAGE SPACING
 ========================= */
 
 .home-section {
@@ -53,7 +63,7 @@ footer {
   margin: 0 !important;
 }
 
-/* Kill spacing between stacked sections */
+/* Remove spacing between stacked sections */
 .home-section + .home-section {
   margin-top: 0 !important;
 }
@@ -63,7 +73,7 @@ footer {
   padding-bottom: 0.5rem !important;
 }
 
-/* Publications block (HugoBlox v5 safe selector) */
+/* Publications block */
 #papers,
 #section-publications {
   margin-top: 0 !important;
@@ -73,4 +83,18 @@ footer {
 /* Interests list spacing */
 .ul-interests {
   margin-bottom: 0 !important;
+}
+
+/* =========================
+   PROFILE / SOCIAL ICONS
+========================= */
+
+.network-icon a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.network-icon a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
