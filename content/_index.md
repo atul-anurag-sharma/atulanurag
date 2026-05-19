@@ -1,119 +1,66 @@
 ---
 title: ""
-date: 2023-08-07
+date:
 type: landing
+
+design:
+  spacing: 0.5rem
 
 sections:
 
-  # =========================
-  # HERO / BIO
-  # =========================
-  - block: about.biography
-    id: about
+  - block: resume-biography-3
     content:
-      title: Dr. Atul Anurag
       username: admin
       text: ""
       button:
-        text: Download CV
+        text: CV
         url: files/resume.pdf
-    design: {}
-
-  # =========================
-  # INTERESTS
-  # =========================
-  - block: markdown
-    id: interests
-    content:
-      title: Research Interests
-      text: |
-        Dynamical Systems · Nonlinear Dynamics · Bifurcation Theory
     design:
-      columns: 1
+      css_class: ""
+      background:
+        color: auto
+        image:
+          filename:
+          filters:
+            brightness: auto
+          size: cover
+          position: center
+          parallax: false
 
-  # =========================
-  # PUBLICATIONS
-  # =========================
+
   - block: collection
-    id: publications
     content:
-      title: Publications
       filters:
+        featured_only: true
         folders:
           - publication
+      title: Publications
     design:
       columns: 2
-      view: citation
+      view: auto
+    id: papers
 
-  # =========================
-  # TALKS
-  # =========================
   - block: collection
-    id: talks
     content:
-      title: Talks
       filters:
         folders:
           - events
+      title: Recent & Upcoming Talks
     design:
       columns: 2
-      view: compact
+      view: article-grid
+    id: events
 
-  # =========================
-  # EXPERIENCE
-  # =========================
-  - block: experience
-    id: experience
+  - block: card
     content:
-      title: Experience
-      date_format: Jan 2006
-      items:
-        - title: Visiting Assistant Professor
-          company: Ramapo College of New Jersey
-          date_start: "2025-08-01"
-          location: Mahwah, NJ
-
-        - title: PhD in Applied Mathematics
-          company: New Jersey Institute of Technology
-          date_start: "2019-08-01"
-          date_end: "2025-05-01"
-          location: Newark, NJ
-
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+      text: ""
+    demo: true
     design:
-      columns: 2
+      card:
+        css_class: bg-red-600
+        css_style: ""
 
-  # =========================
-  # CONTACT + MAP (FIXED)
-  # =========================
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-
-      address:
-        street: "G128H, Ramapo College of New Jersey"
-        city: Mahwah
-        region: NJ
-        postcode: "07430"
-        country: United States
-
-      coordinates:
-        latitude: "41.0826"
-        longitude: "-74.1740"
-
-      contact_links:
-        - icon: envelope
-          name: Email
-          link: mailto:your-email@ramapo.edu
-
-        - icon: brands/github
-          name: GitHub
-          link: https://github.com/atul-anurag-sharma
-
-        - icon: brands/linkedin
-          name: LinkedIn
-          link: https://linkedin.com
-
-    design:
-      columns: 2
 ---
