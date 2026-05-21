@@ -5,11 +5,13 @@ headless: false
 draft: false
 ---
 
-You can reach out via email. Here are my emails:
+Feel free to reach out via email:
 
-Work Email: [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
-Personal Email: [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
+- **Work Email:** [aanurag@ramapo.edu](mailto:aanurag@ramapo.edu)  
+- **Personal Email:** [aatulanurag@gmail.com](mailto:aatulanurag@gmail.com)
 
-**Office Location**
+## Office Location
 
-TBD
+Department of Mathematics  
+Ramapo College of New Jersey  
+G-128H
