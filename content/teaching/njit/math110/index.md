@@ -29,7 +29,7 @@ A preparatory course for calculus with trigonometry. Topics include:
 
 ## Course Syllabus
 
-[Download the MATH 108 Course Syllabus (PDF)](week1/MATH108-syllabus.pdf)
+[Download the MATH 110 Course Syllabus (PDF)](week1/MATH108-syllabus.pdf)
 
 ---
 tags:
