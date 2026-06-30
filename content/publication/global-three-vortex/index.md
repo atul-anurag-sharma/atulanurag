@@ -31,6 +31,8 @@ featured: true
 links:
   - name: arXiv
     url: "https://arxiv.org/abs/2504.16038"
+ - name: DOI  
+    url: "https://doi.org/10.1016/j.cnsns.2026.110428"
   
 
 url_pdf:
