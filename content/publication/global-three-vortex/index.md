@@ -2,18 +2,24 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Phase portraits and the bifurcation set for the three-vortex interaction system"
-authors: [admin,roy-goodman]
-date: 
-
+authors: [admin, roy-goodman]
+date:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-22T21:56:21-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["Preprint"]
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis
+# 8 = Patent
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The Global Phase Space of the Three-Vortex Interaction System"
@@ -27,13 +33,11 @@ summary: "We derive a symplectic reduction of the evolution equations for a syst
 categories: ["published"]
 featured: true
 
-
 links:
   - name: arXiv
     url: "https://arxiv.org/abs/2504.16038"
- - name: DOI  
+  - name: DOI
     url: "https://doi.org/10.1016/j.cnsns.2026.110428"
-  
 
 url_pdf:
 url_code:
@@ -45,17 +49,12 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# To use, add an image named `featured.jpg` or `featured.png` to your page's folder.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 ---
