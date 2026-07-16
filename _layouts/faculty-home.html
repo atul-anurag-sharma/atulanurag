@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="faculty-homepage">
+  <aside class="faculty-homepage__profile">
+
+    <img
+      src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}"
+      alt="{{ site.author.name }}"
+      class="faculty-homepage__photo"
+    >
+
+    <h1>{{ site.author.name }}</h1>
+
+    <p class="faculty-homepage__position">
+      Visiting Assistant Professor of Mathematics
+    </p>
+
+    <p class="faculty-homepage__institution">
+      <a href="https://www.ramapo.edu" target="_blank" rel="noopener">
+        Ramapo College of New Jersey
+      </a>
+    </p>
+
+    <div class="faculty-homepage__links">
+      <a href="mailto:{{ site.author.email }}" aria-label="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+
+      <a href="{{ site.author.googlescholar }}"
+         target="_blank" rel="noopener"
+         aria-label="Google Scholar">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+
+      <a href="{{ site.author.orcid }}"
+         target="_blank" rel="noopener"
+         aria-label="ORCID">
+        <i class="ai ai-orcid"></i>
+      </a>
+
+      <a href="https://github.com/{{ site.author.github }}"
+         target="_blank" rel="noopener"
+         aria-label="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"
+         target="_blank" rel="noopener"
+         aria-label="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+
+      <a href="/files/resume.pdf" aria-label="Curriculum Vitae">
+        <span>CV</span>
+      </a>
+    </div>
+
+  </aside>
+
+  <article class="faculty-homepage__content">
+    {{ content }}
+  </article>
+</main>
