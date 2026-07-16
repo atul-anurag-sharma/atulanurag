@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-three-vortex-phase-portraits/
 excerpt: "A global, singularity-free reduction of the three-vortex problem that organizes phase portraits and the bifurcation set across circulation regimes."
-date: 2026-11-01
+date: 2026-07-01
 venue: "Communications in Nonlinear Science and Numerical Simulation, 163, 110428"
 citation: "Atul Anurag and Roy H. Goodman. Phase portraits and the bifurcation set for the three-vortex interaction system. Communications in Nonlinear Science and Numerical Simulation, 163, 110428."
 ---
