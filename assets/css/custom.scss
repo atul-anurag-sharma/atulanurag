@@ -1,6 +1,49 @@
 ---
 ---
 
-/* Small custom refinements while retaining the Academic Pages design. */
-.page__content { font-size: 0.98em; }
-.author__avatar img { border-radius: 50%; }
+.page__content {
+  font-size: 0.98em;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+}
+
+.centered-homepage h1,
+.centered-homepage h2,
+.centered-homepage h3 {
+  text-align: center;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 2rem 0;
+}
+
+.action-buttons a {
+  display: inline-block;
+  padding: 0.75rem 1.4rem;
+  border: 2px solid #16324f;
+  border-radius: 10px;
+  background: white;
+  color: #16324f;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.25s ease;
+}
+
+.action-buttons a:first-child {
+  background: #16324f;
+  color: white;
+}
+
+.action-buttons a:hover {
+  background: #16324f;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(22, 50, 79, 0.15);
+}
