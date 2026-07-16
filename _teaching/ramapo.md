@@ -1,10 +1,10 @@
 ---
-title: "Mathematics Courses at Ramapo College"
+title: "Ramapo College of New Jersey"
 collection: teaching
-type: "Undergraduate courses"
 permalink: /teaching/ramapo/
-venue: "Ramapo College of New Jersey"
-date: 2025-09-01
+type: "Teaching"
 ---
 
-Courses taught include Precalculus, Differential Equations, Probability and Statistics, Mathematical Modeling, and other undergraduate mathematics courses.
+Selected course materials from courses taught at Ramapo College of New Jersey.
+
+_Materials will be added here._
