@@ -4,23 +4,23 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/njit/
 venue: "New Jersey Institute of Technology"
+author_profile: true
 ---
 
-Selected lecture notes, problem sets, syllabi, and other course materials from courses taught at the New Jersey Institute of Technology.
+Courses and selected teaching materials from the New Jersey Institute of Technology.
 
-## MATH 111 — Calculus I
+<div class="course-card-grid">
 
-- [MATH 111](/files/teaching/njit/math111/MATH-111.pdf)
+<article class="course-card">
+<div class="course-code">MATH 111</div>
+<h2>Calculus I</h2>
+<a class="course-link" href="/teaching/math111/">View course →</a>
+</article>
 
-## MATH 112 — Calculus II
+<article class="course-card">
+<div class="course-code">MATH 112</div>
+<h2>Calculus II</h2>
+<a class="course-link" href="/teaching/math112/">View course →</a>
+</article>
 
-- [CalculusII](/files/teaching/njit/math112/CalculusII.pdf)
-- [Problem Set I](/files/teaching/njit/math112/Problem-Set-I.pdf)
-- [Problem Set II](/files/teaching/njit/math112/Problem-Set-II.pdf)
-- [Problem Set III](/files/teaching/njit/math112/Problem-Set-III.pdf)
-- [Problem Set IV](/files/teaching/njit/math112/Problem-Set-IV.pdf)
-- [Problem Set IX](/files/teaching/njit/math112/Problem-Set-IX.pdf)
-- [Problem Set V](/files/teaching/njit/math112/Problem-Set-V.pdf)
-- [Problem Set VI](/files/teaching/njit/math112/Problem-Set-VI.pdf)
-- [Problem Set VII](/files/teaching/njit/math112/Problem-Set-VII.pdf)
-- [Problem Set VIII](/files/teaching/njit/math112/Problem-Set-VIII.pdf)
+</div>
