@@ -52,16 +52,4 @@ sections:
       view: article-grid
     id: events
 
-  - block: card
-    content:
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-      text: ""
-    demo: true
-    design:
-      card:
-        css_class: bg-red-600
-        css_style: ""
-
 ---

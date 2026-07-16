@@ -1,136 +1,266 @@
-/* =========================
-   TYPOGRAPHY
-========================= */
+/* =========================================================
+   Atul Anurag — Professional Academic Theme
+   ========================================================= */
 
-body {
-  font-family: "Palatino", "Georgia", "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 1.75;
-  color: #222;
-  
+:root {
+  --academic-ink: #172033;
+  --academic-muted: #5b6474;
+  --academic-accent: #173f6f;
+  --academic-accent-dark: #102d50;
+  --academic-surface: #f7f8fa;
+  --academic-border: #dfe3e8;
+  --academic-radius: 12px;
+  --academic-shadow: 0 8px 28px rgba(20, 32, 52, 0.08);
 }
 
-/* Narrow academic layout */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--academic-ink);
+  background: #fff;
+}
+
+/* Comfortable academic reading width without squeezing cards. */
 main,
 .container,
 .article-container {
-  max-width: 720px;
-  margin: auto;
+  max-width: 1120px;
 }
 
-/* Headings */
+.article-container {
+  max-width: 820px;
+}
+
 h1,
 h2,
 h3,
-h4 {
-  font-family: "Palatino", serif;
-  font-weight: 600;
+h4,
+h5,
+h6 {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  color: var(--academic-ink);
+  font-weight: 650;
   letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 
-/* Paragraph spacing */
+h1 {
+  font-size: clamp(2.25rem, 5vw, 4rem);
+}
+
+h2 {
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
+}
+
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 1.1em;
 }
 
-/* =========================
-   LINKS
-========================= */
+/* Navigation */
+.navbar {
+  border-bottom: 1px solid rgba(23, 32, 51, 0.08);
+  box-shadow: 0 2px 14px rgba(20, 32, 52, 0.04);
+  backdrop-filter: blur(10px);
+}
 
-a,
+.navbar-brand,
+.navbar-brand:hover {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 700;
+  color: var(--academic-ink) !important;
+}
+
+.nav-link {
+  font-weight: 550;
+}
+
+/* Links */
+a {
+  color: var(--academic-accent);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
 a:hover,
-a:focus,
-a:active {
-  color: #2a4b8d;
+a:focus {
+  color: var(--academic-accent-dark);
+}
+
+.article-style a,
+.article-container a {
+  text-decoration: underline;
+}
+
+.nav-link,
+.navbar-brand,
+.network-icon a,
+.btn {
   text-decoration: none !important;
 }
 
-/* =========================
-   REDUCE UI NOISE
-========================= */
-
-.navbar,
-footer {
-  font-size: 0.95em;
-}
-
-/* =========================
-   HOMEPAGE SPACING
-========================= */
-
+/* Homepage sections */
 .home-section {
-  padding-top: 0.9rem !important;
-  padding-bottom: 0.9rem !important;
-  margin: 0 !important;
+  padding-top: 3.5rem !important;
+  padding-bottom: 3.5rem !important;
 }
 
-/* Remove spacing between stacked sections */
-.home-section + .home-section {
-  margin-top: 0 !important;
+.home-section:nth-of-type(even) {
+  background: var(--academic-surface);
 }
 
-/* Biography section */
-.biography-section {
-  padding-bottom: 0.5rem !important;
+.home-section .section-heading h1,
+.home-section .section-heading h2 {
+  position: relative;
+  padding-bottom: 0.65rem;
 }
 
-/* Publications block */
-#papers,
-#section-publications {
-  margin-top: 0 !important;
-  padding-top: 0.5rem !important;
+.home-section .section-heading h1::after,
+.home-section .section-heading h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 3px;
+  margin-top: 0.6rem;
+  border-radius: 10px;
+  background: var(--academic-accent);
 }
 
-/* Interests list spacing */
-.ul-interests {
-  margin-bottom: 0 !important;
+/* Biography block */
+.biography-section .avatar,
+.avatar-circle {
+  box-shadow: var(--academic-shadow);
+  border: 5px solid #fff;
 }
 
-/* =========================
-   PROFILE / SOCIAL ICONS
-========================= */
+.portrait-title h2 {
+  margin-bottom: 0.25rem;
+}
+
+.portrait-title h3 {
+  color: var(--academic-muted);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
 
 .network-icon a {
-  text-decoration: none !important;
-  border-bottom: none !important;
+  color: var(--academic-accent);
+  transition: transform 160ms ease, color 160ms ease;
 }
 
 .network-icon a:hover {
-  text-decoration: none !important;
-  border-bottom: none !important;
+  color: var(--academic-accent-dark);
+  transform: translateY(-2px);
 }
 
-
-/* =========================
-   LINKS
-========================= */
-
-a,
-a:hover,
-a:focus,
-a:active {
-  color: #2a4b8d;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+/* Cards for publications and talks */
+.card,
+.article-grid-item,
+.view-card,
+.hb-card {
+  border: 1px solid var(--academic-border) !important;
+  border-radius: var(--academic-radius) !important;
+  background: #fff;
+  box-shadow: 0 4px 18px rgba(20, 32, 52, 0.055);
+  overflow: hidden;
+  transition: transform 180ms ease, box-shadow 180ms ease;
 }
 
-/* HugoBlox/Wowchemy content links */
-.article-style a,
-.article-container a,
-.network-icon a,
-.nav-link {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+.card:hover,
+.article-grid-item:hover,
+.view-card:hover,
+.hb-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--academic-shadow);
 }
 
-/* Prevent hover underline/border */
-.article-style a:hover,
-.article-container a:hover,
-.network-icon a:hover,
-.nav-link:hover {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+.card-title,
+.article-title {
+  line-height: 1.3;
+}
+
+.article-metadata,
+.article-style,
+.card-text {
+  color: var(--academic-muted);
+}
+
+/* Buttons */
+.btn-primary,
+.btn-outline-primary:hover {
+  background: var(--academic-accent) !important;
+  border-color: var(--academic-accent) !important;
+  color: #fff !important;
+}
+
+.btn-primary:hover {
+  background: var(--academic-accent-dark) !important;
+  border-color: var(--academic-accent-dark) !important;
+}
+
+.btn {
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 0.65rem 1.05rem;
+}
+
+/* Publication labels */
+.badge,
+.article-tags a {
+  border-radius: 999px;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--academic-border);
+  color: var(--academic-muted);
+  font-size: 0.92rem;
+}
+
+/* Dark mode */
+.dark,
+.dark body {
+  --academic-ink: #edf1f7;
+  --academic-muted: #b8c0cc;
+  --academic-accent: #8fc2ff;
+  --academic-accent-dark: #c0dcff;
+  --academic-surface: #121826;
+  --academic-border: #30394a;
+  background: #0d1320;
+}
+
+.dark .navbar,
+.dark .card,
+.dark .article-grid-item,
+.dark .view-card,
+.dark .hb-card {
+  background: #151d2b;
+}
+
+.dark .biography-section .avatar,
+.dark .avatar-circle {
+  border-color: #151d2b;
+}
+
+/* Mobile refinements */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  .home-section {
+    padding-top: 2.4rem !important;
+    padding-bottom: 2.4rem !important;
+  }
+
+  main,
+  .container,
+  .article-container {
+    width: min(100% - 2rem, 1120px);
+  }
 }
