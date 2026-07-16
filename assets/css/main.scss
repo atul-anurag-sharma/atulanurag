@@ -266,205 +266,388 @@
    Faculty Homepage
    ========================================================== */
 
-.faculty-homepage {
-  display: grid;
-  grid-template-columns: 330px minmax(0, 1fr);
-  align-items: start;
-  gap: 4rem;
-
-  width: min(1380px, calc(100% - 3rem));
-  margin: 0 auto;
-  padding: 3rem 0 4rem;
-}
-
-.faculty-homepage__profile {
-  text-align: center;
-}
-
-.faculty-homepage__photo {
-  display: block;
-
-  width: 280px;
-  height: 280px;
-  max-width: 100%;
-  margin: 0 auto 1.5rem;
-
-  object-fit: cover;
-
-  border: 5px solid #ffffff;
-  border-radius: 50%;
-
-  box-shadow: 0 10px 28px rgba(22, 50, 79, 0.14);
-}
-
-.faculty-homepage__profile h1 {
-  margin: 0 0 0.75rem;
-
-  color: #16324f;
-
-  font-size: 2.25rem;
-  line-height: 1.15;
-}
-
-.faculty-homepage__position {
-  max-width: 300px;
-  margin: 0 auto 0.75rem;
-
-  color: #64748b;
-
-  font-size: 1.1rem;
-  line-height: 1.5;
-}
-
-.faculty-homepage__institution {
-  margin: 0;
-
-  font-size: 1.05rem;
-  line-height: 1.45;
-}
-
-.faculty-homepage__institution a {
-  color: #b91c1c;
-  text-decoration: none;
-}
-
-.faculty-homepage__institution a:hover {
-  text-decoration: underline;
-}
-
-.faculty-homepage__links {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1rem;
-
-  margin-top: 1.5rem;
-}
-
-.faculty-homepage__links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-
-  min-width: 38px;
-  height: 42px;
-
-  color: #b91c1c !important;
-
-  font-size: 1.65rem;
-  font-weight: 800;
-  text-decoration: none !important;
-
-  transition:
-    color 0.2s ease,
-    transform 0.2s ease;
-}
-
-.faculty-homepage__links a:hover {
-  color: #7f1d1d !important;
-  transform: translateY(-2px);
-}
-
-.faculty-homepage__content {
-  min-width: 0;
-
-  color: #30343b;
-
-  font-size: 1.13rem;
-  line-height: 1.75;
-}
-
-.faculty-homepage__content > p:first-child {
-  margin-top: 0;
-}
-
-.faculty-homepage__content p {
-  margin-bottom: 1.35rem;
-}
-
-.faculty-homepage__content a {
-  color: #b91c1c;
-}
-
-.faculty-homepage__content h2 {
-  margin-top: 2.25rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.4rem;
-
-  border-bottom: 1px solid #e2e8f0;
-
-  color: #222222;
-
-  font-size: 1.85rem;
-  line-height: 1.25;
-}
-
-.faculty-homepage__content ul {
-  margin-top: 0.75rem;
-  padding-left: 1.5rem;
-}
-
-.faculty-homepage__content li {
-  margin-bottom: 0.55rem;
-}
-
-
-/* Tablet */
-@media (max-width: 900px) {
-  .faculty-homepage {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-
-    width: min(760px, calc(100% - 2rem));
-    padding-top: 1.5rem;
-  }
-
-  .faculty-homepage__profile {
-    max-width: 620px;
+   .faculty-homepage {
+    display: grid;
+    grid-template-columns: 310px minmax(0, 1fr);
+    align-items: start;
+    gap: 4.5rem;
+  
+    width: min(1450px, calc(100% - 3rem));
     margin: 0 auto;
+    padding: 2rem 0 4rem;
   }
-
+  
+  .faculty-homepage__profile {
+    position: sticky;
+    top: 92px;
+    text-align: center;
+  }
+  
   .faculty-homepage__photo {
-    width: 210px;
-    height: 210px;
+    display: block;
+    width: 255px;
+    height: 255px;
+    max-width: 100%;
+    margin: 0 auto 1.15rem;
+  
+    object-fit: cover;
+  
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+  
+    box-shadow: 0 12px 32px rgba(22, 50, 79, 0.16);
   }
-
-  .faculty-homepage__content {
-    width: 100%;
-    font-size: 1.05rem;
-  }
-}
-
-
-/* Phone */
-@media (max-width: 600px) {
-  .faculty-homepage {
-    gap: 2rem;
-
-    width: calc(100% - 1.5rem);
-    padding: 1.25rem 0 2.5rem;
-  }
-
-  .faculty-homepage__photo {
-    width: 170px;
-    height: 170px;
-  }
-
+  
   .faculty-homepage__profile h1 {
-    font-size: 1.9rem;
+    margin: 0 0 0.45rem;
+  
+    color: #16324f;
+  
+    font-size: 2rem;
+    line-height: 1.15;
   }
-
+  
   .faculty-homepage__position {
-    font-size: 1rem;
+    max-width: 290px;
+    margin: 0 auto 0.5rem;
+  
+    color: #64748b;
+  
+    font-size: 1.02rem;
+    line-height: 1.45;
   }
-
+  
+  .faculty-homepage__tagline {
+    max-width: 280px;
+    margin: 0.7rem auto;
+  
+    color: #334155;
+  
+    font-size: 0.88rem;
+    font-weight: 650;
+    line-height: 1.5;
+  }
+  
+  .faculty-homepage__institution {
+    margin: 0.85rem 0 0;
+  
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+  
+  .faculty-homepage__institution a {
+    color: #b91c1c;
+    text-decoration: none;
+  }
+  
+  .faculty-homepage__institution a:hover {
+    text-decoration: underline;
+  }
+  
+  .faculty-homepage__links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+  
+    margin-top: 1.35rem;
+  }
+  
+  .faculty-homepage__links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  
+    width: 44px;
+    height: 44px;
+  
+    border: 1px solid #dbe3ec;
+    border-radius: 50%;
+  
+    background: #ffffff;
+    color: #b91c1c !important;
+  
+    font-size: 1.25rem;
+    font-weight: 800;
+    text-decoration: none !important;
+  
+    box-shadow: 0 4px 12px rgba(22, 50, 79, 0.07);
+  
+    transition:
+      background-color 0.2s ease,
+      border-color 0.2s ease,
+      color 0.2s ease,
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  
+  .faculty-homepage__links a:hover {
+    background: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff !important;
+  
+    transform: translateY(-3px);
+  
+    box-shadow: 0 9px 20px rgba(185, 28, 28, 0.18);
+  }
+  
   .faculty-homepage__content {
-    font-size: 1rem;
-    line-height: 1.7;
+    min-width: 0;
+    padding-top: 0.15rem;
+  
+    color: #30343b;
+  
+    font-size: 1.12rem;
+    line-height: 1.75;
   }
-
+  
+  .faculty-homepage__content > p:first-child {
+    margin-top: 0;
+  }
+  
+  .faculty-homepage__content p {
+    margin-bottom: 1.35rem;
+  }
+  
+  .faculty-homepage__content a {
+    color: #b91c1c;
+  }
+  
   .faculty-homepage__content h2 {
-    font-size: 1.55rem;
+    margin-top: 2.2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.45rem;
+  
+    border-bottom: 1px solid #dfe7ef;
+  
+    color: #16324f;
+  
+    font-size: 1.75rem;
+    line-height: 1.25;
   }
-}
+  
+  /* Main action buttons */
+  
+  .faculty-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  
+    margin: 1.75rem 0 2.25rem;
+  }
+  
+  .faculty-actions a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  
+    padding: 0.68rem 1.15rem;
+  
+    border: 1px solid #cbd5e1;
+    border-radius: 999px;
+  
+    background: #ffffff;
+    color: #16324f !important;
+  
+    font-size: 0.92rem;
+    font-weight: 700;
+    text-decoration: none !important;
+  
+    box-shadow: 0 4px 12px rgba(22, 50, 79, 0.07);
+  
+    transition:
+      background-color 0.2s ease,
+      border-color 0.2s ease,
+      color 0.2s ease,
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  
+  .faculty-actions a:hover,
+  .faculty-actions__primary {
+    background: #16324f !important;
+    border-color: #16324f !important;
+    color: #ffffff !important;
+  
+    transform: translateY(-2px);
+  
+    box-shadow: 0 8px 18px rgba(22, 50, 79, 0.16);
+  }
+  
+  /* Research chips */
+  
+  .research-chip-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+  
+    margin: 1.1rem 0 2rem;
+  }
+  
+  .research-chip-list span {
+    display: inline-flex;
+    align-items: center;
+  
+    padding: 0.55rem 0.9rem;
+  
+    border: 1px solid #dbe3ec;
+    border-radius: 999px;
+  
+    background: #f8fafc;
+    color: #334155;
+  
+    font-size: 0.9rem;
+    font-weight: 650;
+  }
+  
+  /* Education cards */
+  
+  .education-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  
+    margin-top: 1.25rem;
+  }
+  
+  .education-card {
+    display: grid;
+    grid-template-columns: 38px minmax(0, 1fr);
+    gap: 0.8rem;
+    align-items: start;
+  
+    padding: 1.1rem;
+  
+    border: 1px solid #dfe7ef;
+    border-radius: 13px;
+  
+    background: #ffffff;
+  
+    box-shadow: 0 5px 16px rgba(22, 50, 79, 0.06);
+  }
+  
+  .education-card i {
+    margin-top: 0.1rem;
+  
+    color: #16324f;
+  
+    font-size: 1.35rem;
+  }
+  
+  .education-card strong,
+  .education-card span,
+  .education-card small {
+    display: block;
+  }
+  
+  .education-card strong {
+    color: #263445;
+    font-size: 0.98rem;
+    line-height: 1.35;
+  }
+  
+  .education-card span {
+    margin-top: 0.35rem;
+  
+    color: #64748b;
+  
+    font-size: 0.88rem;
+    line-height: 1.4;
+  }
+  
+  .education-card small {
+    margin-top: 0.45rem;
+  
+    color: #b91c1c;
+  
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+  
+  /* Tablet */
+  
+  @media (max-width: 1050px) {
+    .faculty-homepage {
+      grid-template-columns: 270px minmax(0, 1fr);
+      gap: 2.75rem;
+  
+      width: min(1100px, calc(100% - 2rem));
+    }
+  
+    .faculty-homepage__photo {
+      width: 225px;
+      height: 225px;
+    }
+  
+    .education-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  /* Phone */
+  
+  @media (max-width: 800px) {
+    .faculty-homepage {
+      grid-template-columns: 1fr;
+      gap: 2.25rem;
+  
+      width: min(760px, calc(100% - 1.5rem));
+      padding-top: 1.5rem;
+    }
+  
+    .faculty-homepage__profile {
+      position: static;
+  
+      max-width: 620px;
+      margin: 0 auto;
+    }
+  
+    .faculty-homepage__photo {
+      width: 190px;
+      height: 190px;
+    }
+  
+    .faculty-homepage__content {
+      width: 100%;
+  
+      font-size: 1.04rem;
+    }
+  
+    .faculty-actions {
+      justify-content: center;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .faculty-homepage {
+      gap: 1.8rem;
+      padding-bottom: 2.5rem;
+    }
+  
+    .faculty-homepage__photo {
+      width: 165px;
+      height: 165px;
+    }
+  
+    .faculty-homepage__profile h1 {
+      font-size: 1.8rem;
+    }
+  
+    .faculty-homepage__content {
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+  
+    .faculty-homepage__content h2 {
+      font-size: 1.5rem;
+    }
+  
+    .faculty-actions a {
+      flex: 1 1 145px;
+    }
+  
+    .education-card {
+      padding: 1rem;
+    }
+  }
