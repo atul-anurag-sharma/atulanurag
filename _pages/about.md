@@ -49,45 +49,30 @@ Point-vortex and vortex-dipole models arising in mathematical fluid dynamics.
 
 ---
 
-## Featured Publications
-
-### Phase portraits and the bifurcation set for the three-vortex interaction system
-
-Atul Anurag and Roy H. Goodman.  
-*Communications in Nonlinear Science and Numerical Simulation*, 163, 110428, 2026.
-
-A global, singularity-free reduction that organizes phase portraits and the bifurcation set across circulation regimes.
-
-[PDF](/files/global-three-vortex.pdf) · [arXiv](https://arxiv.org/abs/2504.16038) · [DOI](https://doi.org/10.1016/j.cnsns.2026.110428)
-
-### Canonical reduction for vortex-dipole dynamics
-
-A geometric study of reduced dynamics, invariant structures, and qualitative behavior in vortex-dipole models.
-
-[PDF](/files/vortex-dipole.pdf) · [Publication details](/publication/2024-canonical-reduction-vortex-dipole/)
-
-[View all publications →](/publications/)
-
----
-
-## Teaching
-
-### Ramapo College of New Jersey
-
-- [MATH 106 — Introduction to Mathematical Modeling](/teaching/math106/)
-- [MATH 108 — Elementary Probability and Statistics](/teaching/math108/)
-
-### New Jersey Institute of Technology
-
-- [MATH 111 — Calculus I](/teaching/math111/)
-- [MATH 112 — Calculus II](/teaching/math112/)
-
-[View all teaching materials →](/teaching/)
-
----
-
 ## Contact
 
-For questions about my research, publications, or teaching materials, please contact me by [email](mailto:aanurag@ramapo.edu).
+For questions about my research, publications, teaching, or potential collaborations, please feel free to get in touch.
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ) · [ORCID](https://orcid.org/0009-0003-6871-0703) · [GitHub](https://github.com/atul-anurag-sharma) · [LinkedIn](https://www.linkedin.com/in/atul-anurag-290367166)
+<div class="homepage-buttons">
+
+<a class="v2-btn v2-btn--primary" href="mailto:aanurag@ramapo.edu">
+Email
+</a>
+
+<a class="v2-btn" href="https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ">
+Google Scholar
+</a>
+
+<a class="v2-btn" href="https://orcid.org/0009-0003-6871-0703">
+ORCID
+</a>
+
+<a class="v2-btn" href="https://github.com/atul-anurag-sharma">
+GitHub
+</a>
+
+<a class="v2-btn" href="https://www.linkedin.com/in/atul-anurag-290367166">
+LinkedIn
+</a>
+
+</div>
