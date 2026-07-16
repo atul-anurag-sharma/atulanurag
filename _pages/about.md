@@ -18,7 +18,12 @@ I am a Visiting Assistant Professor of Mathematics at Ramapo College of New Jers
 
 My research lies at the intersection of dynamical systems, Hamiltonian mechanics, geometric reduction, bifurcation theory, and mathematical fluid dynamics. I am particularly interested in the global phase-space geometry of point-vortex systems and in methods that preserve the geometric structure of Hamiltonian models.
 
-[Curriculum Vitae](/files/resume.pdf) · [Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/)
+<div class="homepage-buttons">
+  <a class="v2-btn v2-btn--primary" href="/files/resume.pdf">Curriculum Vitae</a>
+  <a class="v2-btn" href="/research/">Research</a>
+  <a class="v2-btn" href="/publications/">Publications</a>
+  <a class="v2-btn" href="/teaching/">Teaching</a>
+</div>
 
 ---
 
