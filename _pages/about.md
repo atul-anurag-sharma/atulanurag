@@ -2,34 +2,31 @@
 layout: single
 title: ""
 permalink: /
-author_profile: true
-classes: wide
+author_profile: false
+classes: wide centered-homepage
 ---
 
-<section class="v2-hero">
-  <div class="v2-hero__content">
+<section class="v2-hero v2-hero--centered">
+  <div class="v2-profile-wrap">
+    <img class="v2-profile-photo" src="/images/profile.jpg" alt="Atul Anurag">
+  </div>
+
+  <div class="v2-hero__content v2-hero__content--centered">
     <p class="v2-kicker">Applied Mathematics · Nonlinear Dynamics</p>
     <h1>Atul Anurag</h1>
     <p class="v2-hero__lead">Applied mathematician specializing in Hamiltonian dynamical systems, geometric mechanics, bifurcation theory, and mathematical fluid dynamics.</p>
     <p class="v2-hero__copy">I am a Visiting Assistant Professor of Mathematics at Ramapo College of New Jersey. My research develops structure-preserving methods for understanding global phase-space geometry and qualitative transitions in nonlinear vortex systems.</p>
-    <div class="v2-actions">
+    <div class="v2-actions v2-actions--centered">
       <a class="v2-btn v2-btn--primary" href="/files/resume.pdf">Curriculum Vitae</a>
       <a class="v2-btn" href="/research/">Research</a>
       <a class="v2-btn" href="/publications/">Publications</a>
       <a class="v2-btn" href="/teaching/">Teaching</a>
     </div>
   </div>
-  <div class="v2-orbit" aria-hidden="true">
-    <span class="v2-orbit__ring v2-orbit__ring--1"></span>
-    <span class="v2-orbit__ring v2-orbit__ring--2"></span>
-    <span class="v2-orbit__point v2-orbit__point--1"></span>
-    <span class="v2-orbit__point v2-orbit__point--2"></span>
-    <span class="v2-orbit__point v2-orbit__point--3"></span>
-  </div>
 </section>
 
-<section class="v2-section">
-  <header class="v2-section__header">
+<section class="v2-section v2-section--centered">
+  <header class="v2-section__header v2-section__header--centered">
     <p class="v2-kicker">Research</p>
     <h2>Research themes</h2>
     <p>My work combines geometry, analysis, and computation to study the global behavior of nonlinear Hamiltonian systems.</p>
@@ -44,7 +41,7 @@ classes: wide
 </section>
 
 <section class="v2-section v2-panel">
-  <header class="v2-section__header">
+  <header class="v2-section__header v2-section__header--centered">
     <p class="v2-kicker">Selected work</p>
     <h2>Featured publications</h2>
   </header>
@@ -67,8 +64,8 @@ classes: wide
   <p class="v2-more"><a href="/publications/">View all publications →</a></p>
 </section>
 
-<section class="v2-section">
-  <header class="v2-section__header">
+<section class="v2-section v2-section--centered">
+  <header class="v2-section__header v2-section__header--centered">
     <p class="v2-kicker">Teaching</p>
     <h2>Courses and resources</h2>
     <p>Selected lecture notes, problem sets, syllabi, and course materials organized by institution.</p>
@@ -80,7 +77,7 @@ classes: wide
   </div>
 </section>
 
-<section class="v2-contact">
+<section class="v2-contact v2-contact--centered">
   <div><p class="v2-kicker">Connect</p><h2>Research, teaching, and collaboration</h2><p>For questions about my work, publications, or teaching materials, please get in touch.</p></div>
-  <div class="v2-actions"><a class="v2-btn v2-btn--light" href="mailto:aanurag@ramapo.edu">Email</a><a class="v2-btn v2-btn--outline-light" href="https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ">Google Scholar</a></div>
+  <div class="v2-actions v2-actions--centered"><a class="v2-btn v2-btn--light" href="mailto:aanurag@ramapo.edu">Email</a><a class="v2-btn v2-btn--outline-light" href="https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ">Google Scholar</a></div>
 </section>
