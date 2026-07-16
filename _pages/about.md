@@ -9,9 +9,24 @@ redirect_from:
 
 <div class="about-intro">
 
-I am a Visiting Assistant Professor of Mathematics at [Ramapo College of New Jersey](https://www.ramapo.edu). I earned my Ph.D. in Applied Mathematics from the New Jersey Institute of Technology in 2025, where I was advised by [Roy H. Goodman](https://roygoodman.net).
+<p>
+I am a Visiting Assistant Professor of Mathematics at
+<a href="https://www.ramapo.edu" target="_blank" rel="noopener">
+Ramapo College of New Jersey</a>.
+I earned my Ph.D. in Applied Mathematics from the
+New Jersey Institute of Technology in 2025, where I was advised by
+<a href="https://roygoodman.net" target="_blank" rel="noopener">
+Roy H. Goodman</a>.
+</p>
 
-My research lies at the intersection of **dynamical systems, Hamiltonian mechanics, geometric reduction, bifurcation theory, and mathematical fluid dynamics**. I am particularly interested in the global phase-space geometry of point-vortex systems and in methods that preserve the geometric structure of Hamiltonian models.
+<p>
+My research lies at the intersection of
+<strong>dynamical systems, Hamiltonian mechanics, geometric reduction,
+bifurcation theory, and mathematical fluid dynamics</strong>.
+I am particularly interested in the global phase-space geometry of
+point-vortex systems and in methods that preserve the geometric
+structure of Hamiltonian models.
+</p>
 
 </div>
 
@@ -19,28 +34,32 @@ My research lies at the intersection of **dynamical systems, Hamiltonian mechani
 
 <div class="about-card">
 
-## Research interests
+<h2>Research Interests</h2>
 
-- Nonlinear dynamics and dynamical systems
-- Hamiltonian and geometric mechanics
-- Bifurcation theory
-- Point-vortex and vortex-dipole dynamics
-- Structure-preserving reduction and computation
+<ul>
+<li>Nonlinear dynamics and dynamical systems</li>
+<li>Hamiltonian and geometric mechanics</li>
+<li>Bifurcation theory</li>
+<li>Point-vortex and vortex-dipole dynamics</li>
+<li>Structure-preserving reduction and computation</li>
+</ul>
 
 </div>
 
 <div class="about-card">
 
-## Education
+<h2>Education</h2>
 
-- **Ph.D. in Applied Mathematics**  
-  New Jersey Institute of Technology, 2025
+<ul>
+<li><strong>Ph.D. in Applied Mathematics</strong><br>
+New Jersey Institute of Technology, 2025</li>
 
-- **M.Sc. in Applied Mathematics**  
-  National Institute of Technology Warangal, 2017
+<li><strong>M.Sc. in Applied Mathematics</strong><br>
+National Institute of Technology Warangal, 2017</li>
 
-- **B.Sc. (Honors) in Mathematics**  
-  Ramjas College, University of Delhi, 2015
+<li><strong>B.Sc. (Honors) in Mathematics</strong><br>
+Ramjas College, University of Delhi, 2015</li>
+</ul>
 
 </div>
 
