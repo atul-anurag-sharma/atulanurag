@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "About"
-author_profile: true
+title: ""
+author_profile: false
+classes: wide centered-about
 redirect_from:
   - /about/
   - /about.html
 ---
+
+![Atul Anurag](/images/profile.jpg){: .about-profile-photo }
+
+# Atul Anurag
+
+### Applied Mathematician
 
 <div class="about-intro">
 
@@ -13,8 +20,7 @@ redirect_from:
 I am a Visiting Assistant Professor of Mathematics at
 <a href="https://www.ramapo.edu" target="_blank" rel="noopener">
 Ramapo College of New Jersey</a>.
-I earned my Ph.D. in Applied Mathematics from the
-New Jersey Institute of Technology in 2025, where I was advised by
+I earned my Ph.D. in Applied Mathematics from the New Jersey Institute of Technology in 2025, where I was advised by
 <a href="https://roygoodman.net" target="_blank" rel="noopener">
 Roy H. Goodman</a>.
 </p>
