@@ -1,8 +1,12 @@
 ---
 ---
 
+/* ==========================================================
+   General Site Refinements
+   ========================================================== */
+
 .page__content {
-  font-size: 0.98em;
+  font-size: 0.98rem;
 }
 
 .author__avatar img {
@@ -15,35 +19,72 @@
   text-align: center;
 }
 
+.home-profile-photo {
+  display: block;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1.5rem auto;
+  border: 4px solid #ffffff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* ==========================================================
+   Reusable Action Buttons
+   ========================================================== */
+
 .action-buttons {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.8rem;
+  gap: 0.9rem;
   margin: 2rem 0;
 }
 
 .action-buttons a {
   display: inline-block;
-  padding: 0.75rem 1.4rem;
+  padding: 0.75rem 1.5rem;
   border: 2px solid #16324f;
   border-radius: 10px;
-  background: white;
-  color: #16324f;
-  text-decoration: none;
+  background-color: #ffffff;
+  color: #16324f !important;
+  text-decoration: none !important;
   font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.2;
   transition: all 0.25s ease;
 }
 
 .action-buttons a:first-child {
-  background: #16324f;
-  color: white;
+  background-color: #16324f;
+  color: #ffffff !important;
 }
 
 .action-buttons a:hover {
-  background: #16324f;
-  color: white;
+  background-color: #16324f;
+  border-color: #16324f;
+  color: #ffffff !important;
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(22, 50, 79, 0.15);
+  box-shadow: 0 6px 16px rgba(22, 50, 79, 0.18);
+}
+
+/* ==========================================================
+   Simple centered links
+   ========================================================== */
+
+.center-link {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.center-link a {
+  font-weight: 600;
+  text-decoration: none;
+  color: #16324f;
+}
+
+.center-link a:hover {
+  text-decoration: underline;
 }
