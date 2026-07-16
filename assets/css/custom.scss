@@ -88,3 +88,164 @@
 .center-link a:hover {
   text-decoration: underline;
 }
+
+/* ==========================================================
+   Responsive Top Navigation
+   ========================================================== */
+
+   .masthead {
+    position: relative;
+    width: 100%;
+  }
+  
+  .masthead__inner-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0.75rem 1.25rem;
+  }
+  
+  .greedy-nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    background: transparent;
+  }
+  
+  .greedy-nav .site-title {
+    flex: 0 0 auto;
+    margin-right: 1.5rem;
+    white-space: nowrap;
+    font-weight: 700;
+    color: #16324f;
+  }
+  
+  .greedy-nav .visible-links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.25rem;
+    margin-left: auto;
+  }
+  
+  .greedy-nav .visible-links li {
+    white-space: nowrap;
+  }
+  
+  .greedy-nav .visible-links a {
+    display: block;
+    padding: 0.65rem 0.8rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  /* Hamburger/menu button */
+  .greedy-nav button {
+    flex: 0 0 auto;
+    margin-left: auto;
+    border: 0;
+    background: transparent;
+    color: #16324f;
+  }
+  
+  /* Dropdown opened from the mobile menu */
+  .greedy-nav .hidden-links {
+    position: absolute;
+    top: 100%;
+    right: 1rem;
+    z-index: 1000;
+    min-width: 210px;
+    margin-top: 0.35rem;
+    padding: 0.5rem 0;
+    background: #ffffff;
+    border: 1px solid #dbe3ec;
+    border-radius: 10px;
+    box-shadow: 0 12px 30px rgba(22, 50, 79, 0.16);
+  }
+  
+  .greedy-nav .hidden-links li {
+    display: block;
+    width: 100%;
+  }
+  
+  .greedy-nav .hidden-links a {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: #16324f;
+    text-decoration: none;
+  }
+  
+  .greedy-nav .hidden-links a:hover {
+    background: #f2f6fa;
+  }
+  
+  /* ==========================================================
+     Phone and Tablet Navigation
+     ========================================================== */
+  
+  @media (max-width: 900px) {
+    .masthead__inner-wrap {
+      padding: 0.65rem 1rem;
+    }
+  
+    .greedy-nav .site-title {
+      max-width: calc(100vw - 85px);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: 1rem;
+    }
+  
+    .greedy-nav .visible-links {
+      gap: 0;
+    }
+  
+    .greedy-nav .visible-links a {
+      padding: 0.55rem 0.6rem;
+      font-size: 0.86rem;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .masthead {
+      position: sticky;
+      top: 0;
+      z-index: 999;
+      background: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+    }
+  
+    .masthead__inner-wrap {
+      min-height: 58px;
+      padding: 0.55rem 0.85rem;
+    }
+  
+    .greedy-nav {
+      position: relative;
+    }
+  
+    .greedy-nav .site-title {
+      max-width: calc(100vw - 75px);
+      margin-right: 0.5rem;
+      font-size: 0.98rem;
+    }
+  
+    /*
+     * Greedy navigation automatically moves links that no longer fit
+     * into the hamburger dropdown. This keeps the bar on one line.
+     */
+    .greedy-nav .visible-links a {
+      padding: 0.5rem;
+      font-size: 0.82rem;
+    }
+  
+    .greedy-nav .hidden-links {
+      right: 0;
+      width: min(260px, calc(100vw - 1.7rem));
+      max-height: calc(100vh - 75px);
+      overflow-y: auto;
+    }
+  }
