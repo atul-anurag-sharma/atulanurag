@@ -14,9 +14,7 @@ A global, singularity-free reduction of the three-vortex problem that organizes 
 
 <div class="paper-links">
 
-<a href="/files/global-three-vortex.pdf">
-📄 PDF
-</a>
+<a href="/files/global-three-vortex.pdf">📄 PDF</a>
 
 <a href="https://arxiv.org/abs/2504.16038"
 target="_blank" rel="noopener">
