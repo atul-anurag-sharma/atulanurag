@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 My research develops geometric and qualitative methods for Hamiltonian systems with symmetry. A central focus is the point-vortex problem, where symmetry reduction transforms a high-dimensional dynamical system into a lower-dimensional phase space whose geometry reveals relative equilibria, invariant manifolds, bifurcations, and global transitions.
