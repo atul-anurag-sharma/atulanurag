@@ -14,9 +14,7 @@ classes: wide centered-homepage
 
 **Hamiltonian Dynamical Systems · Geometric Mechanics · Bifurcation Theory · Mathematical Fluid Dynamics**
 
-I am a Visiting Assistant Professor of Mathematics at Ramapo College of New Jersey. I earned my Ph.D. in Applied Mathematics from the New Jersey Institute of Technology in 2025, where I was advised by [Roy H. Goodman](https://www.roygoodman.net).
-
-My research lies at the intersection of dynamical systems, Hamiltonian mechanics, geometric reduction, bifurcation theory, and mathematical fluid dynamics. I am particularly interested in the global phase-space geometry of point-vortex systems and in methods that preserve the geometric structure of Hamiltonian models.
+I am a Visiting Assistant Professor of Mathematics at Ramapo College of New Jersey. I earned my Ph.D. in Applied Mathematics from the New Jersey Institute of Technology in 2025, where I was advised by [Roy H. Goodman](https://www.roygoodman.net). My research lies at the intersection of dynamical systems, Hamiltonian mechanics, geometric reduction, bifurcation theory, and mathematical fluid dynamics. I am particularly interested in the global phase-space geometry of point-vortex systems and in methods that preserve the geometric structure of Hamiltonian models.
 
 <div class="action-buttons">
   <a class="v2-btn v2-btn--primary" href="/files/resume.pdf">Curriculum Vitae</a>
@@ -29,23 +27,12 @@ My research lies at the intersection of dynamical systems, Hamiltonian mechanics
 
 ## Research Interests
 
-### Hamiltonian Systems
-
-Conserved quantities, invariant geometry, and qualitative dynamics in nonlinear Hamiltonian models.
-
-### Geometric Reduction
-
-Structure-preserving coordinates and singularity-free formulations for systems with symmetry.
-
-### Bifurcation Theory
-
-Global phase portraits, parameter-dependent transitions, and bifurcation sets.
-
-### Vortex Dynamics
-
-Point-vortex and vortex-dipole models arising in mathematical fluid dynamics.
-
-[Explore my research →](/research/)
+<div class="action-buttons">
+  <a class="v2-btn" href="/research/">Hamiltonian Systems</a>
+  <a class="v2-btn" href="/research/">Geometric Reduction</a>
+  <a class="v2-btn" href="/publications/">Bifurcation Theory</a>
+  <a class="v2-btn" href="/teaching/">Vortex Dynamics</a>
+</div>
 
 ---
 
