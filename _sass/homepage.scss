@@ -1,0 +1,44 @@
+.home-profile-photo {
+  display: block;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1.5rem auto;
+}
+
+.centered-homepage h1,
+.centered-homepage h2,
+.centered-homepage h3 {
+  text-align: center;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: .8rem;
+  margin: 2rem 0;
+}
+
+.action-buttons a {
+  display: inline-block;
+  padding: .75rem 1.4rem;
+  border: 2px solid #16324f;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #16324f;
+  font-weight: 600;
+  transition: .2s;
+}
+
+.action-buttons a:first-child {
+  background:#16324f;
+  color:white;
+}
+
+.action-buttons a:hover {
+  background:#16324f;
+  color:white;
+}
+
