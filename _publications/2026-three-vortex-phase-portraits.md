@@ -12,15 +12,20 @@ citation: "Atul Anurag and Roy H. Goodman. Phase portraits and the bifurcation s
 
 A global, singularity-free reduction of the three-vortex problem that organizes phase portraits and the bifurcation set across circulation regimes.
 
-<p>
-  <a href="/files/global-three-vortex.pdf"
-     class="btn btn--primary btn--small">📄 PDF</a>
+<div class="paper-links">
 
-  <a href="https://arxiv.org/abs/2504.16038"
-     class="btn btn--primary btn--small"
-     target="_blank" rel="noopener">arXiv</a>
+<a href="/files/global-three-vortex.pdf">
+📄 PDF
+</a>
 
-  <a href="https://doi.org/10.1016/j.cnsns.2026.110428"
-     class="btn btn--primary btn--small"
-     target="_blank" rel="noopener">DOI</a>
-</p>
+<a href="https://arxiv.org/abs/2504.16038"
+target="_blank" rel="noopener">
+arXiv
+</a>
+
+<a href="https://doi.org/10.1016/j.cnsns.2026.110428"
+target="_blank" rel="noopener">
+DOI
+</a>
+
+</div>
