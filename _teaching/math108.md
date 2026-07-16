@@ -1,10 +1,11 @@
 ---
+layout: centered
 title: "MATH 108 — Elementary Probability and Statistics"
 collection: teaching
 type: "Course"
 permalink: /teaching/math108/
 venue: "Ramapo College of New Jersey"
-author_profile: true
+author_profile: false
 ---
 
 **Ramapo College of New Jersey**

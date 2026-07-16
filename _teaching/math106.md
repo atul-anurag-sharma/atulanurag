@@ -1,10 +1,11 @@
 ---
+layout: centered
 title: "MATH 106 — Introduction to Mathematical Modeling"
 collection: teaching
 type: "Course"
 permalink: /teaching/math106/
 venue: "Ramapo College of New Jersey"
-author_profile: true
+author_profile: false
 ---
 
 **Ramapo College of New Jersey**

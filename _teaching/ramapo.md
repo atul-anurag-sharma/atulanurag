@@ -1,10 +1,11 @@
 ---
+layout: centered
 title: "Ramapo College of New Jersey"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/ramapo/
 venue: "Ramapo College of New Jersey"
-author_profile: true
+author_profile: false
 ---
 
 Courses and selected teaching materials from Ramapo College of New Jersey.

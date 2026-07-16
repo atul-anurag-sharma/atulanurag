@@ -1,10 +1,11 @@
 ---
+layout: centered
 title: "MATH 111 — Calculus I"
 collection: teaching
 type: "Course"
 permalink: /teaching/math111/
 venue: "New Jersey Institute of Technology"
-author_profile: true
+author_profile: false
 ---
 
 **New Jersey Institute of Technology**

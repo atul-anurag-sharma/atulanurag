@@ -1,0 +1,95 @@
+/* =========================================================
+   Site-wide centered layout without the Academic Pages sidebar
+   ========================================================= */
+
+#main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.page--centered {
+  float: none !important;
+  width: 100% !important;
+  max-width: 1040px;
+  margin: 0 auto !important;
+  padding-right: 0 !important;
+}
+
+.page--centered .page__inner-wrap {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.page--centered .page__title {
+  text-align: center;
+  color: #16324f;
+  margin-bottom: 2rem;
+}
+
+.page--centered .page__content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.page--centered .page__content > p:first-child {
+  margin-top: 0;
+}
+
+/* Hide any sidebar that may still be emitted by another layout */
+.sidebar,
+.sidebar__right,
+.author__avatar,
+.author__content,
+.author__urls-wrapper {
+  display: none !important;
+}
+
+/* Remove the empty column left behind by archive layouts */
+.archive,
+.page {
+  float: none !important;
+  width: 100% !important;
+  max-width: 1040px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-right: 0 !important;
+}
+
+/* Center archive headings while keeping list text readable */
+.archive > h1,
+.archive .page__title {
+  text-align: center;
+}
+
+/* Homepage profile photograph */
+.home-profile-photo {
+  display: block;
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1.5rem;
+  border: 5px solid #ffffff;
+  box-shadow: 0 10px 30px rgba(22, 50, 79, 0.18);
+}
+
+@media (max-width: 768px) {
+  #main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .page--centered,
+  .archive,
+  .page {
+    max-width: 100%;
+  }
+
+  .home-profile-photo {
+    width: 150px;
+    height: 150px;
+  }
+}

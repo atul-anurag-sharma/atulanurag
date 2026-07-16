@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: centered
 title: ""
 permalink: /
 author_profile: false

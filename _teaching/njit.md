@@ -1,10 +1,11 @@
 ---
+layout: centered
 title: "New Jersey Institute of Technology"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/njit/
 venue: "New Jersey Institute of Technology"
-author_profile: true
+author_profile: false
 ---
 
 Courses and selected teaching materials from the New Jersey Institute of Technology.

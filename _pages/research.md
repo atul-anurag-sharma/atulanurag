@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: centered
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
