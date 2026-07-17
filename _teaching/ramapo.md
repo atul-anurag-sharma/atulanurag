@@ -22,7 +22,7 @@ Selected lecture notes, homework assignments, syllabi, and course materials from
 <h3>Week 1</h3>
 
 <div class="teaching-links">
-  <a class="teaching-link teaching-link--syllabus" href="/files/teaching/ramapo/math106/week1/MATH106-syllabus.pdf">Syllabus</a>
+  <a href="/files/teaching/ramapo/math106/week1/MATH106-syllabus.pdf">Syllabus</a>
   <a href="/files/teaching/ramapo/math106/week1/math_106_lecture_1.pdf">Lecture 1</a>
   <a href="/files/teaching/ramapo/math106/week1/math_106_lecture_2.pdf">Lecture 2</a>
   <a href="/files/teaching/ramapo/math106/week1/homework_1.pdf">Homework 1</a>
@@ -103,7 +103,7 @@ Selected lecture notes, homework assignments, syllabi, and course materials from
 <h3>Course Materials</h3>
 
 <div class="teaching-links">
-  <a class="teaching-link teaching-link--syllabus" href="/files/teaching/ramapo/math108/week1/MATH108-syllabus.pdf">Syllabus</a>
+  <a href="/files/teaching/ramapo/math108/week1/MATH108-syllabus.pdf">Syllabus</a>
   <a href="/files/teaching/ramapo/math108/week1/lecture-notes1.pdf">Lecture Notes 1</a>
   <a href="/files/teaching/ramapo/math108/week1/homework1.pdf">Homework 1</a>
 </div>

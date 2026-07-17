@@ -22,8 +22,7 @@ Selected lecture notes, problem sets, syllabi, and other course materials from c
 <h3>Course Materials</h3>
 
 <div class="teaching-links">
-  <a class="teaching-link teaching-link--syllabus"
-     href="/files/teaching/njit/math111/MATH-111.pdf">
+  <a href="/files/teaching/njit/math111/MATH-111.pdf">
     Course Materials
   </a>
 </div>
@@ -45,8 +44,7 @@ Selected lecture notes, problem sets, syllabi, and other course materials from c
 <h3>Course Materials</h3>
 
 <div class="teaching-links">
-  <a class="teaching-link teaching-link--syllabus"
-     href="/files/teaching/njit/math112/CalculusII.pdf">
+  <a href="/files/teaching/njit/math112/CalculusII.pdf">
     Calculus II Notes
   </a>
 </div>
