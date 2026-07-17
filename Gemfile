@@ -11,3 +11,8 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Ruby 4 compatibility
+gem 'csv'
+gem 'base64'
+gem 'logger'

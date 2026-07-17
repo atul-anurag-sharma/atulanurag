@@ -5,6 +5,7 @@ type: "Teaching"
 permalink: /teaching/ramapo/
 venue: "Ramapo College of New Jersey"
 author_profile: false
+years: "2025-2026"
 ---
 
 Selected lecture notes, homework assignments, syllabi, and course materials from courses taught at Ramapo College of New Jersey.
