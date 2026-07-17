@@ -51,16 +51,16 @@
   min-width: 88px;
   padding: 0.72rem 1.2rem;
 
-  border: 1px solid #16324f;
+  border: 1px solid #b91c1c;
   border-radius: 999px;
 
-  background-color: #16324f;
+  background-color: #b91c1c;
   color: #ffffff !important;
 
   font-weight: 700;
   text-decoration: none !important;
 
-  box-shadow: 0 4px 12px rgba(22, 50, 79, 0.12);
+  box-shadow: 0 4px 12px rgba(185, 28, 28, 0.14);
 
   transition:
     background-color 0.2s ease,
@@ -70,17 +70,17 @@
 }
 
 .paper-links a:hover {
-  background-color: #0f2740;
-  border-color: #0f2740;
+  background-color: #7f1d1d;
+  border-color: #7f1d1d;
   color: #ffffff !important;
 
   transform: translateY(-2px);
 
-  box-shadow: 0 8px 18px rgba(22, 50, 79, 0.2);
+  box-shadow: 0 8px 18px rgba(127, 29, 29, 0.22);
 }
 
 .paper-links a:focus-visible {
-  outline: 3px solid rgba(22, 50, 79, 0.25);
+  outline: 3px solid rgba(185, 28, 28, 0.28);
   outline-offset: 3px;
 }
 
