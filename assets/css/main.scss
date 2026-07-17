@@ -51,43 +51,36 @@
   min-width: 88px;
   padding: 0.72rem 1.2rem;
 
-  border: 1px solid #cbd5e1;
+  border: 1px solid #16324f;
   border-radius: 999px;
 
-  background-color: #ffffff;
-  color: #16324f !important;
+  background-color: #16324f;
+  color: #ffffff !important;
 
   font-weight: 700;
   text-decoration: none !important;
 
-  box-shadow: 0 4px 12px rgba(22, 50, 79, 0.08);
+  box-shadow: 0 4px 12px rgba(22, 50, 79, 0.12);
 
   transition:
     background-color 0.2s ease,
     border-color 0.2s ease,
-    color 0.2s ease,
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
 
-.paper-links a:first-child {
-  background-color: #16324f;
-  border-color: #16324f;
-  color: #ffffff !important;
-}
-
 .paper-links a:hover {
-  background-color: #2b6cb0;
-  border-color: #2b6cb0;
+  background-color: #0f2740;
+  border-color: #0f2740;
   color: #ffffff !important;
 
   transform: translateY(-2px);
 
-  box-shadow: 0 8px 18px rgba(22, 50, 79, 0.16);
+  box-shadow: 0 8px 18px rgba(22, 50, 79, 0.2);
 }
 
 .paper-links a:focus-visible {
-  outline: 3px solid rgba(43, 108, 176, 0.28);
+  outline: 3px solid rgba(22, 50, 79, 0.25);
   outline-offset: 3px;
 }
 
@@ -100,7 +93,6 @@
     flex: 1 1 120px;
   }
 }
-
 
 /* ==========================================================
    Custom Responsive Navigation
