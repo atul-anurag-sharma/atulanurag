@@ -5,6 +5,7 @@ type: "Teaching"
 permalink: /teaching/njit/
 venue: "New Jersey Institute of Technology"
 author_profile: false
+years: "2019-2023"
 ---
 
 Selected lecture notes, problem sets, syllabi, and other course materials from courses taught at the New Jersey Institute of Technology.
