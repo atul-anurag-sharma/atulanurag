@@ -14,11 +14,11 @@ My research lies at the intersection of **dynamical systems, Hamiltonian mechani
 
 ## Research Interests
 
-- Nonlinear dynamics and dynamical systems
-- Hamiltonian and geometric mechanics
-- Bifurcation theory
-- Point-vortex and vortex-dipole dynamics
-- Structure-preserving reduction and computation
+- <i class="fas fa-wave-square"></i> Nonlinear Dynamics and Dynamical Systems
+- <i class="fas fa-atom"></i> Hamiltonian and Geometric Mechanics
+- <i class="fas fa-project-diagram"></i> Bifurcation Theory
+- <i class="fas fa-water"></i> Point-Vortex and Vortex-Dipole Dynamics
+- <i class="fas fa-cogs"></i> Structure-Preserving Reduction and Computation
 
 ## Education
 
