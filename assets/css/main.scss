@@ -261,7 +261,7 @@
 
 .faculty-homepage {
   display: grid;
-  grid-template-columns: 320px minmax(0, 1fr);
+  grid-template-columns: 380px minmax(0, 1fr);
   align-items: start;
   gap: 4.5rem;
 
@@ -280,8 +280,8 @@
 .faculty-homepage__photo {
   display: block;
 
-  width: 255px;
-  height: 255px;
+  width: 320px;
+  height: 320px;
   max-width: 100%;
   margin: 0 auto 1.15rem;
 
@@ -752,15 +752,15 @@
 
 @media (max-width: 1050px) {
   .faculty-homepage {
-    grid-template-columns: 280px minmax(0, 1fr);
+    grid-template-columns: 320px minmax(0, 1fr);
     gap: 2.75rem;
 
     width: min(1100px, calc(100% - 2rem));
   }
 
   .faculty-homepage__photo {
-    width: 225px;
-    height: 225px;
+    width: 200px;
+    height: 200px;
   }
 
   .faculty-homepage__content {
@@ -794,8 +794,8 @@
   }
 
   .faculty-homepage__photo {
-    width: 190px;
-    height: 190px;
+    width: 225px;
+    height: 225px;
   }
 
   .faculty-homepage__content {
@@ -844,8 +844,8 @@
   }
 
   .faculty-homepage__photo {
-    width: 165px;
-    height: 165px;
+    width: 240px;
+    height: 240px;
   }
 
   .faculty-homepage__profile h1 {
