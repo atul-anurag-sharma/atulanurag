@@ -25,8 +25,8 @@ My research lies at the intersection of **dynamical systems, Hamiltonian mechani
 - 🎓 **Ph.D. in Applied Mathematics, 2025**  
   New Jersey Institute of Technology
 
- 🎓 **M.Sc. in Applied Mathematics, 2017**  
+- 🎓 **M.Sc. in Applied Mathematics, 2017**  
  National Institute of Technology Warangal
 
- 🎓 **B.Sc. (Honors) in Mathematics, 2015**  
+- 🎓 **B.Sc. (Honors) in Mathematics, 2015**  
  Ramjas College, University of Delhi
