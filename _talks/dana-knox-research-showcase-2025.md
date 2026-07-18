@@ -11,9 +11,12 @@ location: "New Jersey Institute of Technology"
 We investigate global phase planes in point-vortex dynamics in a two-dimensional, inviscid, incompressible fluid. We derive a symplectic reduction of a system involving three vortices, initially employing Jacobi coordinates followed by Lie-Poisson reduction. We conduct a global phase analysis of a three-vortex problem with arbitrary circulations with novel bifurcation analysis. This reduction method eliminates coordinate singularities that made understanding the dynamics challenging.
 
 <div class="paper-links">
+
   <a href="{{ '/files/DANA-KNOX-RESEARCH-SHOWCASE-2025.pdf' | relative_url }}"
      target="_blank"
      rel="noopener">
-     Poster
+    <i class="fas fa-image"></i>
+    <span>Poster</span>
   </a>
+
 </div>

@@ -11,9 +11,12 @@ location: "Gosnell Hall"
 We investigate two problems in point-vortex dynamics within a two-dimensional, inviscid, incompressible fluid. We derive a new reduction of a system involving three vortices, initially employing Jacobi coordinates followed by Nambu brackets. First, we conduct a global phase analysis of a three-vortex problem with arbitrary circulations. Second, we generalize the reduction method to study the dynamics of four vortices with vanishing total circulation. The novel reduction method eliminates coordinate singularities that made understanding the dynamics difficult.
 
 <div class="paper-links">
+
   <a href="{{ '/files/SIAM-NNP-2024.pdf' | relative_url }}"
      target="_blank"
      rel="noopener">
-     Poster
+    <i class="fas fa-image"></i>
+    <span>Poster</span>
   </a>
+
 </div>

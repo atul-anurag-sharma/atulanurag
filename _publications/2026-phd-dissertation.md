@@ -12,14 +12,16 @@ A global reduction and phase-space analysis of the three-vortex interaction syst
 
 <div class="paper-links">
 
-<a href="/files/atulanurag_PhD_dissertation.pdf">
-📄 PDF
-</a>
+  <a href="/files/atulanurag_PhD_dissertation.pdf">
+    <i class="fas fa-file-pdf"></i>
+    <span>PDF</span>
+  </a>
 
-<a href="https://digitalcommons.njit.edu/dissertations/1851/"
-target="_blank"
-rel="noopener">
-NJIT Digital Commons
-</a>
+  <a href="https://digitalcommons.njit.edu/dissertations/1851/"
+     target="_blank"
+     rel="noopener">
+    <i class="fas fa-university"></i>
+    <span>NJIT Repository</span>
+  </a>
 
 </div>
