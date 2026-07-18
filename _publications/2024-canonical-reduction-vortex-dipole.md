@@ -6,7 +6,6 @@ permalink: /publication/2024-canonical-reduction-vortex-dipole/
 excerpt: "A singularity-free canonical reduction of three-vortex motion and an application to vortex-dipole scattering."
 date: 2024-06-06
 venue: "Physics of Fluids"
-citation: "Atul Anurag, Roy H. Goodman, and Ellison O'Grady. A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering. Physics of Fluids."
 ---
 
 A singularity-free canonical reduction of three-vortex motion and an application to vortex-dipole scattering.
