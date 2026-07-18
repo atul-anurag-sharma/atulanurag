@@ -22,16 +22,11 @@ My research lies at the intersection of **dynamical systems, Hamiltonian mechani
 
 ## Education
 
-education:
-  courses:
-    - course: '<i class="fas fa-user-graduate"></i> Ph.D. in Applied Mathematics'
-      institution: New Jersey Institute of Technology
-      year: 2025
+ 🎓 **Ph.D. in Applied Mathematics, 2025**  
+  New Jersey Institute of Technology
 
-    - course: '<i class="fas fa-graduation-cap"></i> M.Sc. in Applied Mathematics'
-      institution: National Institute of Technology Warangal
-      year: 2017
+ 🎓 **M.Sc. in Applied Mathematics, 2017**  
+ National Institute of Technology Warangal
 
-    - course: '<i class="fas fa-square-root-variable"></i> B.Sc. (Honors) in Mathematics'
-      institution: Ramjas College, University of Delhi
-      year: 2015
+ 🎓 **B.Sc. (Honors) in Mathematics, 2015**  
+ Ramjas College, University of Delhi
