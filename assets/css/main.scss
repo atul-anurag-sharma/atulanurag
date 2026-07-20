@@ -1083,3 +1083,88 @@
   .page__content h2 {
     margin-top: 2rem;
   }
+ 
+
+/* ==========================================================
+   Contact Page
+   ========================================================== */
+
+   .contact-info {
+    max-width: 850px;
+    margin: 0;
+    padding-top: 0.75rem;
+  }
+  
+  .contact-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 28px;
+    margin-bottom: 28px;
+  }
+  
+  .contact-icon {
+    width: 48px;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 1.2;
+    color: #333;
+  }
+  
+  .contact-text {
+    font-size: 1.15rem;
+    line-height: 1.55;
+    color: #2f2f2f;
+  }
+  
+  .contact-text strong {
+    display: inline-block;
+    margin-bottom: 0.1rem;
+    font-weight: 700;
+    color: #222;
+  }
+  
+  .contact-text a {
+    color: #a00000;
+    text-decoration: none;
+  }
+  
+  .contact-text a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Reduce extra spacing below the page title */
+  .page__title {
+    margin-bottom: 1.25rem;
+  }
+  
+  /* Mobile layout */
+  @media (max-width: 768px) {
+    .contact-info {
+      padding-top: 0.25rem;
+    }
+  
+    .contact-row {
+      gap: 18px;
+      margin-bottom: 24px;
+    }
+  
+    .contact-icon {
+      width: 38px;
+      font-size: 1.65rem;
+    }
+  
+    .contact-text {
+      font-size: 1rem;
+    }
+  }
+
+  /* Google Map */
+
+  .contact-map{
+    margin-top:2.5rem;
+    border-radius:10px;
+    overflow:hidden;
+    border:1px solid #ddd;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+}
