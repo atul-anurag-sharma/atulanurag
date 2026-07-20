@@ -23,7 +23,7 @@ layout: single
 
     <div class="contact-text">
       <strong>Visiting Assistant Professor of Mathematics</strong><br>
-      Mathematics Program<br>
+      Department of Mathematics<br>
       Ramapo College of New Jersey
     </div>
   </div>
