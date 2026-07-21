@@ -38,7 +38,7 @@
 
    .paper-links {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-wrap: wrap;
     gap: 1rem;
     margin: 2rem 0;
@@ -406,6 +406,14 @@
 
 .faculty-homepage__content a {
   color: #b91c1c;
+  text-decoration: none !important;
+}
+
+.faculty-homepage__content a:hover {
+  color: #7f1d1d;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
 }
 
 .faculty-homepage__content h2 {
@@ -998,16 +1006,6 @@
   border-color: #b91c1c;
 }
 
-.teaching-link--syllabus {
-  background: #ffffff !important;
-  border-color: #b91c1c !important;
-  color: #b91c1c !important;
-}
-
-.teaching-link--syllabus:hover {
-  background: #b91c1c !important;
-  color: #ffffff !important;
-}
 
 @media (max-width: 800px) {
   .teaching-weeks {
@@ -1036,53 +1034,39 @@
     flex: 1 1 135px;
   }
 }
-.faculty-homepage__content a {
-  color: #b91c1c;
-  text-decoration: none !important;
-}
-
-.faculty-homepage__content a:hover {
-  color: #7f1d1d;
-  text-decoration: underline !important;
-  text-underline-offset: 3px;
-  text-decoration-thickness: 2px;
-}
-
 /* ==========================================================
    Publication pages
    ========================================================== */
 
-   .publication-figure {
-    margin: 2rem auto;
-    text-align: center;
-  }
-  
-  .publication-figure img {
-    display: block;
-    margin: 0 auto;
-  
-    width: 100%;
-    max-width: 500px;   /* Adjust: 400px, 450px, 500px, etc. */
-  
-    height: auto;
-  
-    border-radius: 12px;
-    border: 1px solid #d8dde5;
-    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.10);
-  }
-  
-  .publication-figure figcaption {
-    max-width: 500px;
-    margin: 0.8rem auto 0;
-  
-    font-size: 0.92rem;
-    color: #666;
-    font-style: italic;
-  }
-  
-  .page__content h2 {
-    margin-top: 2rem;
-  }
+ /* ==========================================================
+   Publication Figures
+   ========================================================== */
+
+.publication-figure {
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+.publication-figure img {
+  display: block;
+  margin: 0 auto;
+
+  width: min(100%, 900px);   /* increase to 1000px if desired */
+  height: auto;
+
+  border-radius: 12px;
+  border: 1px solid #d8dde5;
+  box-shadow: 0 10px 24px rgba(0,0,0,.10);
+}
+
+.publication-figure figcaption {
+  max-width: 900px;
+  margin: 0.8rem auto 0;
+
+  color: #666;
+  font-size: 0.92rem;
+  font-style: italic;
+}
  
 
 /* ==========================================================
@@ -1172,12 +1156,6 @@
 /* ==========================================================
    Teaching Overview Page
    ========================================================== */
-
-   .teaching-intro {
-    max-width: 760px;
-    margin-bottom: 2rem;
-    line-height: 1.7;
-  }
   
   .teaching-year {
     margin: 2rem 0 1.5rem;
@@ -1623,4 +1601,421 @@
     .page__content .institution-hero h2 {
       font-size: 1.55rem;
     }
-  }  
+  }
+  
+  /* ==========================================================
+   Publications Landing Page
+   ========================================================== */
+
+.publication-section-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+
+  margin: 2.2rem 0 1.25rem;
+}
+
+.publication-section-heading__icon {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+
+  width: 46px;
+  height: 46px;
+
+  background: #edf3f8;
+  border-radius: 12px;
+
+  color: #16324f;
+
+  font-size: 1.05rem;
+}
+
+.archive .publication-section-heading h2,
+.page__content .publication-section-heading h2 {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+
+  color: #16324f;
+
+  font-size: 1.5rem;
+}
+
+.publication-section-heading p {
+  margin: 0.18rem 0 0;
+
+  color: #64748b;
+
+  font-size: 0.91rem;
+}
+
+.publication-card-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.publication-card {
+  display: grid;
+  grid-template-columns: minmax(180px, 27%) minmax(0, 1fr);
+  overflow: hidden;
+
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 17px;
+
+  box-shadow: 0 7px 22px rgba(15, 23, 42, 0.055);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-2px);
+
+  border-color: #cbd5e1;
+  box-shadow: 0 13px 30px rgba(15, 23, 42, 0.1);
+}
+
+.publication-card__image {
+  display: block;
+  min-height: 100%;
+
+  background: #edf3f8;
+}
+
+.publication-card__image img {
+  display: block;
+
+  width: 100%;
+  height: 100%;
+  min-height: 260px;
+
+  object-fit: cover;
+}
+
+.publication-card__body {
+  padding: 1.5rem;
+}
+
+.publication-card__meta,
+.dissertation-card__meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+
+  margin-bottom: 0.75rem;
+}
+
+.publication-card__type,
+.dissertation-card__meta span:first-child {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 0.32rem 0.65rem;
+
+  background: #edf3f8;
+  border-radius: 999px;
+
+  color: #16324f;
+
+  font-size: 0.77rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.publication-card__year,
+.dissertation-card__meta span:last-child {
+  color: #64748b;
+
+  font-size: 0.84rem;
+  font-weight: 750;
+}
+
+.archive .publication-card__title,
+.page__content .publication-card__title {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+
+  font-size: 1.28rem;
+  line-height: 1.4;
+}
+
+.publication-card__title a,
+.dissertation-card h3 a {
+  color: #16324f !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+.publication-card__title a:hover,
+.dissertation-card h3 a:hover {
+  color: #b91c1c !important;
+  text-decoration: none !important;
+}
+
+.publication-card__venue,
+.dissertation-card__institution {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+
+  margin: 0.8rem 0 0;
+
+  color: #475569;
+
+  font-size: 0.91rem;
+  font-weight: 650;
+  line-height: 1.5;
+}
+
+.publication-card__venue i,
+.dissertation-card__institution i {
+  margin-top: 0.22rem;
+
+  color: #b91c1c;
+}
+
+.publication-card__excerpt,
+.dissertation-card__excerpt {
+  margin: 0.9rem 0 0;
+
+  color: #475569;
+
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+.publication-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+
+  margin-top: 1.2rem;
+}
+
+.publication-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+
+  min-height: 40px;
+  padding: 0.58rem 0.85rem;
+
+  background: #ffffff;
+  border: 1px solid #b91c1c;
+  border-radius: 4px;
+
+  color: #b91c1c !important;
+
+  font-size: 0.86rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none !important;
+
+  box-shadow: none;
+
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.publication-action:hover {
+  background: #b91c1c;
+  border-color: #b91c1c;
+
+  color: #ffffff !important;
+  text-decoration: none !important;
+
+  transform: translateY(-1px);
+}
+
+.publication-action i,
+.publication-action svg {
+  margin: 0;
+  color: inherit !important;
+  fill: currentColor !important;
+}
+
+
+.publication-section-heading--dissertation {
+  margin-top: 2.75rem;
+}
+
+.dissertation-card {
+  display: grid;
+  grid-template-columns: 90px minmax(0, 1fr);
+  gap: 1.3rem;
+
+  padding: 1.6rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      #f8fafc,
+      #ffffff
+    );
+
+  border: 1px solid #e2e8f0;
+  border-radius: 17px;
+
+  box-shadow: 0 7px 22px rgba(15, 23, 42, 0.055);
+}
+
+.dissertation-card__mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 76px;
+  height: 76px;
+
+  background: #16324f;
+  border-radius: 17px;
+
+  color: #ffffff;
+
+  font-size: 1.65rem;
+}
+
+.archive .dissertation-card h3,
+.page__content .dissertation-card h3 {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+
+  font-size: 1.3rem;
+  line-height: 1.4;
+}
+
+.dissertation-card__advisor {
+  margin: 0.65rem 0 0;
+
+  color: #475569;
+
+  font-size: 0.9rem;
+}
+
+@media (max-width: 760px) {
+  .publication-card {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-card__image img {
+    max-height: 240px;
+    min-height: 200px;
+  }
+
+  .dissertation-card {
+    grid-template-columns: 1fr;
+  }
+
+  .dissertation-card__mark {
+    width: 58px;
+    height: 58px;
+
+    font-size: 1.3rem;
+  }
+}
+/* ==========================================================
+   Simple Publications Header
+   ========================================================== */
+
+   .publications-header {
+    margin: 0 0 2rem;
+    padding: 0 0 1.4rem;
+  
+    border-bottom: 1px solid #e2e8f0;
+  }
+  
+  .archive .publications-header h1,
+  .page__content .publications-header h1 {
+    margin: 0;
+    padding: 0;
+  
+    border: 0;
+  
+    color: #16324f;
+  
+    font-size: 2rem;
+    line-height: 1.25;
+  }
+  
+  .publications-header p {
+    margin: 0.65rem 0 0;
+  
+    color: #64748b;
+  
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+ /* -------------------------------------------------------
+   Talks cards without images
+------------------------------------------------------- */
+
+.publication-card--no-image {
+  display: block;
+}
+
+.publication-card--no-image .publication-card__body {
+  width: 100%;
+  max-width: none;
+  padding: 2rem;
+}
+
+.publication-card--no-image .publication-card__title {
+  max-width: 900px;
+}
+
+.publication-card--no-image .publication-card__venue {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.publication-card__location {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+}
+
+/* =========================================================
+   Teaching landing page
+   ========================================================= */
+
+   .teaching-landing-grid {
+    margin-top: 1.5rem;
+  }
+  
+  .teaching-landing-card {
+    min-height: 100%;
+  }
+  
+  .teaching-landing-card .publication-card__body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 2rem;
+  }
+  
+  .teaching-landing-card .publication-card__excerpt {
+    flex-grow: 1;
+  }
+  
+  .teaching-landing-card .publication-card__links {
+    margin-top: auto;
+    padding-top: 1.25rem;
+  }

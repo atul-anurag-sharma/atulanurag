@@ -5,29 +5,6 @@ layout: single
 author_profile: false
 ---
 
-<section class="institution-hero">
-
-<div class="institution-hero__icon">
-  <i class="fas fa-university"></i>
-</div>
-
-<div>
-  <p class="institution-hero__eyebrow">Teaching Experience</p>
-
-  <h2>Ramapo College of New Jersey</h2>
-
-  <p class="institution-hero__role">
-    Visiting Assistant Professor of Mathematics
-  </p>
-
-  <p class="institution-hero__summary">
-    Undergraduate course materials, lecture notes, homework assignments,
-    and syllabi from courses taught at Ramapo College of New Jersey.
-  </p>
-</div>
-
-</section>
-
 <div class="course-grid">
 
 <article class="course-card">
@@ -54,7 +31,7 @@ difference equations, and applications.
 <div class="course-card__topics">
   <span>Modeling</span>
   <span>Optimization</span>
-  <span>Difference Equations</span>
+  <span>Graph Theory</span>
 </div>
 
 <a class="course-card__button"

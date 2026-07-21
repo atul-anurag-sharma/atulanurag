@@ -5,29 +5,6 @@ layout: single
 author_profile: false
 ---
 
-<section class="institution-hero">
-
-<div class="institution-hero__icon">
-  <i class="fas fa-university"></i>
-</div>
-
-<div>
-  <p class="institution-hero__eyebrow">Teaching Experience</p>
-
-  <h2>New Jersey Institute of Technology</h2>
-
-  <p class="institution-hero__role">
-    Graduate Teaching Assistant and Instructor
-  </p>
-
-  <p class="institution-hero__summary">
-    Selected lecture notes, problem sets, syllabi, and other course materials
-    from mathematics courses taught at NJIT.
-  </p>
-</div>
-
-</section>
-
 <div class="course-grid">
 
 <article class="course-card">

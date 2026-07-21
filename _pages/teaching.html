@@ -4,7 +4,117 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
+
 {% include base_path %}
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<div class="publication-section-heading">
+  <span class="publication-section-heading__icon">
+    <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+
+  <div>
+    <h2>Teaching and Course Materials</h2>
+    <p>
+      Undergraduate mathematics courses, lecture notes, assignments,
+      syllabi, and other instructional materials.
+    </p>
+  </div>
+</div>
+
+<div class="publication-card-grid teaching-landing-grid">
+
+  <article class="publication-card publication-card--no-image teaching-landing-card">
+
+    <div class="publication-card__body">
+
+      <div class="publication-card__meta">
+        <span class="publication-card__type">
+          Teaching Experience
+        </span>
+
+        <span class="publication-card__year">
+          Ramapo
+        </span>
+      </div>
+
+      <h3 class="publication-card__title">
+        <a href="{{ '/teaching/ramapo/' | relative_url }}">
+          Ramapo College of New Jersey
+        </a>
+      </h3>
+
+      <p class="publication-card__venue">
+        <span>
+          <i class="fas fa-university"></i>
+          Mahwah, New Jersey
+        </span>
+      </p>
+
+      <p class="publication-card__excerpt">
+        Undergraduate mathematics courses taught at Ramapo College,
+        including mathematical modeling, probability and statistics,
+        precalculus, and differential equations.
+      </p>
+
+      <div class="publication-card__links">
+        <a
+          class="publication-action"
+          href="{{ '/teaching/ramapo/' | relative_url }}"
+        >
+          <i class="fas fa-book-open"></i>
+          View Courses
+        </a>
+      </div>
+
+    </div>
+
+  </article>
+
+  <article class="publication-card publication-card--no-image teaching-landing-card">
+
+    <div class="publication-card__body">
+
+      <div class="publication-card__meta">
+        <span class="publication-card__type">
+          Teaching Experience
+        </span>
+
+        <span class="publication-card__year">
+          NJIT
+        </span>
+      </div>
+
+      <h3 class="publication-card__title">
+        <a href="{{ '/teaching/njit/' | relative_url }}">
+          New Jersey Institute of Technology
+        </a>
+      </h3>
+
+      <p class="publication-card__venue">
+        <span>
+          <i class="fas fa-university"></i>
+          Newark, New Jersey
+        </span>
+      </p>
+
+      <p class="publication-card__excerpt">
+        Mathematics courses taught at NJIT, including calculus,
+        differential equations, and other undergraduate mathematics
+        courses.
+      </p>
+
+      <div class="publication-card__links">
+        <a
+          class="publication-action"
+          href="{{ '/teaching/njit/' | relative_url }}"
+        >
+          <i class="fas fa-book-open"></i>
+          View Courses
+        </a>
+      </div>
+
+    </div>
+
+  </article>
+
+</div>

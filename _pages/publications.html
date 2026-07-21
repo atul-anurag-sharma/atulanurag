@@ -4,7 +4,212 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+
 {% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+
+<div class="publication-section-heading">
+  <span class="publication-section-heading__icon">
+    <i class="fas fa-book-open"></i>
+  </span>
+
+  <div>
+    <h2>Peer-Reviewed Journal Articles</h2>
+    <p>
+      Peer-reviewed journal articles published in scientific journals.
+    </p>
+  </div>
+</div>
+
+<div class="publication-card-grid">
+
+{% assign journals = site.publications | where: "pubtype", "journal" | sort: "date" | reverse %}
+
+{% for post in journals %}
+
+<article class="publication-card">
+
+  {% if post.image %}
+  <a
+    class="publication-card__image"
+    href="{{ post.url | relative_url }}"
+    aria-label="View {{ post.title | escape }}"
+  >
+    <img
+      src="{{ post.image | relative_url }}"
+      alt="{{ post.title | escape }}"
+    >
+  </a>
+  {% endif %}
+
+  <div class="publication-card__body">
+
+    <div class="publication-card__meta">
+      <span class="publication-card__type">
+        Journal Article
+      </span>
+
+      <span class="publication-card__year">
+        {{ post.date | date: "%Y" }}
+      </span>
+    </div>
+
+    <h3 class="publication-card__title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    <p class="publication-card__venue">
+      <i class="fas fa-book"></i>
+      {{ post.venue }}
+      {% if post.volume %}, Vol. {{ post.volume }}{% endif %}
+      {% if post.article %}, {{ post.article }}{% endif %}
+    </p>
+
+    {% if post.excerpt %}
+    <p class="publication-card__excerpt">
+      {{ post.excerpt | strip_html }}
+    </p>
+    {% endif %}
+
+    <div class="publication-card__links">
+
+      {% if post.paperurl %}
+      <a
+        class="publication-action"
+        href="{{ post.paperurl | relative_url }}"
+        target="_blank"
+        rel="noopener">
+        <i class="fas fa-file-pdf"></i>
+        PDF
+      </a>
+      {% endif %}
+
+      {% if post.arxiv %}
+      <a
+        class="publication-action"
+        href="{{ post.arxiv }}"
+        target="_blank"
+        rel="noopener">
+        <i class="ai ai-arxiv"></i>
+        arXiv
+      </a>
+      {% endif %}
+
+      {% if post.doi %}
+      <a
+        class="publication-action"
+        href="{{ post.doi }}"
+        target="_blank"
+        rel="noopener">
+        <i class="fas fa-link"></i>
+        DOI
+      </a>
+      {% endif %}
+
+      {% if post.bibtex %}
+      <a
+        class="publication-action"
+        href="{{ post.bibtex | relative_url }}"
+        target="_blank"
+        rel="noopener">
+        <i class="fas fa-quote-right"></i>
+        BibTeX
+      </a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</article>
+
+{% endfor %}
+
+</div>
+
+<div class="publication-section-heading publication-section-heading--dissertation">
+  <span class="publication-section-heading__icon">
+    <i class="fas fa-graduation-cap"></i>
+  </span>
+
+  <div>
+    <h2>Ph.D. Dissertation</h2>
+    <p>
+      Ph.D. dissertation completed at the New Jersey Institute of Technology.
+    </p>
+  </div>
+</div>
+
+{% assign dissertations = site.publications | where: "pubtype", "dissertation" %}
+
+{% for post in dissertations %}
+
+<article class="dissertation-card">
+
+  <div class="dissertation-card__mark">
+    <i class="fas fa-graduation-cap"></i>
+  </div>
+
+  <div class="dissertation-card__content">
+
+    <div class="dissertation-card__meta">
+      <span>{{ post.degree }}</span>
+      <span>{{ post.date | date: "%Y" }}</span>
+    </div>
+
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    <p class="dissertation-card__institution">
+      <i class="fas fa-university"></i>
+      {{ post.venue }}
+    </p>
+
+    {% if post.advisor %}
+    <p class="dissertation-card__advisor">
+      Dissertation Advisor:
+      <strong>{{ post.advisor }}</strong>
+    </p>
+    {% endif %}
+
+    {% if post.excerpt %}
+    <p class="dissertation-card__excerpt">
+      {{ post.excerpt | strip_html }}
+    </p>
+    {% endif %}
+
+    <div class="publication-card__links">
+
+      {% if post.paperurl %}
+      <a
+        class="publication-action"
+        href="{{ post.paperurl | relative_url }}"
+        target="_blank"
+        rel="noopener">
+        <i class="fas fa-file-pdf"></i>
+        Dissertation
+      </a>
+      {% endif %}
+
+      {% if post.repository %}
+      <a
+        class="publication-action"
+        href="{{ post.repository }}"
+        target="_blank"
+        rel="noopener">
+        <i class="fas fa-university"></i>
+        Repository
+      </a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</article>
+
 {% endfor %}

@@ -2,6 +2,7 @@
 title: "Point Vortex Dipole Scattering"
 collection: talks
 type: "Conference presentation"
+talktype: "Poster Presentation"
 permalink: /talks/siam-nnp-2023/
 venue: "SIAM-NNP-2023"
 date: 2023-10-20

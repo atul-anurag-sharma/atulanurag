@@ -4,7 +4,143 @@ title: "Talks"
 permalink: /talks/
 author_profile: false
 ---
+
 {% include base_path %}
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+
+<div class="publication-section-heading">
+  <span class="publication-section-heading__icon">
+    <i class="fas fa-microphone-alt"></i>
+  </span>
+
+  <div>
+    <h2>Conference and Seminar Presentations</h2>
+    <p>
+      Invited and contributed talks presented at conferences, seminars, workshops, and research meetings.
+    </p>
+  </div>
+</div>
+
+<div class="publication-card-grid">
+
+{% assign talks = site.talks | sort: "date" | reverse %}
+
+{% for post in talks %}
+
+<article class="publication-card {% unless post.image %}publication-card--no-image{% endunless %}">
+
+  {% if post.image %}
+  <a
+    class="publication-card__image"
+    href="{{ post.url | relative_url }}"
+    aria-label="View {{ post.title | escape }}"
+  >
+    <img
+      src="{{ post.image | relative_url }}"
+      alt="{{ post.title | escape }}"
+    >
+  </a>
+  {% endif %}
+
+  <div class="publication-card__body">
+
+    <div class="publication-card__meta">
+      <span class="publication-card__type">
+        {{ post.talktype | default: "Research Talk" }}
+      </span>
+
+      <span class="publication-card__year">
+        {{ post.date | date: "%Y" }}
+      </span>
+    </div>
+
+    <h3 class="publication-card__title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    <p class="publication-card__venue">
+
+      {% if post.venue %}
+      <span>
+        <i class="fas fa-university"></i>
+        {{ post.venue }}
+      </span>
+      {% endif %}
+
+      {% if post.location %}
+      <span class="publication-card__location">
+        <i class="fas fa-map-marker-alt"></i>
+        {{ post.location }}
+      </span>
+      {% endif %}
+
+    </p>
+
+    {% if post.excerpt %}
+    <p class="publication-card__excerpt">
+      {{ post.excerpt | strip_html }}
+    </p>
+    {% endif %}
+
+    <div class="publication-card__links">
+
+      {% if post.slides %}
+      <a class="publication-action"
+         href="{{ post.slides | relative_url }}"
+         target="_blank"
+         rel="noopener">
+        <i class="fas fa-file-powerpoint"></i>
+        Slides
+      </a>
+      {% endif %}
+
+      {% if post.paperurl %}
+      <a class="publication-action"
+         href="{{ post.paperurl | relative_url }}"
+         target="_blank"
+         rel="noopener">
+        <i class="fas fa-file-pdf"></i>
+        PDF
+      </a>
+      {% endif %}
+
+      {% if post.poster %}
+      <a class="publication-action"
+         href="{{ post.poster | relative_url }}"
+         target="_blank"
+         rel="noopener">
+        <i class="fas fa-image"></i>
+        Poster
+      </a>
+      {% endif %}
+
+      {% if post.video %}
+      <a class="publication-action"
+         href="{{ post.video }}"
+         target="_blank"
+         rel="noopener">
+        <i class="fas fa-video"></i>
+        Video
+      </a>
+      {% endif %}
+
+      {% if post.eventurl %}
+      <a class="publication-action"
+         href="{{ post.eventurl }}"
+         target="_blank"
+         rel="noopener">
+        <i class="fas fa-external-link-alt"></i>
+        Event
+      </a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</article>
+
 {% endfor %}
+
+</div>
