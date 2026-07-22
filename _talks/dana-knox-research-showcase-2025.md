@@ -14,7 +14,7 @@ We investigate the global phase-space structure of three interacting point vorti
 
 <div class="paper-links">
 
-  <a href="{{ page.poster | relative_url }}"
+  <a href="{{ '/files/DANA-KNOX-RESEARCH-SHOWCASE-2025.pdf' | relative_url }}"
      target="_blank"
      rel="noopener noreferrer">
     <i class="fas fa-image"></i>
