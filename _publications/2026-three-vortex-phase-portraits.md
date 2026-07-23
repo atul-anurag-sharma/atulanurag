@@ -12,12 +12,12 @@ article: "110428"
 paperurl: "/files/global-three-vortex.pdf"
 arxiv: "https://arxiv.org/abs/2504.16038"
 doi: "https://doi.org/10.1016/j.cnsns.2026.110428"
-image: "/images/publications/trilineardiagram.pdf"
+image: "/images/publications/trilineardiagram.png"
 ---
 
 <figure class="publication-figure">
   <img
-    src="/images/publications/trilineardiagram.pdf"
+    src="/images/publications/trilineardiagram.png"
     alt="Phase portraits and the bifurcation set for the three-vortex interaction system">
 </figure>
 
