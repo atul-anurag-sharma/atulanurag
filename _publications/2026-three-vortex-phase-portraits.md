@@ -15,14 +15,11 @@ doi: "https://doi.org/10.1016/j.cnsns.2026.110428"
 image: "/images/publications/trilineardiagram.pdf"
 ---
 
-{% if page.image %}
 <figure class="publication-figure">
   <img
-    src="{{ page.image | relative_url }}"
-    alt="Phase-space and bifurcation diagram for the three-vortex interaction system"
-    loading="lazy">
+    src="/images/publications/trilineardiagram.pdf"
+    alt="Phase portraits and the bifurcation set for the three-vortex interaction system">
 </figure>
-{% endif %}
 
 We derive a symplectic reduction of the evolution equations for a system of three interacting point vortices in the plane. We first introduce Jacobi coordinates, then perform Lie–Poisson reduction, and finally reparameterize the resulting symplectic leaves. This leads to an integrable system on a topologically nontrivial reduced phase-space surface.
 
