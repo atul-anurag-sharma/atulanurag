@@ -1,6 +1,6 @@
 ---
-title: "New Jersey Institute of Technology"
-permalink: /teaching/njit/
+title: "Lander University"
+permalink: /teaching/lander/
 layout: single
 author_profile: false
 ---
@@ -8,19 +8,20 @@ author_profile: false
 <div class="institution-header">
 
   <img
-    src="{{ '/images/logos/njit.png' | relative_url }}"
-    alt="New Jersey Institute of Technology"
+    src="{{ '/images/logos/lander.jpg' | relative_url }}"
+    alt="Lander University"
     class="institution-logo">
 
   <p class="institution-label">
-    Teaching Archive
+    Current Teaching
   </p>
 
   <p class="institution-description">
-    Undergraduate mathematics courses taught while serving as a
-    <strong>Graduate Teaching Assistant</strong>.
-    This archive contains selected syllabi, lecture notes,
-    homework assignments, and other course materials.
+    Undergraduate mathematics courses taught as
+    <strong>Teaching Assistant Professor of Mathematics</strong>
+    at Lander University. This page contains syllabi, lecture notes,
+    homework assignments, practice examinations, and other instructional
+    materials for my current courses.
   </p>
 
 </div>
@@ -31,36 +32,37 @@ author_profile: false
 
     <div class="course-card__top">
       <span class="course-card__icon">
-        <i class="fas fa-calculator"></i>
+        <i class="fas fa-chart-line"></i>
       </span>
 
       <span class="course-card__badge">
-        Teaching Archive
+        Current Course
       </span>
     </div>
 
     <p class="course-card__code">
-      MATH 111
+      MATH 121
     </p>
 
     <h2 class="course-card__title">
-      Calculus I
+      Mathematical Applications
     </h2>
 
     <p class="course-card__description">
-      Course materials covering limits, derivatives, applications of
-      differentiation, and introductory integration.
+      Functions, linear equations, systems of equations, linear programming,
+      quadratic functions, exponential and logarithmic models, and
+      mathematics of finance.
     </p>
 
     <div class="course-card__topics">
-      <span>Limits</span>
-      <span>Derivatives</span>
-      <span>Applications</span>
+      <span>Functions</span>
+      <span>Linear Programming</span>
+      <span>Finance</span>
     </div>
 
     <a
       class="course-card__button"
-      href="{{ '/teaching/math111/' | relative_url }}">
+      href="{{ '/teaching/math121/' | relative_url }}">
       View Course
       <i class="fas fa-arrow-right"></i>
     </a>
@@ -72,36 +74,37 @@ author_profile: false
 
     <div class="course-card__top">
       <span class="course-card__icon">
-        <i class="fas fa-square-root-alt"></i>
+        <i class="fas fa-chart-bar"></i>
       </span>
 
       <span class="course-card__badge">
-        Teaching Archive
+        Current Course
       </span>
     </div>
 
     <p class="course-card__code">
-      MATH 112
+      MATH 211
     </p>
 
     <h2 class="course-card__title">
-      Calculus II
+      Elementary Statistics
     </h2>
 
     <p class="course-card__description">
-      Course materials covering techniques of integration, sequences,
-      series, and applications of integral calculus.
+      Descriptive statistics, probability, sampling distributions,
+      confidence intervals, hypothesis testing, correlation,
+      and linear regression.
     </p>
 
     <div class="course-card__topics">
-      <span>Integration</span>
-      <span>Sequences</span>
-      <span>Series</span>
+      <span>Probability</span>
+      <span>Inference</span>
+      <span>Regression</span>
     </div>
 
     <a
       class="course-card__button"
-      href="{{ '/teaching/math112/' | relative_url }}">
+      href="{{ '/teaching/math211/' | relative_url }}">
       View Course
       <i class="fas fa-arrow-right"></i>
     </a>
@@ -113,6 +116,6 @@ author_profile: false
 <p class="teaching-back-link">
   <a href="{{ '/teaching/' | relative_url }}">
     <i class="fas fa-arrow-left"></i>
-    Back to Teaching
+    Back to Teaching Portfolio
   </a>
 </p>

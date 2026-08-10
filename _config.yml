@@ -1,56 +1,107 @@
+# ============================================================
 # Academic Pages configuration for Atul Anurag
+# ============================================================
+
 locale: "en-US"
 site_theme: "default"
+
 title: "Atul Anurag"
 title_separator: "-"
 name: &name "Atul Anurag"
-description: &description "Applied mathematician working in dynamical systems, Hamiltonian mechanics, bifurcation theory, and vortex dynamics."
+
+description: &description >-
+  Applied mathematician working in dynamical systems,
+  Hamiltonian mechanics, geometric reduction, bifurcation theory,
+  and vortex dynamics.
+
 url: "https://www.atulanurag.com"
 baseurl: ""
+
 repository: "atul-anurag-sharma/atulanurag"
+
+
+# ============================================================
+# Author Profile
+# ============================================================
 
 author:
   avatar: "profile.jpg"
   name: "Atul Anurag"
   pronouns: ""
-  bio: "Applied mathematician studying dynamical systems, Hamiltonian mechanics, bifurcation theory, and vortex dynamics."
-  location: "United States"
-  employer: "Ramapo College of New Jersey"
+
+  bio: >-
+    Applied mathematician studying dynamical systems,
+    Hamiltonian mechanics, geometric reduction,
+    bifurcation theory, and vortex dynamics.
+
+  location: "Greenwood, South Carolina"
+  employer: "Lander University"
+
   uri: "https://www.atulanurag.com"
-  email: "aanurag@ramapo.edu"
+  email: "aanurag@lander.edu"
+
   github: "atul-anurag-sharma"
   linkedin: "atul-anurag-290367166"
+
   googlescholar: "https://scholar.google.com/citations?hl=en&user=XUZQI3IAAAAJ"
   orcid: "https://orcid.org/0009-0003-6871-0703"
   researchgate: "Atul_Anurag"
 
+  cv: "/files/resume.pdf"
+
+
+# ============================================================
+# Publication Categories
+# ============================================================
+
 publication_category:
   manuscripts:
     title: "Journal Articles"
+
   theses:
     title: "Theses"
+
+
+# ============================================================
+# Included and Excluded Files
+# ============================================================
 
 include:
   - _pages
   - files
+
 exclude:
   - vendor
   - node_modules
   - README.md
   - MIGRATION_INSTRUCTIONS.md
 
+
+# ============================================================
+# Collections
+# ============================================================
+
 collections:
+
   teaching:
     output: true
     permalink: /:collection/:path/
+
   publications:
     output: true
     permalink: /:collection/:path/
+
   talks:
     output: true
     permalink: /:collection/:path/
 
+
+# ============================================================
+# Default Page Settings
+# ============================================================
+
 defaults:
+
   - scope:
       path: ""
       type: pages

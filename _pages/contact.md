@@ -6,57 +6,67 @@ layout: single
 
 <div class="contact-info">
 
+  <!-- Email -->
   <div class="contact-row">
     <div class="contact-icon">
       <i class="fas fa-envelope"></i>
     </div>
 
     <div class="contact-text">
-      <a href="mailto:aanurag@ramapo.edu">aanurag@ramapo.edu</a>
+      <a href="mailto:aanurag@lander.edu">aanurag@lander.edu</a>
     </div>
   </div>
 
+  <!-- Position -->
   <div class="contact-row">
     <div class="contact-icon">
       <i class="fas fa-user-tie"></i>
     </div>
 
     <div class="contact-text">
-      <strong>Visiting Assistant Professor of Mathematics</strong><br>
+      <strong>Teaching Assistant Professor of Mathematics</strong><br>
       Department of Mathematics<br>
-      Ramapo College of New Jersey
+      Lander University
     </div>
   </div>
 
+  <!-- Office -->
   <div class="contact-row">
     <div class="contact-icon">
       <i class="fas fa-location-dot"></i>
     </div>
 
     <div class="contact-text">
-      <strong>Office G-128H</strong><br>
-      Academic Building G<br>
-      Ramapo College of New Jersey<br>
-      505 Ramapo Valley Road<br>
-      Mahwah, NJ 07430
+
+      <strong>Office LL 315</strong><br>
+      Laura Lander Hall<br>
+      Department of Mathematics<br>
+      Lander University<br>
+      320 Stanley Avenue<br>
+      Greenwood, SC 29649
 
       <br><br>
 
-      <a href="https://www.google.com/maps/search/?api=1&query=Academic+Building+G+Ramapo+College+of+New+Jersey"
-         target="_blank">
+      <a href="https://www.google.com/maps/search/?api=1&query=Laura+Lander+Hall+Lander+University+Greenwood+SC"
+         target="_blank"
+         rel="noopener noreferrer">
         <i class="fas fa-location-arrow"></i>
-        Directions in Google Maps
+        Directions to Laura Lander Hall
       </a>
 
       &nbsp;&nbsp;|&nbsp;&nbsp;
 
-      <a href="https://www.ramapo.edu/map/" target="_blank">
+      <a href="https://www.lander.edu/about/campus-map.html"
+         target="_blank"
+         rel="noopener noreferrer">
         <i class="fas fa-map"></i>
         Campus Map
       </a>
+
     </div>
   </div>
 
+  <!-- Office Hours -->
   <div class="contact-row">
     <div class="contact-icon">
       <i class="fas fa-clock"></i>
@@ -64,7 +74,13 @@ layout: single
 
     <div class="contact-text">
       <strong>Office Hours</strong><br>
-      By appointment
+
+      Monday: 10:50 AM – 11:50 AM<br>
+      Tuesday: 9:50 AM – 10:50 AM<br>
+      Wednesday: 10:50 AM – 11:50 AM<br>
+      Thursday: 9:50 AM – 10:50 AM<br>
+
+      <em>Additional office hours are available by appointment.</em>
     </div>
   </div>
 
@@ -73,12 +89,13 @@ layout: single
 <div class="contact-map">
 
 <iframe
-src="https://www.google.com/maps?q=Academic+Building+G,+Ramapo+College+of+New+Jersey,+Mahwah,+NJ&output=embed"
-width="100%"
-height="450"
-style="border:0;"
-allowfullscreen
-loading="lazy">
+  src="https://www.google.com/maps?q=Laura+Lander+Hall,+Lander+University,+Greenwood,+SC&output=embed"
+  width="100%"
+  height="450"
+  style="border:0;"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 
 </div>

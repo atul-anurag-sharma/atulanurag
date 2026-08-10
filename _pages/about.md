@@ -8,25 +8,80 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of Mathematics at [Ramapo College of New Jersey](https://www.ramapo.edu). I earned my Ph.D. in Applied Mathematics from the New Jersey Institute of Technology in 2025, where I was advised by [Roy H. Goodman](https://roygoodman.net).
+I am a **Teaching Assistant Professor of Mathematics** at [Lander University](https://www.lander.edu). I earned my Ph.D. in Applied Mathematics from the **New Jersey Institute of Technology** in 2025 under the supervision of [Roy H. Goodman](https://roygoodman.net). Prior to joining Lander University, I served as a **Visiting Assistant Professor of Mathematics** at [Ramapo College of New Jersey](https://www.ramapo.edu).
 
-My research lies at the intersection of **dynamical systems, Hamiltonian mechanics, geometric reduction, bifurcation theory, and mathematical fluid dynamics**. I am particularly interested in the global phase-space geometry of point-vortex systems and in methods that preserve the geometric structure of Hamiltonian models.
+My research lies at the intersection of **dynamical systems, Hamiltonian mechanics, geometric mechanics, bifurcation theory, and mathematical fluid dynamics**. My work focuses on the qualitative behavior of nonlinear Hamiltonian systems, with particular emphasis on the global phase-space geometry of point-vortex dynamics, geometric reduction, bifurcation analysis, and structure-preserving analytical and computational methods.
 
 ## Research Interests
 
 - <i class="fas fa-wave-square"></i> Nonlinear Dynamics and Dynamical Systems
 - <i class="fas fa-atom"></i> Hamiltonian and Geometric Mechanics
-- <i class="fas fa-project-diagram"></i> Bifurcation Theory
-- <i class="fas fa-water"></i> Point-Vortex and Vortex-Dipole Dynamics
-- <i class="fas fa-cogs"></i> Structure-Preserving Reduction and Computation
+- <i class="fas fa-project-diagram"></i> Geometric Reduction and Symmetry
+- <i class="fas fa-water"></i> Point-Vortex Dynamics and Mathematical Fluid Dynamics
+- <i class="fas fa-code-branch"></i> Bifurcation Theory and Stability Analysis
+- <i class="fas fa-cogs"></i> Structure-Preserving Methods and Scientific Computing
 
 ## Education
 
-- 🎓 **Ph.D. in Applied Mathematics, 2025**  
-  New Jersey Institute of Technology
+<div class="education-grid">
 
-- 🎓 **M.Sc. in Applied Mathematics, 2017**  
- National Institute of Technology Warangal
+  <div class="education-card">
 
-- 🎓 **B.Sc. (Honors) in Mathematics, 2015**  
- Ramjas College, University of Delhi
+    <img
+      src="{{ '/images/logos/njit.png' | relative_url }}"
+      alt="New Jersey Institute of Technology"
+      class="education-logo">
+
+    <div class="education-content">
+      <h3>Ph.D. in Applied Mathematics</h3>
+      <p class="education-school">
+        New Jersey Institute of Technology
+      </p>
+      <p class="education-year">
+        2025
+      </p>
+    </div>
+
+  </div>
+
+
+  <div class="education-card">
+
+    <img
+      src="{{ '/images/logos/nit-warangal.jpeg' | relative_url }}"
+      alt="National Institute of Technology Warangal"
+      class="education-logo">
+
+    <div class="education-content">
+      <h3>M.Sc. in Applied Mathematics</h3>
+      <p class="education-school">
+        National Institute of Technology Warangal
+      </p>
+      <p class="education-year">
+        2017
+      </p>
+    </div>
+
+  </div>
+
+
+  <div class="education-card">
+
+    <img
+      src="{{ '/images/logos/ramjas.jpeg' | relative_url }}"
+      alt="Ramjas College"
+      class="education-logo">
+
+    <div class="education-content">
+      <h3>B.Sc. (Honors) in Mathematics</h3>
+      <p class="education-school">
+        Ramjas College, University of Delhi
+      </p>
+      <p class="education-year">
+        2015
+      </p>
+    </div>
+
+  </div>
+
+</div>
