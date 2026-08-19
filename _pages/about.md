@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Teaching Assistant Professor of Mathematics** at [Lander University](https://www.lander.edu). I earned my Ph.D. in Applied Mathematics from the **New Jersey Institute of Technology** in 2025 under the supervision of [Roy H. Goodman](https://roygoodman.net). Prior to joining Lander University, I served as a **Visiting Assistant Professor of Mathematics** at [Ramapo College of New Jersey](https://www.ramapo.edu).
-
-My research lies at the intersection of **dynamical systems, Hamiltonian mechanics, geometric mechanics, bifurcation theory, and mathematical fluid dynamics**. My work focuses on the qualitative behavior of nonlinear Hamiltonian systems, with particular emphasis on the global phase-space geometry of point-vortex dynamics, geometric reduction, bifurcation analysis, and structure-preserving analytical and computational methods.
+I am a Teaching Assistant Professor of Mathematics at [Lander University](https://www.lander.edu). I earned my Ph.D. in Applied Mathematics from the [New Jersey Institute of Technology](https://www.njit.edu) in 2025 under the supervision of [Roy H. Goodman](https://roygoodman.net). Prior to joining Lander University, I served as a Visiting Assistant Professor of Mathematics at [Ramapo College of New Jersey](https://www.ramapo.edu).
+My research lies at the intersection of dynamical systems, Hamiltonian mechanics, geometric mechanics, bifurcation theory, and mathematical fluid dynamics. My work focuses on the qualitative behavior of nonlinear Hamiltonian systems, with particular emphasis on the global phase-space geometry of point-vortex dynamics, geometric reduction, bifurcation analysis, and structure-preserving analytical and computational methods.
 
 ## Research Interests
 
