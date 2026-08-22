@@ -78,7 +78,7 @@ layout: single
       Monday: 10:50 AM – 11:50 AM<br>
       Tuesday: 9:50 AM – 10:50 AM<br>
       Wednesday: 10:50 AM – 11:50 AM<br>
-      Thursday: 9:50 AM – 10:50 AM<br>
+      Thursday: 9:30 AM – 10:30 AM<br>
 
       <em>Additional office hours are available by appointment.</em>
     </div>
