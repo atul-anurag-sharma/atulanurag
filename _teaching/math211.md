@@ -43,7 +43,7 @@ author_profile: false
   </div>
 </div>
 
-<p class="course-back-link">
+<p class="course-back-link" style="margin-top: 2.5rem;">
   <a href="{{ '/teaching/lander/' | relative_url }}">
     ← Back to Lander Courses
   </a>
