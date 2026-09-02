@@ -6,84 +6,43 @@ author_profile: false
 ---
 
 <p class="course-meta">
-New Jersey Institute of Technology · 2019–2023
+  New Jersey Institute of Technology · 2019–2023
 </p>
 
 <p>
-Selected lecture notes, problem sets, and course materials for
-MATH 112: Calculus II.
+  Selected lecture notes, problem sets, and course materials for
+  <strong>MATH 112: Calculus II</strong>.
 </p>
 
-<div class="teaching-weeks">
-
-  <div class="teaching-week">
-    <h2>Course Materials</h2>
-
-    <div class="teaching-links">
-      <a href="/files/teaching/njit/math112/CalculusII.pdf">
-        Calculus II Notes
-      </a>
-    </div>
+<!-- Course Notes -->
+<div class="teaching-week" style="margin-top: 2rem; margin-bottom: 1.5rem;">
+  <h3>Course Materials</h3>
+  <div class="teaching-links">
+    <a href="{{ '/files/teaching/njit/math112/CalculusII.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Calculus II Notes
+    </a>
   </div>
-
-  <div class="teaching-week">
-    <h2>Problem Sets 1–4</h2>
-
-    <div class="teaching-links">
-      <a href="/files/teaching/njit/math112/Problem-Set-I.pdf">
-        Problem Set I
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-II.pdf">
-        Problem Set II
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-III.pdf">
-        Problem Set III
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-IV.pdf">
-        Problem Set IV
-      </a>
-    </div>
-  </div>
-
-  <div class="teaching-week">
-    <h2>Problem Sets 5–8</h2>
-
-    <div class="teaching-links">
-      <a href="/files/teaching/njit/math112/Problem-Set-V.pdf">
-        Problem Set V
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-VI.pdf">
-        Problem Set VI
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-VII.pdf">
-        Problem Set VII
-      </a>
-
-      <a href="/files/teaching/njit/math112/Problem-Set-VIII.pdf">
-        Problem Set VIII
-      </a>
-    </div>
-  </div>
-
-  <div class="teaching-week">
-    <h2>Problem Set 9</h2>
-
-    <div class="teaching-links">
-      <a href="/files/teaching/njit/math112/Problem-Set-IX.pdf">
-        Problem Set IX
-      </a>
-    </div>
-  </div>
-
 </div>
 
-<p class="course-back-link">
+<!-- Problem Sets (I–IX) -->
+<div class="teaching-week" style="margin-bottom: 2rem;">
+  <h3>Problem Sets</h3>
+  <div class="teaching-links">
+    {% assign roman_numerals = "I,II,III,IV,V,VI,VII,VIII,IX" | split: "," %}
+    {% for r in roman_numerals %}
+    <a href="{{ '/files/teaching/njit/math112/Problem-Set-' | append: r | append: '.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Problem Set {{ r }}
+    </a>
+    {% endfor %}
+  </div>
+</div>
+
+<p class="teaching-back-link" style="margin-top: 2.75rem;">
   <a href="{{ '/teaching/njit/' | relative_url }}">
-    ← Back to NJIT Courses
+    <i class="fas fa-arrow-left"></i> Back to NJIT Courses
   </a>
 </p>

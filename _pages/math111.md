@@ -6,29 +6,27 @@ author_profile: false
 ---
 
 <p class="course-meta">
-New Jersey Institute of Technology · 2019–2023
+  New Jersey Institute of Technology · 2019–2023
 </p>
 
 <p>
-Selected course materials for MATH 111: Calculus I.
+  Selected course materials for <strong>MATH 111: Calculus I</strong>.
 </p>
 
-<div class="teaching-weeks">
-
-  <div class="teaching-week">
-    <h2>Course Materials</h2>
-
-    <div class="teaching-links">
-      <a href="/files/teaching/njit/math111/MATH-111.pdf">
-        Calculus I Materials
-      </a>
-    </div>
+<!-- Course Documents -->
+<div class="teaching-week" style="margin-top: 2rem; margin-bottom: 2rem;">
+  <h3>Course Materials</h3>
+  <div class="teaching-links">
+    <a href="{{ '/files/teaching/njit/math111/MATH-111.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Calculus I Materials
+    </a>
   </div>
-
 </div>
 
-<p class="course-back-link">
+<p class="teaching-back-link" style="margin-top: 2.75rem;">
   <a href="{{ '/teaching/njit/' | relative_url }}">
-    ← Back to NJIT Courses
+    <i class="fas fa-arrow-left"></i> Back to NJIT Courses
   </a>
 </p>

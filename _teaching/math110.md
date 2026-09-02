@@ -17,72 +17,52 @@ author_profile: false
   <strong>MATH 110: Precalculus</strong>.
 </p>
 
-<div class="teaching-weeks">
-
-  <!-- Course Materials -->
-  <div class="teaching-week">
-
-    <h2>Course Materials</h2>
-
-    <div class="teaching-links">
-
-      <a href="{{ '/files/teaching/ramapo/math110/math_110_summer_2026_syllabus.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Syllabus
-      </a>
-
-    </div>
-
+<!-- Course Documents -->
+<div class="teaching-week" style="margin-top: 2rem; margin-bottom: 1.5rem;">
+  <h3>Course Materials</h3>
+  <div class="teaching-links">
+    <a href="{{ '/files/teaching/ramapo/math110/math_110_summer_2026_syllabus.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Syllabus
+    </a>
   </div>
-
-  <!-- Lecture Notes -->
-  <div class="teaching-week">
-
-    <h2>Lecture Notes</h2>
-
-    <div class="teaching-links">
-
-      <a href="{{ '/files/teaching/ramapo/math110/lecture1&2.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Lecture 1 & 2
-      </a>
-
-      <a href="{{ '/files/teaching/ramapo/math110/lecture3&4.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Lecture 3 & 4
-      </a>
-
-      <a href="{{ '/files/teaching/ramapo/math110/lecture5.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Lecture 5
-      </a>
-
-      <a href="{{ '/files/teaching/ramapo/math110/lecture6&7.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Lecture 6 & 7
-      </a>
-
-      <a href="{{ '/files/teaching/ramapo/math110/lecture8&9.pdf' | relative_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-        Lecture 8 & 9
-      </a>
-
-
-
-    </div>
-
-  </div>
-
 </div>
 
-<p class="course-back-link">
+<!-- Lecture Notes -->
+<div class="teaching-week" style="margin-bottom: 2rem;">
+  <h3>Lecture Notes</h3>
+  <div class="teaching-links">
+    <a href="{{ '/files/teaching/ramapo/math110/lecture1&2.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Lecture 1 & 2
+    </a>
+    <a href="{{ '/files/teaching/ramapo/math110/lecture3&4.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Lecture 3 & 4
+    </a>
+    <a href="{{ '/files/teaching/ramapo/math110/lecture5.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Lecture 5
+    </a>
+    <a href="{{ '/files/teaching/ramapo/math110/lecture6&7.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Lecture 6 & 7
+    </a>
+    <a href="{{ '/files/teaching/ramapo/math110/lecture8&9.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Lecture 8 & 9
+    </a>
+  </div>
+</div>
+
+<p class="teaching-back-link" style="margin-top: 2.75rem;">
   <a href="{{ '/teaching/ramapo/' | relative_url }}">
-    ← Back to Ramapo Courses
+    <i class="fas fa-arrow-left"></i> Back to Ramapo Courses
   </a>
 </p>
